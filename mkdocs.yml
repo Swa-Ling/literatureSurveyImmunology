@@ -12,7 +12,7 @@ plugins:
 - search
 repo_name: VPE/LiteratureSurvey
 repo_url: https://github.com/VirtualPatientEngine/literatureSurvey
-site_name: Literature Survey (VPE)
+site_name: Literature Survey for Swathi
 theme:
   custom_dir: overrides/
   features:
