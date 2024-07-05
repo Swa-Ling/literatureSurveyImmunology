@@ -15,10 +15,22 @@ FIELDS = 'paperId,url,authors,journal,title,'
 FIELDS += 'publicationTypes,publicationDate,citationCount,'
 FIELDS += 'publicationVenue,externalIds,abstract'
 
+def find_num_max_negative_articles(dic):
+    """
+    Find the maximum number of negative articles
+    """
+    num_articles = 0
+    for topic in dic:
+        if num_articles < len(dic[topic].paper_ids['positive']):
+            num_articles = len(dic[topic].paper_ids['positive'])
+    return num_articles
+
 def add_negative_articles(topic_obj, dic, max_num_articles=10):
     """
     Add the negative articles to the topic object
     """
+    max_num_articles = find_num_max_negative_articles(dic)
+    print (f'Maximum number of negative articles: {max_num_articles}')
     if 'negative' not in topic_obj.paper_ids:
         topic_obj.paper_ids['negative'] = {}
     num_topics = len(dic) - 1
