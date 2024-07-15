@@ -11,7 +11,7 @@ hide:
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2024-07-08 06:02:20 UTC</i>
+  <i class="footer">This page was last updated on 2024-07-15 06:02:09 UTC</i>
   </p>
   
   <div class="note info" onclick="startIntro()">
@@ -103,28 +103,40 @@ hide:
           <td>12</td>
         </tr>
     
-        <tr id="None">
+        <tr id="With the advent of effective immunotherapies to battle cancers and diseases, an obstacle in recovery has become the potential side effects, specifically cytokine release syndrome (CRS). As there is little quantitative understanding of risks for developing CRS and the degree of its severity, this work explored a model-based approach to produce a library of in silico patients through sensitivity analysis of cytokine interaction parameters and a Monte Carlo sampling. The objective of producing the in silico patients was to correlate a known grading system of cytokine release syndrome severity and thus design a new formula for grading CRS. Using our CRS grading system as the foundation, this work produced not only a formula which related the in silico patient data to the different grades, but we effectively demonstrated a selective approach to reduce the grade of CRS with sequential cytokine inhibition targets. We achieved the reduction of grades by applying the insight from the sensitivity analysis, beginning with the most sensitive targets. Cytokines IL-1, IL-8, TNF-α, INF-γ, IL-6, IL-2, IL-4, IL-10, and IL-12 were in turn the best targets for inhibition to alleviate CRS. Using this approach, patient cytokine time profiles in real-time can be related to the CRS grading system and if the grade is severe enough, action can be taken earlier during the treatment to prevent potentially life-threatening symptoms. What’s more, the identified inhibition sequence of the 9 cytokines provides guidance for clinical intervention of CRS.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/a922ce01d2fadcad1bf7cd4bbf91cb8effadd3d4" target='_blank'>Recent advancement in targeted therapy and role of emerging technologies to treat cancer</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/cdbed3634ba13aed3fc2c3d954812638cfe069fa" target='_blank'>A Model-Based Investigation of Cytokine Dynamics in Immunotherapies</a></td>
           <td>
-            Shrikant Barot, Henis Patel, Anjali Yadav, Igor Ban
+            B. Hopkins, Yiming Pan, M. Tucker, Z. Huang
           </td>
-          <td>2023-10-07</td>
-          <td>Medical Oncology</td>
-          <td>3</td>
-          <td>3</td>
+          <td>2018-12-30</td>
+          <td>Processes</td>
+          <td>5</td>
+          <td>17</td>
         </tr>
     
-        <tr id="Since the first introduction of Artificial Intelligence (AI) in 1956, its aim was to tackle problems with human intelligence, but with greater speed and accuracy. AI has been inspired a lot by natu...">
+        <tr id="AVID200 is a computationally-designed, avidity-enhanced, receptor ectodomain-based trap that binds and neutralizes TGF-beta 1 and 3 with low pM potency. Of the three TGF-beta isoforms, blockade of TGF-beta 2 has been shown to promote cancer metastasis. Therefore, AVID200 is designed to inhibit TGF-beta 1 and 3 only. TGF-beta is a strongly immunosuppressive molecule that, when expressed by cancers, mediates escape from immune surveillance. Increased TGF-beta ligand promotes cancer progression by suppressing anti-tumor immunity, predominantly by suppressing recruitment and activation of anti-tumor T cells. Consequently, TGF-beta is an important therapeutic target in cancer.AVID200 immunotherapy blocks the capacity of TGF-beta 1 and 3 ligands to interact with their receptors. That blockage induces T cell infiltration into tumors, thereby promoting a "T cell-inflamed" tumor state. Multiple trap formats with differing in vitro blocking potency, biophysical traits, and circulating half-lives in rodents have been designed, synthesized, and tested. On the basis of favorable characteristics, the AVID200 molecule was selected for in vivo assessment of efficacy in inhibiting growth of syngeneic 4T1 triple negative breast cancer (TNBC) homografts in immunocompetent host mice. In addition, CD4+ and CD8+ T cells isolated from draining lymph nodes of 4T1 tumor-bearing mice, treated and untreated with AVID200 and other candidate TGF-beta traps, were assessed for activities important in anti-tumor immune activity. We report that AVID200 immunotherapy decreased T-cell apoptosis, stimulated T-cell proliferation in response to tumor cell lysate-loaded dendritic cells, and enhanced the capacity of T-cells to specifically recognize and kill 4T1 tumor cells in ex vivo 2D cultures. The effect of combining AVID200 with immune checkpoint inhibitors in the treatment of syngeneic homografts in immune-competent mice is being assessed. AVID200 is a promising new immunotherapy to selectively inhibit the TGF-beta 1 and 3 isoforms, thereby enhancing desirable anti-tumor immunity while avoiding the tumor-promoting effects resulting from TGF-beta 2 neutralization. Citation Format: Maureen D. O9Connor-McCourt, Anne E. Lenferink, John Zwaagstra, Traian Sulea, Catherine Collins, Renu Singh, Yves Durocher, Christiane Cantin, James Koropatnick. AVID200: a novel computationally-designed TGF beta trap promoting anti-tumor T cell activity [abstract]. In: Proceedings of the American Association for Cancer Research Annual Meeting 2017; 2017 Apr 1-5; Washington, DC. Philadelphia (PA): AACR; Cancer Res 2017;77(13 Suppl):Abstract nr 4688. doi:10.1158/1538-7445.AM2017-4688">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/51351e802ae63deeeda3a8c35429fcf87289ea58" target='_blank'>Artificial intelligence and immunotherapy</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/5a7a86dc46d7e62cde2ec9f9ef4f52c6b5670c7e" target='_blank'>Abstract 4688: AVID200: a novel computationally-designed TGF beta trap promoting anti-tumor T cell activity</a></td>
           <td>
-            Parnian Jabbari, N. Rezaei
+            M. O’Connor-McCourt, A. Lenferink, J. Zwaagstra, T. Sulea, C. Collins, Renu Singh, Y. Durocher, C. Cantin, J. Koropatnick
           </td>
-          <td>2019-06-03</td>
-          <td>Expert Review of Clinical Immunology</td>
+          <td>2017-07-01</td>
+          <td>Cancer Research</td>
+          <td>5</td>
+          <td>48</td>
+        </tr>
+    
+        <tr id="The immune system is a complex and dynamic network that plays a crucial role in maintaining health and combating infections. Developing an accurate and comprehensive digital twin of the immune system requires a solid foundation that incorporates the essential cellular components and their interactions. In this study, we present the first blueprint for an immune system digital twin, consisting of a comprehensive map and a simulatable logical model. This blueprint integrates 27 innate and adaptive immune cells, 31 cytokines and immunoglobulins, and 9 different pathogens, providing a foundation for developing a multi-scale model. We validate the cellular-level logical model against available experimental data and demonstrate its potential in characterizing system-wide immune responses to various coinfections. By making the model available in easy-to-use formats directly in Cell Collective and as an SBGN map, it can be easily further expanded by the community. This cellular-level blueprint represents a significant step towards the development of general-purpose immune digital twins, with far-reaching implications for the future of digital twin technology in life sciences and healthcare, advancing patient care and accelerating the transition toward precision medicine.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/ef5c82be53a50dd7e052f25fdc06b999abc19b7e" target='_blank'>Immune Digital Twin Blueprint: A Comprehensive Simulatable Model of the Human Immune System</a></td>
+          <td>
+            Robert Moore, Rada Amin, S. Aghamiri, Akram Mohammed, Alyssa La Fleur, B. L. Puniya, T. Helikar
+          </td>
+          <td>2020-03-12</td>
+          <td>bioRxiv</td>
+          <td>3</td>
           <td>22</td>
-          <td>88</td>
         </tr>
     
   </tbody>
