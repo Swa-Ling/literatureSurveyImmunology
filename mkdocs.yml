@@ -2,7 +2,6 @@ extra_css:
 - custom.css
 nav:
 - Home: index.md
-- Time-series forecasting: Time-series forecasting.md
 - Immunology: Immunology.md
 plugins:
 - mkdocstrings:
