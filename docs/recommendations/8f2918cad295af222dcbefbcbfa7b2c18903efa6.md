@@ -11,7 +11,7 @@ hide:
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2024-09-02 06:02:30 UTC</i>
+  <i class="footer">This page was last updated on 2024-09-04 19:17:13 UTC</i>
   </p>
   
   <div class="note info" onclick="startIntro()">
@@ -41,19 +41,6 @@ hide:
     </tr>
   </thead>
   <tbody>
-    
-        <tr id="
- Bispecific T cell engaging antibodies (TEAs) with one arm targeting a cancer antigen and another arm binding to CD3 have demonstrated impressive efficacy in multiple clinical studies. However, establishing a safety/efficacy balance remains challenging. For instance, some TEAs have severe safety issues. Additionally, not all patients or all cancer cells of one patient respond equally to TEAs. Here, we developed a next-generation bispecific TEA with better safety/efficacy balance and expanded mechanisms of action. Using the computer aided antibody design strategy, we replaced heavy chain complementarity-determining regions (HCDRs) in one Rituximab arm with HCDRs from a CD3 antibody and generated a novel CD20/CD3 bispecific antibody. After series of computer aided sequence optimization, the lead molecule, GB261, showed great safety/efficacy balance both in vitro and in animal studies. GB261 exhibited high affinity to CD20 and ultra-low affinity to CD3. It showed comparable T cell activation and reduced cytokine secretion compared to a benchmark antibody (BM). GB261-induced ADCC and CDC only killed CD20+ cells but not CD3+ cells. It exhibited better RRCL cell killing than the BM in a PBMC engrafted, therapeutic treatment mouse model and good safety in cynomolgus monkeys. Thus, GB261 is a promising novel TEA against CD20+ cancers.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/6a4287b3c6b52151d5e4f46d99cc677e2a442685" target='_blank'>A computationally designed Rituximab/CD3 T cell engager targeting CD20+ cancers with multiple mechanisms of action</a></td>
-          <td>
-            Cai Wenyan, Jianbo Dong, Sachith Gallolu Kankanamalage, Allison Titong, Shi Jiadong, Zhejun Jia, Bo Wang, Cai Huang, Jing Zhang, Lin Jun, Z KanSteven, Zhou Joe, Yue Liu
-          </td>
-          <td>2021-03-17</td>
-          <td></td>
-          <td>0</td>
-          <td>12</td>
-        </tr>
     
         <tr id="Bispecific T-cell engaging therapies harness the immune system to elicit an effective anticancer response. Modulating the immune activation avoiding potential adverse effects such as cytokine release syndrome (CRS) is a critical aspect to realizing the full potential of this therapy. The use of suitable exogenous intervention strategies to mitigate the CRS risk without compromising the antitumoral capability of bispecific antibody treatment is crucial. To this end, computational approaches can be instrumental to systematically exploring the effects of combining bispecific antibodies with CRS intervention strategies. Here, we employ a logical model to describe the action of bispecific antibodies and the complex interplay of various immune system components and use it to perform simulation experiments to improve the understanding of the factors affecting CRS. We performed a sensitivity analysis to identify the comedications that could ameliorate CRS without impairing tumor clearance. Our results agree with publicly available experimental data suggesting anti-TNF and anti-IL6 as possible co-treatments. Furthermore, we suggest anti-IFNγ as a suitable candidate for clinical studies.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
@@ -103,30 +90,6 @@ hide:
           <td>12</td>
         </tr>
     
-        <tr id="None">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/a922ce01d2fadcad1bf7cd4bbf91cb8effadd3d4" target='_blank'>Recent advancement in targeted therapy and role of emerging technologies to treat cancer</a></td>
-          <td>
-            Shrikant Barot, Henis Patel, Anjali Yadav, Igor Ban
-          </td>
-          <td>2023-10-07</td>
-          <td>Medical Oncology</td>
-          <td>3</td>
-          <td>3</td>
-        </tr>
-    
-        <tr id="Mucosal-associated invariant T (MAIT) cells are a group of unconventional T cells that mainly recognize bacterial vitamin B metabolites presented on MHC-related protein 1 (MR1). MAIT cells have been shown to play an important role in controlling bacterial infection and in responding to viral infections. Furthermore, MAIT cells have been implicated in different chronic inflammatory diseases such as inflammatory bowel disease and multiple sclerosis. Despite their involvement in different physiological and pathological processes, a deeper understanding of MAIT cells is still lacking. Arguably, this can be attributed to the difficulty of quantifying and measuring MAIT cells in different biological samples which is commonly done using flow cytometry-based methods and single-cell-based RNA sequencing techniques. These methods mostly require fresh samples which are difficult to obtain, especially from tissues, have low to medium throughput, and are costly and labor-intensive. To address these limitations, we developed sequence-to-MAIT (Seq2MAIT) which is a transformer-based deep neural network capable of identifying MAIT cells in bulk TCR-sequencing datasets, enabling the quantification of MAIT cells from any biological materials where human DNA is available. Benchmarking Seq2MAIT across different test datasets showed an average area-under-the-receiver-operator-curve (AU[ROC]) >0.80. In conclusion, Seq2MAIT is a novel, economical, and scalable method for identifying and quantifying MAIT cells in virtually any biological sample.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/7407ca7605f24e11c1fc4335ba413bb4681f30b9" target='_blank'>Seq2MAIT: A Novel Deep Learning Framework for Identifying Mucosal Associated Invariant T (MAIT) Cells</a></td>
-          <td>
-            Hesham ElAbd, Rachel Byron, Steven Woodhouse, Brittney Robinett, Joe Sulc, A. Franke, Mitchell Pesesky, Wenyu Zhou, Haiyin Chen-Harris, Bryan Howie, Ruth Taniguchi, Harlan S. Robins
-          </td>
-          <td>2024-03-14</td>
-          <td>bioRxiv</td>
-          <td>1</td>
-          <td>11</td>
-        </tr>
-    
         <tr id="The pathogenesis of COVID-19 is complicated by immune dysfunction. The impact of immune-based therapy in COVID-19 patients has been well documented, with some notable studies on the use of anti-cytokine medicines. However, the complexity of disease phenotypes, patient heterogeneity and the varying quality of evidence from immunotherapy studies provide problems in clinical decision-making. This review seeks to aid therapeutic decision-making by giving an overview of the immunological responses against COVID-19 disease that may contribute to the severity of the disease. We have extensively discussed theranostic methods for COVID-19 detection. With advancements in technology, bioinformatics has taken studies to a higher level. The paper also discusses the application of bioinformatics and machine learning tools for the diagnosis, vaccine design and drug repurposing against SARS-CoV-2.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
           <td><a href="https://www.semanticscholar.org/paper/acd4caabbb311a44234678a44df1c14dec251114" target='_blank'>Probing the Immune System Dynamics of the COVID-19 Disease for Vaccine Designing and Drug Repurposing Using Bioinformatics Tools</a></td>
@@ -148,7 +111,7 @@ hide:
           <td>2019-06-03</td>
           <td>Expert Review of Clinical Immunology</td>
           <td>22</td>
-          <td>89</td>
+          <td>90</td>
         </tr>
     
   </tbody>
