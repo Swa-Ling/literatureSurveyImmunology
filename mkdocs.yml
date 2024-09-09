@@ -3,6 +3,7 @@ extra_css:
 nav:
 - Home: index.md
 - Immunology: Immunology.md
+- Oncology: Oncology.md
 plugins:
 - mkdocstrings:
     paths:
