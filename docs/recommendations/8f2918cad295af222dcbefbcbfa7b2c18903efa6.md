@@ -11,7 +11,7 @@ hide:
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2024-10-14 06:13:50 UTC</i>
+  <i class="footer">This page was last updated on 2024-10-21 06:13:58 UTC</i>
   </p>
   
   <div class="note info" onclick="startIntro()">
@@ -103,6 +103,18 @@ hide:
           <td>12</td>
         </tr>
     
+        <tr id="None">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/a922ce01d2fadcad1bf7cd4bbf91cb8effadd3d4" target='_blank'>Recent advancement in targeted therapy and role of emerging technologies to treat cancer</a></td>
+          <td>
+            Shrikant Barot, Henis Patel, Anjali Yadav, Igor Ban
+          </td>
+          <td>2023-10-07</td>
+          <td>Medical Oncology</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+    
         <tr id="The pathogenesis of COVID-19 is complicated by immune dysfunction. The impact of immune-based therapy in COVID-19 patients has been well documented, with some notable studies on the use of anti-cytokine medicines. However, the complexity of disease phenotypes, patient heterogeneity and the varying quality of evidence from immunotherapy studies provide problems in clinical decision-making. This review seeks to aid therapeutic decision-making by giving an overview of the immunological responses against COVID-19 disease that may contribute to the severity of the disease. We have extensively discussed theranostic methods for COVID-19 detection. With advancements in technology, bioinformatics has taken studies to a higher level. The paper also discusses the application of bioinformatics and machine learning tools for the diagnosis, vaccine design and drug repurposing against SARS-CoV-2.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
           <td><a href="https://www.semanticscholar.org/paper/acd4caabbb311a44234678a44df1c14dec251114" target='_blank'>Probing the Immune System Dynamics of the COVID-19 Disease for Vaccine Designing and Drug Repurposing Using Bioinformatics Tools</a></td>
@@ -112,19 +124,7 @@ hide:
           <td>2022-04-28</td>
           <td>Immuno</td>
           <td>2</td>
-          <td>41</td>
-        </tr>
-    
-        <tr id="The innate immune response is vital for the success of prophylactic vaccines and immunotherapies. Control of signaling in innate immune pathways can improve prophylactic vaccines by inhibiting unfavorable systemic inflammation and immunotherapies by enhancing immune stimulation. In this work, we developed a machine learning-enabled active learning pipeline to guide in vitro experimental screening and discovery of small molecule immunomodulators that improve immune responses by altering the signaling activity of innate immune responses stimulated by traditional pattern recognition receptor agonists. Molecules were tested by in vitro high throughput screening (HTS) where we measured modulation of the nuclear factor κ-light-chain-enhancer of activated B-cells (NF-κB) and the interferon regulatory factors (IRF) pathways. These data were used to train data-driven predictive models linking molecular structure to modulation of the NF-κB and IRF responses using deep representational learning, Gaussian process regression, and Bayesian optimization. By interleaving successive rounds of model training and in vitro HTS, we performed an active learning-guided traversal of a 139,998 molecule library. After sampling only ∼2% of the library, we discovered viable molecules with unprecedented immunomodulatory capacity, including those capable of suppressing NF-κB activity by up to 15-fold, elevating NF-κB activity by up to 5-fold, and elevating IRF activity by up to 6-fold. We extracted chemical design rules identifying particular chemical fragments as principal drivers of specific immunomodulation behaviors. We validated the immunomodulatory effect of a subset of our top candidates by measuring cytokine release profiles. Of these, one molecule induced a 3-fold enhancement in IFN-β production when delivered with a cyclic di-nucleotide stimulator of interferon genes (STING) agonist. In sum, our machine learning-enabled screening approach presents an efficient immunomodulator discovery pipeline that has furnished a library of novel small molecules with a strong capacity to enhance or suppress innate immune signaling pathways to shape and improve prophylactic vaccination and immunotherapies.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/856fac1fabe015a9be15d183af164343b060e203" target='_blank'>Data-driven discovery of innate immunomodulators via machine learning-guided high throughput screening</a></td>
-          <td>
-            Yifeng Tang, Jeremiah Y Kim, C. Ip, A. Bahmani, Qing Chen, M. Rosenberger, Aaron P. Esser‐Kahn, Andrew L. Ferguson
-          </td>
-          <td>2023-06-28</td>
-          <td>Chemical Science</td>
-          <td>0</td>
-          <td>28</td>
+          <td>42</td>
         </tr>
     
         <tr id="Since the first introduction of Artificial Intelligence (AI) in 1956, its aim was to tackle problems with human intelligence, but with greater speed and accuracy. AI has been inspired a lot by natu...">
