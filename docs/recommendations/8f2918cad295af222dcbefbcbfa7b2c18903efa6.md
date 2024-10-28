@@ -11,7 +11,7 @@ hide:
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2024-10-21 06:13:58 UTC</i>
+  <i class="footer">This page was last updated on 2024-10-28 06:14:06 UTC</i>
   </p>
   
   <div class="note info" onclick="startIntro()">
@@ -101,30 +101,6 @@ hide:
           <td>Frontiers in Immunology</td>
           <td>2</td>
           <td>12</td>
-        </tr>
-    
-        <tr id="None">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/a922ce01d2fadcad1bf7cd4bbf91cb8effadd3d4" target='_blank'>Recent advancement in targeted therapy and role of emerging technologies to treat cancer</a></td>
-          <td>
-            Shrikant Barot, Henis Patel, Anjali Yadav, Igor Ban
-          </td>
-          <td>2023-10-07</td>
-          <td>Medical Oncology</td>
-          <td>3</td>
-          <td>3</td>
-        </tr>
-    
-        <tr id="The pathogenesis of COVID-19 is complicated by immune dysfunction. The impact of immune-based therapy in COVID-19 patients has been well documented, with some notable studies on the use of anti-cytokine medicines. However, the complexity of disease phenotypes, patient heterogeneity and the varying quality of evidence from immunotherapy studies provide problems in clinical decision-making. This review seeks to aid therapeutic decision-making by giving an overview of the immunological responses against COVID-19 disease that may contribute to the severity of the disease. We have extensively discussed theranostic methods for COVID-19 detection. With advancements in technology, bioinformatics has taken studies to a higher level. The paper also discusses the application of bioinformatics and machine learning tools for the diagnosis, vaccine design and drug repurposing against SARS-CoV-2.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/acd4caabbb311a44234678a44df1c14dec251114" target='_blank'>Probing the Immune System Dynamics of the COVID-19 Disease for Vaccine Designing and Drug Repurposing Using Bioinformatics Tools</a></td>
-          <td>
-            Deepshikha Yadav, S. Agarwal, Pranav Pancham, Divya Jindal, V. Agarwal, Premshankar Kumar Dubey, S. Jha, Shalini Mani, Rachana, A. Dey, N. Jha, K. Kesari, Manisha Singh
-          </td>
-          <td>2022-04-28</td>
-          <td>Immuno</td>
-          <td>2</td>
-          <td>42</td>
         </tr>
     
         <tr id="Since the first introduction of Artificial Intelligence (AI) in 1956, its aim was to tackle problems with human intelligence, but with greater speed and accuracy. AI has been inspired a lot by natu...">
