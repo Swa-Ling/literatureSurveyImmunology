@@ -11,7 +11,7 @@ hide:
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2024-10-28 06:14:06 UTC</i>
+  <i class="footer">This page was last updated on 2024-11-04 06:13:46 UTC</i>
   </p>
   
   <div class="note info" onclick="startIntro()">
@@ -103,6 +103,18 @@ hide:
           <td>12</td>
         </tr>
     
+        <tr id="None">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/a922ce01d2fadcad1bf7cd4bbf91cb8effadd3d4" target='_blank'>Recent advancement in targeted therapy and role of emerging technologies to treat cancer</a></td>
+          <td>
+            Shrikant Barot, Henis J. Patel, Anjali Yadav, Igor Ban
+          </td>
+          <td>2023-10-07</td>
+          <td>Medical Oncology</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+    
         <tr id="Since the first introduction of Artificial Intelligence (AI) in 1956, its aim was to tackle problems with human intelligence, but with greater speed and accuracy. AI has been inspired a lot by natu...">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
           <td><a href="https://www.semanticscholar.org/paper/51351e802ae63deeeda3a8c35429fcf87289ea58" target='_blank'>Artificial intelligence and immunotherapy</a></td>
@@ -113,6 +125,18 @@ hide:
           <td>Expert Review of Clinical Immunology</td>
           <td>22</td>
           <td>90</td>
+        </tr>
+    
+        <tr id="With the advent of effective immunotherapies to battle cancers and diseases, an obstacle in recovery has become the potential side effects, specifically cytokine release syndrome (CRS). As there is little quantitative understanding of risks for developing CRS and the degree of its severity, this work explored a model-based approach to produce a library of in silico patients through sensitivity analysis of cytokine interaction parameters and a Monte Carlo sampling. The objective of producing the in silico patients was to correlate a known grading system of cytokine release syndrome severity and thus design a new formula for grading CRS. Using our CRS grading system as the foundation, this work produced not only a formula which related the in silico patient data to the different grades, but we effectively demonstrated a selective approach to reduce the grade of CRS with sequential cytokine inhibition targets. We achieved the reduction of grades by applying the insight from the sensitivity analysis, beginning with the most sensitive targets. Cytokines IL-1, IL-8, TNF-α, INF-γ, IL-6, IL-2, IL-4, IL-10, and IL-12 were in turn the best targets for inhibition to alleviate CRS. Using this approach, patient cytokine time profiles in real-time can be related to the CRS grading system and if the grade is severe enough, action can be taken earlier during the treatment to prevent potentially life-threatening symptoms. What’s more, the identified inhibition sequence of the 9 cytokines provides guidance for clinical intervention of CRS.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/cdbed3634ba13aed3fc2c3d954812638cfe069fa" target='_blank'>A Model-Based Investigation of Cytokine Dynamics in Immunotherapies</a></td>
+          <td>
+            B. Hopkins, Yiming Pan, M. Tucker, Z. Huang
+          </td>
+          <td>2018-12-30</td>
+          <td>Processes</td>
+          <td>5</td>
+          <td>17</td>
         </tr>
     
   </tbody>
