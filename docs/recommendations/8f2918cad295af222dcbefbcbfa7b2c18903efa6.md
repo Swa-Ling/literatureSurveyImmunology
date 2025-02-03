@@ -11,7 +11,7 @@ hide:
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2025-01-27 09:13:01 UTC</i>
+  <i class="footer">This page was last updated on 2025-02-03 09:13:05 UTC</i>
   </p>
   
   <div class="note info" onclick="startIntro()">
@@ -112,7 +112,7 @@ hide:
           <td>2023-10-07</td>
           <td>Medical Oncology</td>
           <td>4</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
     
         <tr id="The pathogenesis of COVID-19 is complicated by immune dysfunction. The impact of immune-based therapy in COVID-19 patients has been well documented, with some notable studies on the use of anti-cytokine medicines. However, the complexity of disease phenotypes, patient heterogeneity and the varying quality of evidence from immunotherapy studies provide problems in clinical decision-making. This review seeks to aid therapeutic decision-making by giving an overview of the immunological responses against COVID-19 disease that may contribute to the severity of the disease. We have extensively discussed theranostic methods for COVID-19 detection. With advancements in technology, bioinformatics has taken studies to a higher level. The paper also discusses the application of bioinformatics and machine learning tools for the diagnosis, vaccine design and drug repurposing against SARS-CoV-2.">
@@ -136,7 +136,7 @@ hide:
           <td>2019-06-03</td>
           <td>Expert Review of Clinical Immunology</td>
           <td>22</td>
-          <td>91</td>
+          <td>92</td>
         </tr>
     
   </tbody>

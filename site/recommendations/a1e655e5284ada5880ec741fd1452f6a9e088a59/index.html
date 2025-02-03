@@ -445,7 +445,7 @@
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2025-01-27 09:13:02 UTC</i>
+  <i class="footer">This page was last updated on 2025-02-03 09:13:07 UTC</i>
   </p>
 
   <div class="note info" onclick="startIntro()">
@@ -512,31 +512,6 @@
           <td>25</td>
         </tr>
 
-        <tr id="BACKGROUND
-A multitude of high-quality imaging modalities exist that provide structural data at unprecedented levels of detail. Tissue ultrastructure greatly influences the rate of transport of proteins and other molecules that contribute to neurodegeneration. However, our ability to model flow and diffusion processes in the brain lags behind the quality of the neuroimaging data. Here, a new framework will be presented for converting neuroimaging data into computational fluid dynamics (CFD) models in a scalable manner suitable for high performance computing. TEM data from the Allen Institute will illustrate its capabilities.
-
-
-METHODS
-Segmented TEM images were downloaded from the MicronsExplorer public storage cache. Segmented image stack volumes (4 × 4 × 4 µm) were converted into surface meshes using the Lewiner Marching Cubes algorithm. Convection and diffusion along the surface of individual cells was modeled. After each timestep mass was allowed to exchange between neighboring cells, implemented on a high performance computing cluster using the MPI protocol on 40 or more computing cores. Multiple volumes were analyzed simultaneously, with updates of the flux between cells in different volumes occurring at each time step. These steps were performed with new custom CFD code written in C and Julia.
-
-
-RESULTS
-Segmented z-stacks of TEM data from the MICrONS Explorer website were downloaded in 4 × 4 × 4 µm blocks, which typically contain ≈500 distinct cells (Fig. 1A&B). The meshing algorithm leads to perfect matching between adjacent cells (Fig. 1C). The convection-diffusion equations are solved, modeling flow/diffusion of solutes between cells (Fig. 1D&E). Equations are solved for all ≈500 distinct cells in parallel, with concentrations at matching faces re-balanced at each time step (Fig. 2A&B). A manager-worker MPI model allows for solution on an arbitrary number of cores (Fig. 2C). The interfaces between cell surfaces across volumes are also perfectly matched, allowing for adjustment of the flux of mass between volumes at each timestep (Fig. 2D).
-
-
-CONCLUSIONS
-A new modeling framework is described for solution of transport equations on high performance computing clusters for any imaging modality that produces segmented z-stacked images.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/442e21cebdf5c35d5db269b1a675a5bbe438eb87" target='_blank'>Basic Science and Pathogenesis.</a></td>
-          <td>
-            D. Elbert
-          </td>
-          <td>2024-12-01</td>
-          <td>Alzheimer's & dementia : the journal of the Alzheimer's Association</td>
-          <td>0</td>
-          <td>1</td>
-        </tr>
-
         <tr id="Morphological states of human cells are widely imaged and analyzed to diagnose diseases and to discover biological mechanisms. Morphodynamics of cells capture their functions more fully than their morphology. Discovery of morphodynamic states of human cells is challenging, because genetic labeling or manual annotation may not be feasible. We propose a computational framework, DynaMorph, that combines quantitative label-free imaging and deep learning for automated discovery of morphodynamic states. As a case study, we apply DynaMorph to study the morphodynamic states of live primary human microglia, which are mobile immune cells of the brain that exhibit complex functional states. DynaMorph identifies two distinct morphodynamic states of microglia under perturbation by cytokines and glioblastoma supernatant. We find that microglia actively transition between the two states. Moreover, single-cell RNA-sequencing of the perturbed microglia shows that the morphodynamic states correspond to distinct transcriptomic clusters of the cells, revealing how perturbations alter gene expression and phenotype. DynaMorph can broadly enable automated discovery of functional states of cellular systems.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
           <td><a href="https://www.semanticscholar.org/paper/42d013413b9ba49f1e28c022cebd9cdef0f0920c" target='_blank'>DynaMorph: learning morphodynamic states of human cells with live imaging and sc-RNAseq</a></td>
@@ -583,6 +558,18 @@ A new modeling framework is described for solution of transport equations on hig
           <td>bioRxiv</td>
           <td>0</td>
           <td>18</td>
+        </tr>
+
+        <tr id="None">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/2e7a6a2a6301afa935d9e20ab5fd0cfe8dab900c" target='_blank'>Identification of Disulfidptosis-Related Genes in Ischemic Stroke by Combining Single-Cell Sequencing, Machine Learning Algorithms, and In Vitro Experiments</a></td>
+          <td>
+            Songyun Zhao, Zhuang Hao, Wei Ji, Chao Cheng, Yuankun Liu
+          </td>
+          <td>2024-09-15</td>
+          <td>Neuromolecular Medicine</td>
+          <td>3</td>
+          <td>13</td>
         </tr>
 
         <tr id="Microglia are the primary resident innate immune cells of the CNS. They possess branched, motile cell processes that are important for their cellular functions. To study the pathways that control microglial morphology and motility under physiological and disease conditions, it is necessary to quantify microglial morphology and motility precisely and reliably. Several image analysis approaches are available for the quantification of microglial morphology and motility. However, they are either not automated, not freely accessible, and/or limited in the number of morphology and motility parameters that can be assessed. Thus, we have developed MotiQ, an open-source, freely accessible software for automated quantification of microglial motility and morphology. MotiQ allows quantification of a diverse set of cellular motility and morphology parameters, including the parameters that have become the gold standard in the microglia field. We demonstrate that MotiQ can be applied to in vivo, ex vivo, and in vitro data from confocal, epifluorescence, or two-photon microscopy, and we compare its results to other analysis approaches. We suggest MotiQ as a versatile and customizable tool to study microglia.">
