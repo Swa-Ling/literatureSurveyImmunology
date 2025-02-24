@@ -11,7 +11,7 @@ hide:
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2025-02-17 09:13:32 UTC</i>
+  <i class="footer">This page was last updated on 2025-02-24 09:13:28 UTC</i>
   </p>
   
   <div class="note info" onclick="startIntro()">
@@ -111,7 +111,7 @@ hide:
           </td>
           <td>2023-10-07</td>
           <td>Medical Oncology</td>
-          <td>4</td>
+          <td>5</td>
           <td>4</td>
         </tr>
     
@@ -124,7 +124,7 @@ hide:
           <td>2022-04-28</td>
           <td>Immuno</td>
           <td>2</td>
-          <td>44</td>
+          <td>45</td>
         </tr>
     
         <tr id="Since the first introduction of Artificial Intelligence (AI) in 1956, its aim was to tackle problems with human intelligence, but with greater speed and accuracy. AI has been inspired a lot by natu...">
