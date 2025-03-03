@@ -11,7 +11,7 @@ hide:
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2025-02-24 09:13:28 UTC</i>
+  <i class="footer">This page was last updated on 2025-03-03 09:14:00 UTC</i>
   </p>
   
   <div class="note info" onclick="startIntro()">
@@ -100,7 +100,7 @@ hide:
           <td>2023-01-31</td>
           <td>Frontiers in Immunology</td>
           <td>2</td>
-          <td>13</td>
+          <td>14</td>
         </tr>
     
         <tr id="None">
