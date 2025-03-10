@@ -445,7 +445,7 @@
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2025-03-03 09:14:01 UTC</i>
+  <i class="footer">This page was last updated on 2025-03-10 09:11:45 UTC</i>
   </p>
 
   <div class="note info" onclick="startIntro()">
@@ -485,7 +485,7 @@
           <td>2018-08-09</td>
           <td>bioRxiv</td>
           <td>0</td>
-          <td>56</td>
+          <td>57</td>
         </tr>
 
         <tr id="As rapid responders to their environments, microglia engage in functions that are mirrored by their cellular morphology. Microglia are classically thought to exhibit a ramified morphology under homeostatic conditions which switches to an ameboid form during inflammatory conditions. However, microglia display a wide spectrum of morphologies outside of this dichotomy, including rod-like, ramified, ameboid, and hypertrophic states, which have been observed across brain regions, neurodevelopmental timepoints, and various pathological contexts. We used dimensionality reduction and clustering approaches to consider contributions of multiple morphology measures together to define a spectrum of microglial morphological states. Using ImageJ tools, we first developed a semi-automated approach to characterize 27 morphology features from hundreds to thousands of individual microglial cells in a brain subregion-specific manner. Within this pool of morphology measures, we defined distinct sets of highly correlated features that describe different aspects of morphology, including branch length, branching complexity, territory span, and cell circularity. When considered together, these sets of features drove different morphological clusters. Furthermore, our analysis toolset captured morphological states similarly and robustly when applied to independent datasets and using different immunofluorescent markers for microglia. We have compiled our morphology analysis pipeline into an accessible, easy to use, and fully open-source ImageJ macro and R package that the neuroscience community can expand upon and directly apply to their own analyses. Outcomes from this work will supply the field with new tools to systematically evaluate the heterogeneity of microglia morphological states across various experimental models and research questions.">
@@ -508,33 +508,8 @@
           </td>
           <td>2023-08-10</td>
           <td>Frontiers in Neuroinformatics</td>
-          <td>27</td>
+          <td>28</td>
           <td>25</td>
-        </tr>
-
-        <tr id="BACKGROUND
-A multitude of high-quality imaging modalities exist that provide structural data at unprecedented levels of detail. Tissue ultrastructure greatly influences the rate of transport of proteins and other molecules that contribute to neurodegeneration. However, our ability to model flow and diffusion processes in the brain lags behind the quality of the neuroimaging data. Here, a new framework will be presented for converting neuroimaging data into computational fluid dynamics (CFD) models in a scalable manner suitable for high performance computing. TEM data from the Allen Institute will illustrate its capabilities.
-
-
-METHODS
-Segmented TEM images were downloaded from the MicronsExplorer public storage cache. Segmented image stack volumes (4 × 4 × 4 µm) were converted into surface meshes using the Lewiner Marching Cubes algorithm. Convection and diffusion along the surface of individual cells was modeled. After each timestep mass was allowed to exchange between neighboring cells, implemented on a high performance computing cluster using the MPI protocol on 40 or more computing cores. Multiple volumes were analyzed simultaneously, with updates of the flux between cells in different volumes occurring at each time step. These steps were performed with new custom CFD code written in C and Julia.
-
-
-RESULTS
-Segmented z-stacks of TEM data from the MICrONS Explorer website were downloaded in 4 × 4 × 4 µm blocks, which typically contain ≈500 distinct cells (Fig. 1A&B). The meshing algorithm leads to perfect matching between adjacent cells (Fig. 1C). The convection-diffusion equations are solved, modeling flow/diffusion of solutes between cells (Fig. 1D&E). Equations are solved for all ≈500 distinct cells in parallel, with concentrations at matching faces re-balanced at each time step (Fig. 2A&B). A manager-worker MPI model allows for solution on an arbitrary number of cores (Fig. 2C). The interfaces between cell surfaces across volumes are also perfectly matched, allowing for adjustment of the flux of mass between volumes at each timestep (Fig. 2D).
-
-
-CONCLUSIONS
-A new modeling framework is described for solution of transport equations on high performance computing clusters for any imaging modality that produces segmented z-stacked images.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/442e21cebdf5c35d5db269b1a675a5bbe438eb87" target='_blank'>Basic Science and Pathogenesis.</a></td>
-          <td>
-            D. Elbert
-          </td>
-          <td>2024-12-01</td>
-          <td>Alzheimer's & dementia : the journal of the Alzheimer's Association</td>
-          <td>0</td>
-          <td>1</td>
         </tr>
 
         <tr id="Morphological states of human cells are widely imaged and analyzed to diagnose diseases and to discover biological mechanisms. Morphodynamics of cells capture their functions more fully than their morphology. Discovery of morphodynamic states of human cells is challenging, because genetic labeling or manual annotation may not be feasible. We propose a computational framework, DynaMorph, that combines quantitative label-free imaging and deep learning for automated discovery of morphodynamic states. As a case study, we apply DynaMorph to study the morphodynamic states of live primary human microglia, which are mobile immune cells of the brain that exhibit complex functional states. DynaMorph identifies two distinct morphodynamic states of microglia under perturbation by cytokines and glioblastoma supernatant. We find that microglia actively transition between the two states. Moreover, single-cell RNA-sequencing of the perturbed microglia shows that the morphodynamic states correspond to distinct transcriptomic clusters of the cells, revealing how perturbations alter gene expression and phenotype. DynaMorph can broadly enable automated discovery of functional states of cellular systems.">
@@ -546,7 +521,7 @@ A new modeling framework is described for solution of transport equations on hig
           <td>2020-07-21</td>
           <td>bioRxiv</td>
           <td>9</td>
-          <td>40</td>
+          <td>41</td>
         </tr>
 
         <tr id="Microglia exhibit diverse morphologies reflecting environmental conditions, maturity or functional states. Thus, morphological characterization provides important information to understand microglial roles and functions. Most recent morphological analysis relies on classifying cells based on morphological parameters. However, this classification may lack biological relevance, as microglial morphologies represent a continuum rather than distinct, separate groups, and do not correspond to mathematically defined, clusters irrelevant of microglial cells function. Instead, we propose a new open-source tool, MorphoCellSorter, which assesses microglial morphology by automatically computing morphological criteria, using principal component analysis and Andrews plots to rank cells. MorphoCellSorter properly ranked cells from various microglia datasets in mice and rats of different age, from in vivo, in vitro and ex vivo models, that were acquired using diverse imaging techniques. This approach allowed for the discrimination of cell populations in various pathophysiological conditions. Finally, MorphoCellSorter offers a versatile, easy and ready-to-use method to evaluate microglial morphological diversity that could easily be generalized to standardize practices across laboratories.">
@@ -559,6 +534,18 @@ A new modeling framework is described for solution of transport equations on hig
           <td>bioRxiv</td>
           <td>0</td>
           <td>15</td>
+        </tr>
+
+        <tr id="None">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/83a5ce1bd967b96df66a24d509b4067b0a28b43b" target='_blank'>Exploring the potential link between MitoEVs and the immune microenvironment of periodontitis based on machine learning and bioinformatics methods</a></td>
+          <td>
+            Haoran Yang, Anna Zhao, Yuxiang Chen, Tingting Cheng, Jianzhong Zhou, Ziliang Li
+          </td>
+          <td>2024-02-02</td>
+          <td>BMC Oral Health</td>
+          <td>4</td>
+          <td>1</td>
         </tr>
 
         <tr id="Microglia are a dynamic population of brain-resident immune cells that provide immune surveillance of the tissue environment and can move between different activation states in response to changing stimuli. These activation states, associated with increases in inflammatory, phagocytotic, and pathological functions, are marked by characteristic morphological changes in cellular process length, branching complexity and soma size. Microglial cell states are traditionally viewed along a continuum between resting-with long, delicately branched processes and a small cell body, and activated-in which cells adopt an ameoboid shape with retracted, broadened processes and an enlarged soma [1,2]. This simplistic, polarized view of microglial activation has been challenged due to recent work identifying intermediate and divergent cell states associated with specific functional and transcriptional subtypes [3].">
@@ -585,16 +572,16 @@ A new modeling framework is described for solution of transport equations on hig
           <td>18</td>
         </tr>
 
-        <tr id="Microglia are the primary resident innate immune cells of the CNS. They possess branched, motile cell processes that are important for their cellular functions. To study the pathways that control microglial morphology and motility under physiological and disease conditions, it is necessary to quantify microglial morphology and motility precisely and reliably. Several image analysis approaches are available for the quantification of microglial morphology and motility. However, they are either not automated, not freely accessible, and/or limited in the number of morphology and motility parameters that can be assessed. Thus, we have developed MotiQ, an open-source, freely accessible software for automated quantification of microglial motility and morphology. MotiQ allows quantification of a diverse set of cellular motility and morphology parameters, including the parameters that have become the gold standard in the microglia field. We demonstrate that MotiQ can be applied to in vivo, ex vivo, and in vitro data from confocal, epifluorescence, or two-photon microscopy, and we compare its results to other analysis approaches. We suggest MotiQ as a versatile and customizable tool to study microglia.">
+        <tr id="None">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/a4d65f10fc7343b2bb99f0b42041bbd4e84a1692" target='_blank'>MotiQ: an open-source toolbox to quantify the cell motility and morphology of microglia</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/2e7a6a2a6301afa935d9e20ab5fd0cfe8dab900c" target='_blank'>Identification of Disulfidptosis-Related Genes in Ischemic Stroke by Combining Single-Cell Sequencing, Machine Learning Algorithms, and In Vitro Experiments</a></td>
           <td>
-            J. N. Hansen, M. Brückner, Marie J Pietrowski, Jan F. Jikeli, M. Plescher, H. Beckert, M. Schnaars, Lorenz Fülle, Katharina Reitmeier, T. Langmann, I. Förster, D. Boche, G. Petzold, A. Halle
+            Songyun Zhao, Zhuang Hao, Wei Ji, Chao Cheng, Yuankun Liu
           </td>
-          <td>2022-06-22</td>
-          <td>Molecular Biology of the Cell</td>
-          <td>10</td>
-          <td>57</td>
+          <td>2024-09-15</td>
+          <td>Neuromolecular Medicine</td>
+          <td>4</td>
+          <td>13</td>
         </tr>
 
   </tbody>
