@@ -11,7 +11,7 @@ hide:
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2025-03-17 09:14:03 UTC</i>
+  <i class="footer">This page was last updated on 2025-03-24 09:14:11 UTC</i>
   </p>
   
   <div class="note info" onclick="startIntro()">
@@ -67,7 +67,7 @@ hide:
           <td>30</td>
         </tr>
     
-        <tr id="Cytokine release syndrome (CRS) is a lethal adverse event in chimeric antigen receptor (CAR) T‐cell therapy, hindering this promising therapy for cancers, such as B‐cell acute lymphoblastic leukemia (B‐ALL). Clinical management of CRS requires a better understanding of its underlying mechanisms. In this study, a computational model of CRS during CAR T‐cell therapy is built to depict how the cellular interactions among CAR T‐cells, B‐ALL cells, and bystander monocytes, as well as the accompanying molecular interactions among various inflammatory cytokines, influence the severity of CRS. The model successfully defines the factors related to severe CRS and studies the effects of immunomodulatory therapy on CRS. The use of the model is also demonstrated as a precision medicine tool to optimize the treatment scheme, including personalized choice of CAR T‐cell products and control of switchable CAR T‐cell activity, for a more efficient and safer immunotherapy. This new computational oncology model can serve as a precision medicine tool to guide the clinical management of CRS during CAR T cell therapy.">
+        <tr id="None">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
           <td><a href="https://www.semanticscholar.org/paper/87d52b5853e9f8c39186cb00095a3e8113def110" target='_blank'>A Computational Model of Cytokine Release Syndrome during CAR T‐Cell Therapy</a></td>
           <td>
@@ -125,6 +125,18 @@ hide:
           <td>Immuno</td>
           <td>2</td>
           <td>46</td>
+        </tr>
+    
+        <tr id="None">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/51351e802ae63deeeda3a8c35429fcf87289ea58" target='_blank'>Artificial intelligence and immunotherapy</a></td>
+          <td>
+            Parnian Jabbari, N. Rezaei
+          </td>
+          <td>2019-06-03</td>
+          <td>Expert Review of Clinical Immunology</td>
+          <td>23</td>
+          <td>93</td>
         </tr>
     
   </tbody>
