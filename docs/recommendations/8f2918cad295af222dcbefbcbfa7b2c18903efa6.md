@@ -11,7 +11,7 @@ hide:
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2025-04-14 09:14:11 UTC</i>
+  <i class="footer">This page was last updated on 2025-04-21 09:13:32 UTC</i>
   </p>
   
   <div class="note info" onclick="startIntro()">
@@ -91,18 +91,6 @@ hide:
           <td>49</td>
         </tr>
     
-        <tr id="Ankylosing spondylitis (AS) is an immune-mediated inflammatory disorder that primarily affects the axial skeleton, especially the sacroiliac joints and spine. This results in chronic back pain and, in extreme cases, ankylosis of the spine. Despite its debilitating effects, the pathogenesis of AS remains to be further elucidated. This study used single cell CITE-seq technology to analyze peripheral blood mononuclear cells (PBMCs) in AS and in healthy controls. We identified a number of molecular features associated with AS. CD52 was found to be overexpressed in both RNA and surface protein expression across several cell types in patients with AS. CD16+ monocytes overexpressed TNFSF10 and IL-18Rα in AS, while CD8+ TEM cells and natural killer cells overexpressed genes linked with cytotoxicity, including GZMH, GZMB, and NKG7. Tregs underexpressed CD39 in AS, suggesting reduced functionality. We identified an overrepresented NK cell subset in AS that overexpressed CD16, CD161, and CD38, as well as cytotoxic genes and pathways. Finally, we developed machine learning models derived from CITE-seq data for the classification of AS and achieved an Area Under the Receiver Operating Characteristic (AUROC) curve of > 0.95. In summary, CITE-seq identification of AS-associated genes and surface proteins in specific cell subsets informs our understanding of pathogenesis and potential new therapeutic targets, while providing new approaches for diagnosis via machine learning.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/0df7233a9fd7894e3c6a13ed8c284c660104293a" target='_blank'>Single Cell Transcriptome and Surface Epitope Analysis of Ankylosing Spondylitis Facilitates Disease Classification by Machine Learning</a></td>
-          <td>
-            S. Alber, Sugandh Kumar, Jared Liu, Zhi-ming Huang, D. Páez, Julie J. Hong, H. Chang, T. Bhutani, L. Gensler, W. Liao
-          </td>
-          <td>2022-05-13</td>
-          <td>Frontiers in Immunology</td>
-          <td>16</td>
-          <td>50</td>
-        </tr>
-    
         <tr id="COPYRIGHT © 2023 Sun, Zhang, Li, Xie, Luo, Wang, Chen, Wang, Jiang and Yang. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms. TYPE Opinion PUBLISHED 31 January 2023 DOI 10.3389/fimmu.2023.1075419">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
           <td><a href="https://www.semanticscholar.org/paper/55297e1d6a1eb3e5ad28e222e6484ea9889ddb40" target='_blank'>Integration: Gospel for immune bioinformatician on epitope-based therapy</a></td>
@@ -115,16 +103,16 @@ hide:
           <td>14</td>
         </tr>
     
-        <tr id="The pathogenesis of COVID-19 is complicated by immune dysfunction. The impact of immune-based therapy in COVID-19 patients has been well documented, with some notable studies on the use of anti-cytokine medicines. However, the complexity of disease phenotypes, patient heterogeneity and the varying quality of evidence from immunotherapy studies provide problems in clinical decision-making. This review seeks to aid therapeutic decision-making by giving an overview of the immunological responses against COVID-19 disease that may contribute to the severity of the disease. We have extensively discussed theranostic methods for COVID-19 detection. With advancements in technology, bioinformatics has taken studies to a higher level. The paper also discusses the application of bioinformatics and machine learning tools for the diagnosis, vaccine design and drug repurposing against SARS-CoV-2.">
+        <tr id="None">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/acd4caabbb311a44234678a44df1c14dec251114" target='_blank'>Probing the Immune System Dynamics of the COVID-19 Disease for Vaccine Designing and Drug Repurposing Using Bioinformatics Tools</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/a922ce01d2fadcad1bf7cd4bbf91cb8effadd3d4" target='_blank'>Recent advancement in targeted therapy and role of emerging technologies to treat cancer</a></td>
           <td>
-            Deepshikha Yadav, S. Agarwal, Pranav Pancham, Divya Jindal, V. Agarwal, Premshankar Kumar Dubey, S. Jha, Shalini Mani, Rachana, A. Dey, N. Jha, K. Kesari, Manisha Singh
+            Shrikant Barot, Henis J. Patel, Anjali Yadav, Igor Ban
           </td>
-          <td>2022-04-28</td>
-          <td>Immuno</td>
-          <td>2</td>
-          <td>46</td>
+          <td>2023-10-07</td>
+          <td>Medical Oncology</td>
+          <td>7</td>
+          <td>4</td>
         </tr>
     
         <tr id="None">
@@ -135,7 +123,7 @@ hide:
           </td>
           <td>2019-06-03</td>
           <td>Expert Review of Clinical Immunology</td>
-          <td>24</td>
+          <td>25</td>
           <td>93</td>
         </tr>
     
