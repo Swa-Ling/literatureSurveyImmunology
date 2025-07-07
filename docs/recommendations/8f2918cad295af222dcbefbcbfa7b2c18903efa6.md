@@ -11,7 +11,7 @@ hide:
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2025-06-30 09:16:18 UTC</i>
+  <i class="footer">This page was last updated on 2025-07-07 09:16:38 UTC</i>
   </p>
   
   <div class="note info" onclick="startIntro()">
@@ -42,6 +42,43 @@ hide:
   </thead>
   <tbody>
     
+        <tr id="
+ Bispecific T cell engaging antibodies (TEAs) with one arm targeting a cancer antigen and another arm binding to CD3 have demonstrated impressive efficacy in multiple clinical studies. However, establishing a safety/efficacy balance remains challenging. For instance, some TEAs have severe safety issues. Additionally, not all patients or all cancer cells of one patient respond equally to TEAs. Here, we developed a next-generation bispecific TEA with better safety/efficacy balance and expanded mechanisms of action. Using the computer aided antibody design strategy, we replaced heavy chain complementarity-determining regions (HCDRs) in one Rituximab arm with HCDRs from a CD3 antibody and generated a novel CD20/CD3 bispecific antibody. After series of computer aided sequence optimization, the lead molecule, GB261, showed great safety/efficacy balance both in vitro and in animal studies. GB261 exhibited high affinity to CD20 and ultra-low affinity to CD3. It showed comparable T cell activation and reduced cytokine secretion compared to a benchmark antibody (BM). GB261-induced ADCC and CDC only killed CD20+ cells but not CD3+ cells. It exhibited better RRCL cell killing than the BM in a PBMC engrafted, therapeutic treatment mouse model and good safety in cynomolgus monkeys. Thus, GB261 is a promising novel TEA against CD20+ cancers.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/6a4287b3c6b52151d5e4f46d99cc677e2a442685" target='_blank'>A computationally designed Rituximab/CD3 T cell engager targeting CD20+ cancers with multiple mechanisms of action</a></td>
+          <td>
+            Cai Wenyan, Jianbo Dong, Sachith Gallolu Kankanamalage, Allison Titong, Shi Jiadong, Zhejun Jia, Bo Wang, Cai Huang, Jing Zhang, Lin Jun, Z KanSteven, Zhou Joe, Yue Liu
+          </td>
+          <td>2021-03-17</td>
+          <td></td>
+          <td>0</td>
+          <td>12</td>
+        </tr>
+    
+        <tr id="Bispecific T-cell engaging therapies harness the immune system to elicit an effective anticancer response. Modulating the immune activation avoiding potential adverse effects such as cytokine release syndrome (CRS) is a critical aspect to realizing the full potential of this therapy. The use of suitable exogenous intervention strategies to mitigate the CRS risk without compromising the antitumoral capability of bispecific antibody treatment is crucial. To this end, computational approaches can be instrumental to systematically exploring the effects of combining bispecific antibodies with CRS intervention strategies. Here, we employ a logical model to describe the action of bispecific antibodies and the complex interplay of various immune system components and use it to perform simulation experiments to improve the understanding of the factors affecting CRS. We performed a sensitivity analysis to identify the comedications that could ameliorate CRS without impairing tumor clearance. Our results agree with publicly available experimental data suggesting anti-TNF and anti-IL6 as possible co-treatments. Furthermore, we suggest anti-IFNγ as a suitable candidate for clinical studies.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/73b15e89fe9ee38f8cee9b8688b18c9a82745947" target='_blank'>Computational Analysis of Cytokine Release Following Bispecific T-Cell Engager Therapy: Applications of a Logic-Based Model</a></td>
+          <td>
+            G. Selvaggio, S. Parolo, Pranami Bora, L. Leonardelli, J. Harrold, Khamir Mehta, D. Rock, L. Marchetti
+          </td>
+          <td>2022-03-08</td>
+          <td>Frontiers in Oncology</td>
+          <td>6</td>
+          <td>30</td>
+        </tr>
+    
+        <tr id="Cytokine release syndrome (CRS) is a lethal adverse event in chimeric antigen receptor (CAR) T‐cell therapy, hindering this promising therapy for cancers, such as B‐cell acute lymphoblastic leukemia (B‐ALL). Clinical management of CRS requires a better understanding of its underlying mechanisms. In this study, a computational model of CRS during CAR T‐cell therapy is built to depict how the cellular interactions among CAR T‐cells, B‐ALL cells, and bystander monocytes, as well as the accompanying molecular interactions among various inflammatory cytokines, influence the severity of CRS. The model successfully defines the factors related to severe CRS and studies the effects of immunomodulatory therapy on CRS. The use of the model is also demonstrated as a precision medicine tool to optimize the treatment scheme, including personalized choice of CAR T‐cell products and control of switchable CAR T‐cell activity, for a more efficient and safer immunotherapy. This new computational oncology model can serve as a precision medicine tool to guide the clinical management of CRS during CAR T cell therapy.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/87d52b5853e9f8c39186cb00095a3e8113def110" target='_blank'>A Computational Model of Cytokine Release Syndrome during CAR T‐Cell Therapy</a></td>
+          <td>
+            Zhuoyu Zhang, Lunan Liu, Chao Ma, Weiqiang Chen
+          </td>
+          <td>2022-08-04</td>
+          <td>Advanced Therapeutics</td>
+          <td>6</td>
+          <td>21</td>
+        </tr>
+    
         <tr id="None">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
           <td><a href="https://www.semanticscholar.org/paper/16a53e4f5ccd4166c9cfd1b548ed301889dc9292" target='_blank'>Seeking the ultimate challenge</a></td>
@@ -66,6 +103,30 @@ hide:
           <td>14</td>
         </tr>
     
+        <tr id="None">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/a922ce01d2fadcad1bf7cd4bbf91cb8effadd3d4" target='_blank'>Recent advancement in targeted therapy and role of emerging technologies to treat cancer</a></td>
+          <td>
+            Shrikant Barot, Henis J. Patel, Anjali Yadav, Igor Ban
+          </td>
+          <td>2023-10-07</td>
+          <td>Medical Oncology</td>
+          <td>7</td>
+          <td>4</td>
+        </tr>
+    
+        <tr id="None">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/5cce0b2358ed6e71bac072e956c92ad326f870d9" target='_blank'>AI-Guided CAR Designs and AKT3 Degradation Synergize to Enhance Bispecific and Trispecific CAR-T Cell Persistence and Overcome Antigen Escape</a></td>
+          <td>
+            Mohammad Sufyan Ansari, Varnit Chauhan, Aashi Singh, A. Akhtar, Nisha Chaudhary, Reegina Tyagi, Divya, Kashif Husain, Sheetal Sharma, Ruquaiya Alam, Md Shakir, Mehak Pracha, Samreen Anjum, Mohd Nadeem, Md Imam Faizan, Iqbal Azmi, Aditya Ramdas Iyer, Pragya Gupta, Mehwish Nafiz, Shayan Ali, Insha Mohi Uddin, Momina Javid, Hamenth Kumar P, Amit Kumar Srivastava, U. Mabalirajan, Vikram Mathews, Sivaprakash Ramalingam, Gaurav Kharya, Tanveer Ahmad
+          </td>
+          <td>2025-06-16</td>
+          <td>bioRxiv</td>
+          <td>0</td>
+          <td>28</td>
+        </tr>
+    
         <tr id="The pathogenesis of COVID-19 is complicated by immune dysfunction. The impact of immune-based therapy in COVID-19 patients has been well documented, with some notable studies on the use of anti-cytokine medicines. However, the complexity of disease phenotypes, patient heterogeneity and the varying quality of evidence from immunotherapy studies provide problems in clinical decision-making. This review seeks to aid therapeutic decision-making by giving an overview of the immunological responses against COVID-19 disease that may contribute to the severity of the disease. We have extensively discussed theranostic methods for COVID-19 detection. With advancements in technology, bioinformatics has taken studies to a higher level. The paper also discusses the application of bioinformatics and machine learning tools for the diagnosis, vaccine design and drug repurposing against SARS-CoV-2.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
           <td><a href="https://www.semanticscholar.org/paper/acd4caabbb311a44234678a44df1c14dec251114" target='_blank'>Probing the Immune System Dynamics of the COVID-19 Disease for Vaccine Designing and Drug Repurposing Using Bioinformatics Tools</a></td>
@@ -88,41 +149,6 @@ hide:
           <td>Expert Review of Clinical Immunology</td>
           <td>25</td>
           <td>93</td>
-        </tr>
-    
-        <tr id="
- The Bispecific T-cell engager (BiTE) Blinatumomab and CD19-specific Chimeric Antigen Receptor (CAR) T-cell products are approved for the treatment of relapsed and refractory B-cell neoplasms. However, these T-cell based immunotherapies can be accompanied by immune-related toxicities differing from adverse events of classical cytotoxic agents. Toxicity management can pose a challenge for health care professionals. Additionally, logistics of CAR T-cell patient management, particularly with regard to timelines of apheresis, bridging therapies, and CAR T-cell transfusion, require coordinated efforts between referring physicians and treatment centers. To support the optimal management of these patients, we developed an interactive smartphone application ("myTcell") which educates physicians in the pre-treatment logistics of CARs and BiTEs and provides recommendations on management and treatment of immune-related toxicities.
- We initiated a multi-step content development process with an extensive literature research of toxicity guidelines consented by the ASTCT, SITC, NCCN and EBMT as well as of officially released drug information. Findings were integrated in an information platform to provide diagnostic and therapeutic recommendations as well as algorithms for interactive toxicity grading tools. We could successfully implement an app ("myTcell") guiding health workers in a disease- and product-specific step by step process through the clinical workflow of CAR and BiTE therapy (Fig.1). This includes recommendations for eligibility, patient screening, safety assessment and stopping rules prior to leukapheresis and CAR T-cell transfusion. Upon entering relevant clinical data for grading of CRS, ICANS and HLH, interactive tools display toxicity grade and grade-specific management (Fig. 2). Further, "myTcell" assists with the diagnosis and treatment of pancytopenia and infections. The app includes an overview of important publications with direct links to respective abstracts to support evidence-based decision-making. A prototype was validated at five Geman treatment centers through a questionnaire which measured the advantage of the app compared to common clinical practice.
- 38 physicians with a median working experience of 8 years validated the app protoype in a real-world setting of CAR T-cells or BiTE application for the treatment of Diffuse Large-B-Cell Lymphoma (89.5%) and B-Cell Precursor Acute Lymphoblastic Leukemia (39.5%) at five German treatment centers (University Hospitals of LMU Munich, Cologne, Göttingen, Erlangen, Tübingen). 78.9% of the users most valued the content of toxicity management. In addition, 63.2% reported to dominantly use the interactive tools and calculators to assess severity of toxicities and to instantly receive grade-specific management recommendations. As expected, the tools were most frequently used for the two most commonly occurring side effects CRS (68.4%) and ICANS (65.8%). In addition, most of the users agreed, that the interactive tools improved toxicity management (94.7%) and saved time during their clinical practice (81.6%). Based on these results, "myTcell" has been certified as a medicinal product class I and has been released in the app stores and for desktop application (www.mytcell.de) on July 15, 2021.
- "myTcell" is a smartphone app supporting the use of T-cell based immunotherapy platforms. The app supports assessment and treatment of novel CAR T and BITE mediated immunotoxicities. Health care professionals validated feasibility and in particular appreciated fast and easy assessment of toxicity grading and management. Thus, "myTcell" is a tool that has the potential to improve guideline adherence and accelerate broader and safer application of CARs and BiTEs based immunotherapy.
- Figure 1 Figure 1.
- 
- 
- 
- Blumenberg: Novartis: Consultancy, Research Funding; BMS/Celgene: Research Funding; Janssen: Research Funding; Kite/Gilead: Consultancy, Research Funding. Schmidt: Bayer Healthcare: Research Funding; Novartis: Consultancy, Honoraria, Other: Travel, Accommodations, Expenses; Kite/Gilead: Consultancy, Honoraria, Other: Travel, Accommodations, Expenses, Research Funding; Janssen: Other: Travel, Accommodations, Expenses; Takeda: Consultancy, Other: Travel, Accommodations, Expenses; BMS: Consultancy, Other: Travel, Accommodations, Expenses. von Bergwelt: Astellas: Honoraria, Research Funding, Speakers Bureau; Mologen: Honoraria, Research Funding, Speakers Bureau; Miltenyi: Honoraria, Research Funding, Speakers Bureau; MSD Sharpe & Dohme: Honoraria, Research Funding, Speakers Bureau; Kite/Gilead: Honoraria, Research Funding, Speakers Bureau; BMS: Honoraria, Research Funding, Speakers Bureau; Novartis: Honoraria, Research Funding, Speakers Bureau; Roche: Honoraria, Research Funding, Speakers Bureau. Buecklein: BMS/Celgene: Consultancy, Research Funding; Miltenyi: Research Funding; Kite/Gilead: Consultancy, Honoraria, Other: Congress and travel support, Research Funding; Amgen: Consultancy, Honoraria; Novartis: Consultancy, Other: congress and travel support, Research Funding, Speakers Bureau; Pfizer: Consultancy, Honoraria, Speakers Bureau. Subklewe: Janssen: Consultancy; Gilead: Consultancy, Research Funding, Speakers Bureau; Roche: Research Funding; Takeda: Speakers Bureau; Klinikum der Universität München: Current Employment; BMS/Celgene: Consultancy, Research Funding, Speakers Bureau; Amgen: Consultancy, Research Funding, Speakers Bureau; Miltenyi: Research Funding; Seattle Genetics: Consultancy, Research Funding; Pfizer: Consultancy, Speakers Bureau; Novartis: Consultancy, Research Funding, Speakers Bureau; MorphoSys: Research Funding.
-">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/22ee82e427ed7880c5d6e33821291ebec0f55836" target='_blank'>"My T Cell": A Smartphone Application for Guidance of CAR T Logistics and Management of CAR T & BiTE Related Toxicities</a></td>
-          <td>
-            V. Blumenberg, L. Siegmund, L. Frölich, K. Rejeski, Friederike Hildebrandt, C. Schmidt, M. von Bergwelt, Veit L. Buecklein, M. Subklewe
-          </td>
-          <td>2021-11-05</td>
-          <td>Blood</td>
-          <td>0</td>
-          <td>36</td>
-        </tr>
-    
-        <tr id="
- The general paradigm is that the tumor microenvironment is non-conducive to sustaining productive cytotoxic T cell responses due to suppressive and counter-immunity T cell extrinsic factors. It has been shown that the tumor microenvironment can harbor large numbers of bystander memory cells. However, it is not very clear if given the right stimulation these bystander memory cells can be commandeered to utilize the available resources of the tumor microenvironment, get optimally activated and elaborate productive immune responses. This has wide-ranging implications in hijacking the tumor-resident bystander memory cells for efficacious tumor control. In this study we show that the tumor microenvironment is capable of harboring ultra-functional bystander memory cells, which display complete panoply of memory markers. These tumor–resident bystander memory cells are not only capable of elaborating robust ex vivo and transplantable memory T cell functions, but they can also efficiently utilize the resources within the tumor microenvironment to elaborate in situ recall effector functions. We further show that these memory T cells utilize CXCR3 as a key chemokine receptor for trafficking to the tumor sites. Our data identify bystander tumor-resident memory cells as Spartan warriors to mediate enhanced tumor control during adoptive T cell immunotherapy.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/ba7b977b65571c3b37e680a4d1c63dbfa3225651" target='_blank'>Querying resources in the tumor microenvironment using bystander memory T cells</a></td>
-          <td>
-            S. Sarkar, Peter M. Sullivan, Yevgeniy Yuzefpolskiy, V. Kalia
-          </td>
-          <td>2020-05-01</td>
-          <td>The Journal of Immunology</td>
-          <td>0</td>
-          <td>24</td>
         </tr>
     
   </tbody>
