@@ -11,7 +11,7 @@ hide:
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2025-10-06 09:15:59 UTC</i>
+  <i class="footer">This page was last updated on 2025-10-13 09:15:53 UTC</i>
   </p>
   
   <div class="note info" onclick="startIntro()">
@@ -63,7 +63,7 @@ hide:
           </td>
           <td>2022-03-08</td>
           <td>Frontiers in Oncology</td>
-          <td>9</td>
+          <td>10</td>
           <td>31</td>
         </tr>
     
@@ -137,18 +137,6 @@ hide:
           <td>Immuno</td>
           <td>3</td>
           <td>49</td>
-        </tr>
-    
-        <tr id="Since the first introduction of Artificial Intelligence (AI) in 1956, its aim was to tackle problems with human intelligence, but with greater speed and accuracy. AI has been inspired a lot by natu...">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/51351e802ae63deeeda3a8c35429fcf87289ea58" target='_blank'>Artificial intelligence and immunotherapy</a></td>
-          <td>
-            Parnian Jabbari, N. Rezaei
-          </td>
-          <td>2019-06-03</td>
-          <td>Expert Review of Clinical Immunology</td>
-          <td>25</td>
-          <td>94</td>
         </tr>
     
   </tbody>
