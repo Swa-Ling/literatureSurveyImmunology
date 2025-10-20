@@ -11,7 +11,7 @@ hide:
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2025-10-13 09:15:53 UTC</i>
+  <i class="footer">This page was last updated on 2025-10-20 09:15:37 UTC</i>
   </p>
   
   <div class="note info" onclick="startIntro()">
@@ -88,7 +88,7 @@ hide:
           <td>2019-05-24</td>
           <td>Nature Medicine</td>
           <td>0</td>
-          <td>52</td>
+          <td>53</td>
         </tr>
     
         <tr id="COPYRIGHT © 2023 Sun, Zhang, Li, Xie, Luo, Wang, Chen, Wang, Jiang and Yang. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms. TYPE Opinion PUBLISHED 31 January 2023 DOI 10.3389/fimmu.2023.1075419">
@@ -136,7 +136,7 @@ hide:
           <td>2022-04-28</td>
           <td>Immuno</td>
           <td>3</td>
-          <td>49</td>
+          <td>50</td>
         </tr>
     
   </tbody>
