@@ -445,7 +445,7 @@
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2025-10-27 09:16:35 UTC</i>
+  <i class="footer">This page was last updated on 2025-11-03 09:16:32 UTC</i>
   </p>
 
   <div class="note info" onclick="startIntro()">
@@ -476,101 +476,112 @@
   </thead>
   <tbody>
 
-        <tr id="BACKGROUND
-A multitude of high-quality imaging modalities exist that provide structural data at unprecedented levels of detail. Tissue ultrastructure greatly influences the rate of transport of proteins and other molecules that contribute to neurodegeneration. However, our ability to model flow and diffusion processes in the brain lags behind the quality of the neuroimaging data. Here, a new framework will be presented for converting neuroimaging data into computational fluid dynamics (CFD) models in a scalable manner suitable for high performance computing. TEM data from the Allen Institute will illustrate its capabilities.
-
-
-METHODS
-Segmented TEM images were downloaded from the MicronsExplorer public storage cache. Segmented image stack volumes (4 × 4 × 4 µm) were converted into surface meshes using the Lewiner Marching Cubes algorithm. Convection and diffusion along the surface of individual cells was modeled. After each timestep mass was allowed to exchange between neighboring cells, implemented on a high performance computing cluster using the MPI protocol on 40 or more computing cores. Multiple volumes were analyzed simultaneously, with updates of the flux between cells in different volumes occurring at each time step. These steps were performed with new custom CFD code written in C and Julia.
-
-
-RESULTS
-Segmented z-stacks of TEM data from the MICrONS Explorer website were downloaded in 4 × 4 × 4 µm blocks, which typically contain ≈500 distinct cells (Fig. 1A&B). The meshing algorithm leads to perfect matching between adjacent cells (Fig. 1C). The convection-diffusion equations are solved, modeling flow/diffusion of solutes between cells (Fig. 1D&E). Equations are solved for all ≈500 distinct cells in parallel, with concentrations at matching faces re-balanced at each time step (Fig. 2A&B). A manager-worker MPI model allows for solution on an arbitrary number of cores (Fig. 2C). The interfaces between cell surfaces across volumes are also perfectly matched, allowing for adjustment of the flux of mass between volumes at each timestep (Fig. 2D).
-
-
-CONCLUSIONS
-A new modeling framework is described for solution of transport equations on high performance computing clusters for any imaging modality that produces segmented z-stacked images.">
+        <tr id="Extracellular vesicles (EVs) are essential for host–pathogen interactions, mediating processes such as immune modulation and pathogen survival. Pathogen‐derived EVs hold significant diagnostic potential because of their unique cargo, offering a wealth of potential biomarkers. In this review, we first discuss the roles of EVs derived from various pathogens in host–pathogen interactions and summarize the latest advancements in pathogen detection based on EVs. Then, we highlight innovative strategies, including novel aggregate materials and machine learning approaches, for enhancing EV detection and analysis. Finally, we discuss challenges in the field and future directions for advancing EV‐based diagnostics, aiming to translate these insights into clinical applications.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/442e21cebdf5c35d5db269b1a675a5bbe438eb87" target='_blank'>Basic Science and Pathogenesis.</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/3c698d8011c83641d9ae6bee8a11774f25a76217" target='_blank'>Integrating Aggregate Materials and Machine Learning Algorithms: Advancing Detection of Pathogen‐Derived Extracellular Vesicles</a></td>
           <td>
-            D. Elbert
+            Lihan Lai, Yun Su, Cong Hu, Zehong Peng, W. Xue, L. Dong, Tony Y. Hu
           </td>
-          <td>2024-12-01</td>
-          <td>Alzheimer's & dementia : the journal of the Alzheimer's Association</td>
+          <td>2025-03-27</td>
+          <td>Aggregate</td>
           <td>0</td>
-          <td>1</td>
+          <td>7</td>
         </tr>
 
-        <tr id="This week, The Journal of Neuroscience has taken the next step in reinforcing our commitment to open science by initiating a direct submission process for manuscripts posted on bioRxiv. With this process, preprints can be submitted for peer review at JNeurosci with one click from the bioRxiv site,">
+        <tr id="Abstract Extracellular vesicle (EV) research increasingly demands for quantitative characterisation at the single vesicle level to address heterogeneity and complexity of EV subpopulations. Emerging, commercialised technologies for single EV analysis based on, for example, imaging flow cytometry or imaging after capture on chips generally require dedicated instrumentation and proprietary software not readily accessible to every lab. This limits their implementation for routine EV characterisation in the rapidly growing EV field. We and others have shown that single vesicles can be detected as light diffraction limited fluorescent spots using standard confocal and widefield fluorescence microscopes. Advancing this simple strategy into a process for routine EV quantitation, we developed ‘EVAnalyzer’, an ImageJ/Fiji (Fiji is just ImageJ) plugin for automated, quantitative single vesicle analysis from imaging data. Using EVAnalyzer, we established a robust protocol for capture, (immuno‐)labelling and fluorescent imaging of EVs. To exemplify the application scope, the process was optimised and systematically tested for (i) quantification of EV subpopulations, (ii) validation of EV labelling reagents, (iii) in situ determination of antibody specificity, sensitivity and species cross‐reactivity for EV markers and (iv) optimisation of genetic EV engineering. Additionally, we show that the process can be applied to synthetic nanoparticles, allowing to determine siRNA encapsulation efficiencies of lipid‐based nanoparticles (LNPs) and protein loading of SiO2 nanoparticles. EVAnalyzer further provides a pipeline for automated quantification of cell uptake at the single cell–single vesicle level, thereby enabling high content EV cell uptake assays and plate‐based screens. Notably, the entire procedure from sample preparation to the final data output is entirely based on standard reagents, materials, laboratory equipment and open access software. In summary, we show that EVAnalyzer enables rigorous characterisation of EVs with generally accessible tools. Since we further provide the plugin as open‐source code, we expect EVAnalyzer to not only be a resource of immediate impact, but an open innovation platform for the EV and nanoparticle research communities.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/70da4cf8cf5b121f08cfe7c6ffe4c430c92039e9" target='_blank'>Direct Submissions from bioRxiv</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/ee63636048b60cb2e0dc234df0303822d4fb1f68" target='_blank'>EVAnalyzer: High content imaging for rigorous characterisation of single extracellular vesicles using standard laboratory equipment and a new open‐source ImageJ/Fiji plugin</a></td>
           <td>
-            M. Picciotto
+            Melanie Schürz, Joachim Danmayr, Maria Jaritsch, E. Klinglmayr, Heloisa Melo Benirschke, C. Matea, Patrick Zimmerebner, Jakob Rauter, Martin Wolf, F. G. Gomes, Zdenek Kratochvil, Z. Heger, Andrew Miller, T. Heuser, Vesna Stanojlovic, Jana Kiefer, Tanja Plank, Litty Johnson, M. Himly, C. Blöchl, C. Huber, Martin Hintersteiner, Nicole C Meisner-Kober
           </td>
-          <td>2017-01-11</td>
-          <td>The Journal of Neuroscience</td>
-          <td>1</td>
+          <td>2022-11-27</td>
+          <td>Journal of Extracellular Vesicles</td>
+          <td>23</td>
+          <td>47</td>
+        </tr>
+
+        <tr id="None">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/898779e91e7d7e3d2eec1b48b49668626825e8de" target='_blank'>Identification of astrocyte secreted proteins with a combination of shotgun proteomics and bioinformatics.</a></td>
+          <td>
+            J. Dowell, Jeffrey A. Johnson, Lingjun Li
+          </td>
+          <td>2009-06-17</td>
+          <td>Journal of proteome research</td>
+          <td>100</td>
+          <td>55</td>
+        </tr>
+
+        <tr id="None">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/2dbe137d600788d9cf616b6312add987351f83ed" target='_blank'>EVpedia: A community web resource for prokaryotic and eukaryotic extracellular vesicles research.</a></td>
+          <td>
+            Dae-Kyum Kim, Jaewook Lee, Richard J. Simpson, J. Lötvall, Y. Gho
+          </td>
+          <td>2015-04-01</td>
+          <td>Seminars in cell & developmental biology</td>
+          <td>114</td>
+          <td>92</td>
+        </tr>
+
+        <tr id="Extracellular vesicles (EVs) are membranous structures released by cells into the extracellular space and are thought to be involved in cell-to-cell communication. While EVs and their cargo are promising biomarker candidates, protein sorting mechanisms of proteins to EVs remain unclear. In this study, we ask if it is possible to determine EV association based on the protein sequence. Additionally, we ask what the most important determinants are for EV association. We answer these questions with explainable AI models, using human proteome data from EV databases to train and validate the model. It is essential to correct the datasets for contaminants introduced by coarse EV isolation workflows and for experimental bias caused by mass spectrometry. In this study, we show that it is indeed possible to predict EV association from the protein sequence: a simple sequence-based model for predicting EV proteins achieved an area under the curve of 0.77±0.01, which increased further to 0.84±0.00 when incorporating curated post-translational modification (PTM) annotations. Feature analysis shows that EV associated proteins are stable, polar, and structured with low isoelectric point compared to non-EV proteins. PTM annotations emerged as the most important features for correct classification; specifically palmitoylation is one of the most prevalent EV sorting mechanisms for unique proteins. Palmitoylation and nitrosylation sites are especially prevalent in EV proteins that are determined by very strict isolation protocols, indicating they could potentially serve as quality control criteria for future studies. This computational study offers an effective sequence-based predictor of EV associated proteins with extensive characterisation of the human EV proteome that can explain for individual proteins which factors contribute to their EV association.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/c1596f82dd4bad7e1fdd49c48a0ba6de8e5defd3" target='_blank'>Proteome encoded determinants of protein sorting into extracellular vesicles</a></td>
+          <td>
+            Katharina Waury, Dea Gogishvili, R. Nieuwland, M. Chatterjee, C. Teunissen, Sanne Abeln
+          </td>
+          <td>2023-02-03</td>
+          <td>Journal of Extracellular Biology</td>
+          <td>11</td>
           <td>84</td>
         </tr>
 
-        <tr id="None">
+        <tr id="Exosomes are a class of extracellular vesicles that are secreted by various cell types. Unlike other extracellular vesicles (ectosomes and apoptotic blebs), exosomes are of endocytic origin. The roles of exosomes in vaccine/drug delivery, intercellular communication and as a possible source of disease biomarkers have sparked immense interest in them, resulting in a plethora of studies. Whilst multidimensional datasets are continuously generated, it is difficult to harness the true potential of the data until they are compiled and made accessible to the biomedical researchers. Here, we describe ExoCarta (http://www.exocarta.org), a manually curated database of exosomal proteins, RNA and lipids. Datasets currently present in ExoCarta are integrated from both published and unpublished exosomal studies. Since its launch in 2009, ExoCarta has been accessed by more than 16,000 unique users. In this article, we discuss the utility of ExoCarta for exosomal research and urge biomedical researchers in the field to deposit their datasets directly to ExoCarta.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/de69fab01881acde66f6252d7a37446386d1475e" target='_blank'>Online submission</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/daaf9dae9fa205c61aeed97bd4eb4e92cfd86e31" target='_blank'>ExoCarta as a resource for exosomal research</a></td>
           <td>
-            D. Booth
+            R. Simpson, Hina Kalra, S. Mathivanan
           </td>
-          <td>2006-03-01</td>
-          <td>Quaternary Research</td>
-          <td>101</td>
-          <td>40</td>
+          <td>2012-01-01</td>
+          <td>Journal of Extracellular Vesicles</td>
+          <td>354</td>
+          <td>91</td>
         </tr>
 
         <tr id="None">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/39e4a41252dbf836ccd7c717542f5551024f59d9" target='_blank'>Guides: Alerting Services: Table of Contents, Saved Search, Citation Alerts, & RSS Feeds: Table of Contents Alerts</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/43dab38005ef73c1cc87c73bd86c686361b06f4a" target='_blank'>Brain physiome: A concept bridging in vitro 3D brain models and in silico models for predicting drug toxicity in the brain</a></td>
           <td>
-            Patty Lynn
+            Yoojin Seo, Seokyoung Bang, Jeongtae Son, Dongsup Kim, Yong Jeong, P. Kim, Ji-Hao Yang, J. Eom, Nakwon Choi, H. Kim
           </td>
-          <td>2014-04-23</td>
-          <td></td>
-          <td>0</td>
-          <td>2</td>
+          <td>2021-11-01</td>
+          <td>Bioactive Materials</td>
+          <td>17</td>
+          <td>36</td>
         </tr>
 
-        <tr id="None">
+        <tr id="Abstract Glial cells are phenotypically heterogeneous non-neuronal components of the central and peripheral nervous systems. These cells are endowed with diverse functions and molecular machineries to detect and regulate neuronal or their own activities by various secreted mediators, such as proteinaceous factors. In particular, glia-secreted proteins form a basis of a complex network of glia–neuron or glia–glia interactions in health and diseases. In recent years, the analysis and profiling of glial secretomes have raised new expectations for the diagnosis and treatment of neurological disorders due to the vital role of glia in numerous physiological or pathological processes of the nervous system. However, there is no online database of glia-secreted proteins available to facilitate glial research. Here, we developed a user-friendly ‘Gliome’ database (available at www.gliome.org), a web-based tool to access and analyze glia-secreted proteins. The database provides a vast collection of information on 3293 proteins that are released from glia of multiple species and have been reported to have differential functions under diverse experimental conditions. It contains a web-based interface with the following four key features regarding glia-secreted proteins: (i) fundamental information, such as signal peptide, SecretomeP value, functions and Gene Ontology category; (ii) differential expression patterns under distinct experimental conditions; (iii) disease association; and (iv) interacting proteins. In conclusion, the Gliome database is a comprehensive web-based tool to access and analyze glia-secretome data obtained from diverse experimental settings, whereby it may facilitate the integration of bioinformatics into glial research.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/57c5f7089fb8bb0cf1d7fad1e7a0676e703b8b9b" target='_blank'>Guides: Alerting Services: Table of Contents, Saved Search, Citation Alerts, & RSS Feeds: About Alerts</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/30083a2c83ef31e24697ca73819e93328b37af16" target='_blank'>Gliome database: a comprehensive web-based tool to access and analyze glia secretome data</a></td>
           <td>
-            Patty Lynn
+            Jong-Heon Kim, Su-Hyeong Park, Jin Han, P. Ko, Dongseop Kwon, K. Suk
           </td>
-          <td>2014-04-23</td>
-          <td></td>
-          <td>0</td>
-          <td>2</td>
+          <td>2020-01-01</td>
+          <td>Database: The Journal of Biological Databases and Curation</td>
+          <td>6</td>
+          <td>65</td>
         </tr>
 
-        <tr id="None">
+        <tr id="Renal cell carcinoma (RCC) is the most common type of kidney cancer. Increasingly evidences indicate that extracellular vesicles (EVs) orchestrate multiple processes in tumorigenesis, metastasis, immune evasion, and drug response of RCC. EVs are lipid membrane-bound vesicles in nanometer size and secreted by almost all cell types into the extracellular milieu. A myriad of bioactive molecules such as RNA, DNA, protein, and lipid are able to be delivered via EVs for the intercellular communication. Hence, the abundant content of EVs is appealing reservoir for biomarker identification through computational analysis and experimental validation. EVs with excellent biocompatibility and biodistribution are natural platforms that can be engineered to offer achievable drug delivery strategies for RCC therapies. Moreover, the multifaceted roles of EVs in RCC progression also provide substantial targets and facilitate EVs-based drug discovery, which will be accelerated by using artificial intelligence approaches. In this review, we summarized the vital roles of EVs in occurrence, metastasis, immune evasion, and drug resistance of RCC. Furthermore, we also recapitulated and prospected the EVs-based potential applications in RCC, including biomarker identification, drug vehicle development as well as drug target discovery.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/3491565fface45885f50d2951d742d8d4fa8a09a" target='_blank'>Rapid responses</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/c093e05e941e18bfd2993efd7b964559fb7d420f" target='_blank'>Extracellular Vesicles in Renal Cell Carcinoma: Multifaceted Roles and Potential Applications Identified by Experimental and Computational Methods</a></td>
           <td>
-            Bmj Young, Elizabeth E Mason, Elaine M. Hay, Nadine E Foster, Elaine Thomas, P. Barlas, Jonathan C. Hill, Julie
+            Zhiyuan Qin, Qingwen Xu, Hai-hong Hu, Lushan Yu, S. Zeng
           </td>
-          <td>2001-05-01</td>
-          <td>Archives of Disease in Childhood</td>
-          <td>0</td>
-          <td>22</td>
-        </tr>
-
-        <tr id="None">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/3491565fface45885f50d2951d742d8d4fa8a09a" target='_blank'>Rapid responses</a></td>
-          <td>
-            Bmj Young, Elizabeth E Mason, Elaine M. Hay, Nadine E Foster, Elaine Thomas, P. Barlas, Jonathan C. Hill, Julie
-          </td>
-          <td>2001-05-01</td>
-          <td>Archives of Disease in Childhood</td>
-          <td>0</td>
-          <td>22</td>
+          <td>2020-05-07</td>
+          <td>Frontiers in Oncology</td>
+          <td>23</td>
+          <td>52</td>
         </tr>
 
   </tbody>
