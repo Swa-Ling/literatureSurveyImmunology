@@ -11,7 +11,7 @@ hide:
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2025-12-01 09:20:18 UTC</i>
+  <i class="footer">This page was last updated on 2025-12-08 09:20:38 UTC</i>
   </p>
   
   <div class="note info" onclick="startIntro()">
@@ -81,50 +81,14 @@ hide:
     
         <tr id="None">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/16a53e4f5ccd4166c9cfd1b548ed301889dc9292" target='_blank'>Seeking the ultimate challenge</a></td>
-          <td>
-            P. Brodin
-          </td>
-          <td>2019-05-24</td>
-          <td>Nature Medicine</td>
-          <td>0</td>
-          <td>54</td>
-        </tr>
-    
-        <tr id="Ankylosing spondylitis (AS) is an immune-mediated inflammatory disorder that primarily affects the axial skeleton, especially the sacroiliac joints and spine. This results in chronic back pain and, in extreme cases, ankylosis of the spine. Despite its debilitating effects, the pathogenesis of AS remains to be further elucidated. This study used single cell CITE-seq technology to analyze peripheral blood mononuclear cells (PBMCs) in AS and in healthy controls. We identified a number of molecular features associated with AS. CD52 was found to be overexpressed in both RNA and surface protein expression across several cell types in patients with AS. CD16+ monocytes overexpressed TNFSF10 and IL-18Rα in AS, while CD8+ TEM cells and natural killer cells overexpressed genes linked with cytotoxicity, including GZMH, GZMB, and NKG7. Tregs underexpressed CD39 in AS, suggesting reduced functionality. We identified an overrepresented NK cell subset in AS that overexpressed CD16, CD161, and CD38, as well as cytotoxic genes and pathways. Finally, we developed machine learning models derived from CITE-seq data for the classification of AS and achieved an Area Under the Receiver Operating Characteristic (AUROC) curve of > 0.95. In summary, CITE-seq identification of AS-associated genes and surface proteins in specific cell subsets informs our understanding of pathogenesis and potential new therapeutic targets, while providing new approaches for diagnosis via machine learning.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/0df7233a9fd7894e3c6a13ed8c284c660104293a" target='_blank'>Single Cell Transcriptome and Surface Epitope Analysis of Ankylosing Spondylitis Facilitates Disease Classification by Machine Learning</a></td>
-          <td>
-            S. Alber, Sugandh Kumar, Jared Liu, Zhi-ming Huang, D. Páez, Julie J. Hong, H. Chang, T. Bhutani, L. Gensler, W. Liao
-          </td>
-          <td>2022-05-13</td>
-          <td>Frontiers in Immunology</td>
-          <td>18</td>
-          <td>50</td>
-        </tr>
-    
-        <tr id="None">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
           <td><a href="https://www.semanticscholar.org/paper/a922ce01d2fadcad1bf7cd4bbf91cb8effadd3d4" target='_blank'>Recent advancement in targeted therapy and role of emerging technologies to treat cancer</a></td>
           <td>
             Shrikant Barot, Henis J. Patel, Anjali Yadav, Igor Ban
           </td>
           <td>2023-10-07</td>
           <td>Medical Oncology</td>
-          <td>10</td>
+          <td>11</td>
           <td>5</td>
-        </tr>
-    
-        <tr id="COPYRIGHT © 2023 Sun, Zhang, Li, Xie, Luo, Wang, Chen, Wang, Jiang and Yang. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms. TYPE Opinion PUBLISHED 31 January 2023 DOI 10.3389/fimmu.2023.1075419">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/55297e1d6a1eb3e5ad28e222e6484ea9889ddb40" target='_blank'>Integration: Gospel for immune bioinformatician on epitope-based therapy</a></td>
-          <td>
-            Baozeng Sun, Junqi Zhang, Zhikui Li, Mingyang Xie, Cheng Luo, Yongkai Wang, Longyu Chen, Yue-yun Wang, Dongbo Jiang, Kun Yang
-          </td>
-          <td>2023-01-31</td>
-          <td>Frontiers in Immunology</td>
-          <td>4</td>
-          <td>15</td>
         </tr>
     
         <tr id="Mucosal-associated invariant T (MAIT) cells are a group of unconventional T cells that mainly recognize bacterial vitamin B metabolites presented on MHC-related protein 1 (MR1). MAIT cells have been shown to play an important role in controlling bacterial infection and in responding to viral infections. Furthermore, MAIT cells have been implicated in different chronic inflammatory diseases such as inflammatory bowel disease and multiple sclerosis. Despite their involvement in different physiological and pathological processes, a deeper understanding of MAIT cells is still lacking. Arguably, this can be attributed to the difficulty of quantifying and measuring MAIT cells in different biological samples which is commonly done using flow cytometry-based methods and single-cell-based RNA sequencing techniques. These methods mostly require fresh samples which are difficult to obtain, especially from tissues, have low to medium throughput, and are costly and labor-intensive. To address these limitations, we developed sequence-to-MAIT (Seq2MAIT) which is a transformer-based deep neural network capable of identifying MAIT cells in bulk TCR-sequencing datasets, enabling the quantification of MAIT cells from any biological materials where human DNA is available. Benchmarking Seq2MAIT across different test datasets showed an average area-under-the-receiver-operator-curve (AU[ROC]) >0.80. In conclusion, Seq2MAIT is a novel, economical, and scalable method for identifying and quantifying MAIT cells in virtually any biological sample.">
@@ -137,6 +101,54 @@ hide:
           <td>bioRxiv</td>
           <td>1</td>
           <td>12</td>
+        </tr>
+    
+        <tr id="None">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/5cce0b2358ed6e71bac072e956c92ad326f870d9" target='_blank'>AI-Guided CAR Designs and AKT3 Degradation Synergize to Enhance Bispecific and Trispecific CAR-T Cell Persistence and Overcome Antigen Escape</a></td>
+          <td>
+            Mohammad Sufyan Ansari, Varnit Chauhan, Aashi Singh, A. Akhtar, Nisha Chaudhary, Reegina Tyagi, Divya, Kashif Husain, Sheetal Sharma, Ruquaiya Alam, Md Shakir, Mehak Pracha, Samreen Anjum, Mohd Nadeem, Md Imam Faizan, Iqbal Azmi, Aditya Ramdas Iyer, Pragya Gupta, Mehwish Nafiz, Shayan Ali, Insha Mohi Uddin, Momina Javid, Hamenth Kumar P, Amit Kumar Srivastava, U. Mabalirajan, Vikram Mathews, Sivaprakash Ramalingam, Gaurav Kharya, Tanveer Ahmad
+          </td>
+          <td>2025-06-16</td>
+          <td>bioRxiv</td>
+          <td>0</td>
+          <td>29</td>
+        </tr>
+    
+        <tr id="The innate immune response is vital for the success of prophylactic vaccines and immunotherapies. Control of signaling in innate immune pathways can improve prophylactic vaccines by inhibiting unfavorable systemic inflammation and immunotherapies by enhancing immune stimulation. In this work, we developed a machine learning-enabled active learning pipeline to guide in vitro experimental screening and discovery of small molecule immunomodulators that improve immune responses by altering the signaling activity of innate immune responses stimulated by traditional pattern recognition receptor agonists. Molecules were tested by in vitro high throughput screening (HTS) where we measured modulation of the nuclear factor κ-light-chain-enhancer of activated B-cells (NF-κB) and the interferon regulatory factors (IRF) pathways. These data were used to train data-driven predictive models linking molecular structure to modulation of the NF-κB and IRF responses using deep representational learning, Gaussian process regression, and Bayesian optimization. By interleaving successive rounds of model training and in vitro HTS, we performed an active learning-guided traversal of a 139,998 molecule library. After sampling only ∼2% of the library, we discovered viable molecules with unprecedented immunomodulatory capacity, including those capable of suppressing NF-κB activity by up to 15-fold, elevating NF-κB activity by up to 5-fold, and elevating IRF activity by up to 6-fold. We extracted chemical design rules identifying particular chemical fragments as principal drivers of specific immunomodulation behaviors. We validated the immunomodulatory effect of a subset of our top candidates by measuring cytokine release profiles. Of these, one molecule induced a 3-fold enhancement in IFN-β production when delivered with a cyclic di-nucleotide stimulator of interferon genes (STING) agonist. In sum, our machine learning-enabled screening approach presents an efficient immunomodulator discovery pipeline that has furnished a library of novel small molecules with a strong capacity to enhance or suppress innate immune signaling pathways to shape and improve prophylactic vaccination and immunotherapies.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/856fac1fabe015a9be15d183af164343b060e203" target='_blank'>Data-driven discovery of innate immunomodulators via machine learning-guided high throughput screening</a></td>
+          <td>
+            Yifeng Tang, Jeremiah Y Kim, C. Ip, A. Bahmani, Qing Chen, M. Rosenberger, Aaron P. Esser‐Kahn, Andrew L. Ferguson
+          </td>
+          <td>2023-06-28</td>
+          <td>Chemical Science</td>
+          <td>1</td>
+          <td>30</td>
+        </tr>
+    
+        <tr id="Since the first introduction of Artificial Intelligence (AI) in 1956, its aim was to tackle problems with human intelligence, but with greater speed and accuracy. AI has been inspired a lot by natu...">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/51351e802ae63deeeda3a8c35429fcf87289ea58" target='_blank'>Artificial intelligence and immunotherapy</a></td>
+          <td>
+            Parnian Jabbari, N. Rezaei
+          </td>
+          <td>2019-06-03</td>
+          <td>Expert Review of Clinical Immunology</td>
+          <td>26</td>
+          <td>95</td>
+        </tr>
+    
+        <tr id="Rheumatoid Arthritis (RA) is an inflammatory autoimmune disease that affects 23 million people worldwide. It is a clinically heterogeneous disorder characterized by the attack of inflammatory chemicals on the synovial tissue that lines joints. It is advantageous to develop effective, targeted treatments and identify specific diagnostic biomarkers for RA before extensive joint degradation, bone erosion, and cartilage destruction. Current modes of RA treatments have alleviated and notably halted the progression of RA. Despite this, not many patients reach low disease activity status after treatment, and a significant number of patients fail to respond to medication due to drug non-specificity. While the reasons for these rates remain unknown, the cellular and molecular signatures present in the synovial tissue for RA patients likely play a role in the varied treatment response. Thus, a drug that particularly targets specific genes and networks may have a significant effect in halting the progression of RA. This study evaluates and proposes potential drug targets through in silico mathematical modeling of various pathways of interest in RA. To understand how drugs interact with genes, we built a mathematical model with 30 two-gene and three-gene network interactions and analyzed the effect of 92 different perturbations to rate constants. We determined that inhibition of the LCK-CD4, VAV1-CD4, and MLT-ROR pathways could potentially serve as drug targets. We also found that increased activity of the DEC2-IL1β and the NF-kB-interleukin pathway and the decreased activity of the TNF-α-REV-ERB pathway could serve as diagnostic biomarkers.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/5ed8bc30a87977c47c1d9eee552d50185c806f93" target='_blank'>A Computational Modeling Framework to Analyze Synovial-Tissue Based Drug Targets and Diagnostic Biomarkers in Rheumatoid Arthritis</a></td>
+          <td>
+            P. Latawa, B. Chrisman
+          </td>
+          <td>2021-11-10</td>
+          <td>bioRxiv</td>
+          <td>0</td>
+          <td>16</td>
         </tr>
     
   </tbody>
