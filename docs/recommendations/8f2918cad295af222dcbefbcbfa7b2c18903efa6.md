@@ -11,7 +11,7 @@ hide:
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2025-12-29 09:22:58 UTC</i>
+  <i class="footer">This page was last updated on 2026-01-05 09:24:31 UTC</i>
   </p>
   
   <div class="note info" onclick="startIntro()">
@@ -103,18 +103,6 @@ hide:
           <td>5</td>
         </tr>
     
-        <tr id="COPYRIGHT © 2023 Sun, Zhang, Li, Xie, Luo, Wang, Chen, Wang, Jiang and Yang. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms. TYPE Opinion PUBLISHED 31 January 2023 DOI 10.3389/fimmu.2023.1075419">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/55297e1d6a1eb3e5ad28e222e6484ea9889ddb40" target='_blank'>Integration: Gospel for immune bioinformatician on epitope-based therapy</a></td>
-          <td>
-            Baozeng Sun, Junqi Zhang, Zhikui Li, Mingyang Xie, Cheng Luo, Yongkai Wang, Longyu Chen, Yue-yun Wang, Dongbo Jiang, Kun Yang
-          </td>
-          <td>2023-01-31</td>
-          <td>Frontiers in Immunology</td>
-          <td>4</td>
-          <td>15</td>
-        </tr>
-    
         <tr id="None">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
           <td><a href="https://www.semanticscholar.org/paper/5cce0b2358ed6e71bac072e956c92ad326f870d9" target='_blank'>AI-Guided CAR Designs and AKT3 Degradation Synergize to Enhance Bispecific and Trispecific CAR-T Cell Persistence and Overcome Antigen Escape</a></td>
@@ -137,18 +125,6 @@ hide:
           <td>Immuno</td>
           <td>3</td>
           <td>53</td>
-        </tr>
-    
-        <tr id="Because of their diverse clinical manifestations and intricate pathophysiology, autoimmune diseases which are defined by the immune system wrongly attacking healthy tissues present serious difficulties. Artificial intelligence (AI) has shown revolutionary promise in this field, especially in improving diagnostic precision, facilitating tailored treatment plans, and offering real-time illness tracking. This paper highlights AI's role in assessing various datasets pertaining to immune function and pathology while critically examining the present applications of AI in the therapy of autoimmune diseases. In order to find new biomarkers and enable early and accurate detection of various disorders, advanced AI approaches such as machine learning and deep learning have proven essential. AI-powered predictive models have demonstrated promise in predicting periods of remission and disease flares, allowing for prompt and focused treatment modifications. Furthermore, by accelerating the identification of promising therapeutic candidates and lowering related costs, AI is transforming drug discovery and repurposing. However, issues including data heterogeneity, algorithmic transparency, and patient confidence in AI-driven suggestions limit AI's full potential in the treatment of autoimmune diseases. This paper highlights the need for ethical frameworks and interdisciplinary collaboration by examining these limits and suggesting solutions. This paper shows AI's potential to transform the diagnosis, treatment, and management of autoimmune disorders by combining recent developments and future applications. This will pave the way for a future where healthcare solutions are proactive, accurate, and individualized.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/f07f41b711d86b6529aa515d8cfa8d3baf41b6ee" target='_blank'>AI in autoimmune diseases: Transforming diagnosis and treatment</a></td>
-          <td>
-            D. Mane, Abhijeet Nagnath Deshmukh, Rohit Hanumant Ambare, Akash Ankush Solankar, Chaitanya Sanjaykumar Madane
-          </td>
-          <td>2025-01-15</td>
-          <td>Journal of Pharmaceutical and Biological Sciences</td>
-          <td>2</td>
-          <td>1</td>
         </tr>
     
   </tbody>
