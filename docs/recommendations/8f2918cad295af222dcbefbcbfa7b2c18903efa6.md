@@ -11,7 +11,7 @@ hide:
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2026-01-12 09:25:02 UTC</i>
+  <i class="footer">This page was last updated on 2026-01-19 09:27:18 UTC</i>
   </p>
   
   <div class="note info" onclick="startIntro()">
@@ -42,28 +42,41 @@ hide:
   </thead>
   <tbody>
     
-        <tr id="Chapter 31 gives an overview of rheumatology, the study of rheumatic conditions which can involve the joints, soft tissues, and bones and also comprises connective tissue disorders, vasculitides, and a number of autoimmune conditions. The chapter outlines patterns of rheumatological disease (e.g. mono-, oligo-, and polyarthropathies), symmetrical versus asymmetrical presentations of disease, and explains how to try and differentiate between inflammatory and non-inflammatory disorders. The chapter provides information on common drug treatments, including dangerous side effects from improperly prescribed methotrexate. Advice is given on history taking and detailed hand examination, with clinical signs of rheumatoid arthritis: Swan neck deformity, Boutonniere’s deformity, Z deformity of thumb, Bouchard’s nodes (proximal interphalangeal joint), Heberden’s nodes (distal interphalangeal joint, first metacarpophalangeal joint), finger ulnar deviation (metacarpophalangeal joint), and wrist radial deviation and subluxation. The most common rheumatological disorders are discussed, including rheumatoid arthritis, spondyloarthropathy, ankylosing spondylitis, psoriatic arthritis, gout, and osteoporosis (including the ‘MESSAGE’ mnemonic for osteoporosis risk factors). The Chapel Hill classification for vasculitides is also covered.">
+        <tr id="
+ Bispecific T cell engaging antibodies (TEAs) with one arm targeting a cancer antigen and another arm binding to CD3 have demonstrated impressive efficacy in multiple clinical studies. However, establishing a safety/efficacy balance remains challenging. For instance, some TEAs have severe safety issues. Additionally, not all patients or all cancer cells of one patient respond equally to TEAs. Here, we developed a next-generation bispecific TEA with better safety/efficacy balance and expanded mechanisms of action. Using the computer aided antibody design strategy, we replaced heavy chain complementarity-determining regions (HCDRs) in one Rituximab arm with HCDRs from a CD3 antibody and generated a novel CD20/CD3 bispecific antibody. After series of computer aided sequence optimization, the lead molecule, GB261, showed great safety/efficacy balance both in vitro and in animal studies. GB261 exhibited high affinity to CD20 and ultra-low affinity to CD3. It showed comparable T cell activation and reduced cytokine secretion compared to a benchmark antibody (BM). GB261-induced ADCC and CDC only killed CD20+ cells but not CD3+ cells. It exhibited better RRCL cell killing than the BM in a PBMC engrafted, therapeutic treatment mouse model and good safety in cynomolgus monkeys. Thus, GB261 is a promising novel TEA against CD20+ cancers.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/0385480d077c026fdc5b1fbf0fc2482d77ffe69d" target='_blank'>Rheumatology</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/6a4287b3c6b52151d5e4f46d99cc677e2a442685" target='_blank'>A computationally designed Rituximab/CD3 T cell engager targeting CD20+ cancers with multiple mechanisms of action</a></td>
           <td>
-            Paul Bentley, Ben Lovell
+            Cai Wenyan, Jianbo Dong, Sachith Gallolu Kankanamalage, Allison Titong, Shi Jiadong, Zhejun Jia, Bo Wang, Cai Huang, Jing Zhang, Lin Jun, Z KanSteven, Zhou Joe, Yue Liu
           </td>
-          <td>2019-01-23</td>
-          <td>Memorizing Medicine</td>
-          <td>216</td>
-          <td>2</td>
+          <td>2021-03-17</td>
+          <td></td>
+          <td>0</td>
+          <td>12</td>
         </tr>
     
-        <tr id="Chapter 31 gives an overview of rheumatology, the study of rheumatic conditions which can involve the joints, soft tissues, and bones and also comprises connective tissue disorders, vasculitides, and a number of autoimmune conditions. The chapter outlines patterns of rheumatological disease (e.g. mono-, oligo-, and polyarthropathies), symmetrical versus asymmetrical presentations of disease, and explains how to try and differentiate between inflammatory and non-inflammatory disorders. The chapter provides information on common drug treatments, including dangerous side effects from improperly prescribed methotrexate. Advice is given on history taking and detailed hand examination, with clinical signs of rheumatoid arthritis: Swan neck deformity, Boutonniere’s deformity, Z deformity of thumb, Bouchard’s nodes (proximal interphalangeal joint), Heberden’s nodes (distal interphalangeal joint, first metacarpophalangeal joint), finger ulnar deviation (metacarpophalangeal joint), and wrist radial deviation and subluxation. The most common rheumatological disorders are discussed, including rheumatoid arthritis, spondyloarthropathy, ankylosing spondylitis, psoriatic arthritis, gout, and osteoporosis (including the ‘MESSAGE’ mnemonic for osteoporosis risk factors). The Chapel Hill classification for vasculitides is also covered.">
+        <tr id="Bispecific T-cell engaging therapies harness the immune system to elicit an effective anticancer response. Modulating the immune activation avoiding potential adverse effects such as cytokine release syndrome (CRS) is a critical aspect to realizing the full potential of this therapy. The use of suitable exogenous intervention strategies to mitigate the CRS risk without compromising the antitumoral capability of bispecific antibody treatment is crucial. To this end, computational approaches can be instrumental to systematically exploring the effects of combining bispecific antibodies with CRS intervention strategies. Here, we employ a logical model to describe the action of bispecific antibodies and the complex interplay of various immune system components and use it to perform simulation experiments to improve the understanding of the factors affecting CRS. We performed a sensitivity analysis to identify the comedications that could ameliorate CRS without impairing tumor clearance. Our results agree with publicly available experimental data suggesting anti-TNF and anti-IL6 as possible co-treatments. Furthermore, we suggest anti-IFNγ as a suitable candidate for clinical studies.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/0385480d077c026fdc5b1fbf0fc2482d77ffe69d" target='_blank'>Rheumatology</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/73b15e89fe9ee38f8cee9b8688b18c9a82745947" target='_blank'>Computational Analysis of Cytokine Release Following Bispecific T-Cell Engager Therapy: Applications of a Logic-Based Model</a></td>
           <td>
-            Paul Bentley, Ben Lovell
+            G. Selvaggio, S. Parolo, Pranami Bora, L. Leonardelli, J. Harrold, Khamir Mehta, D. Rock, L. Marchetti
           </td>
-          <td>2019-01-23</td>
-          <td>Memorizing Medicine</td>
-          <td>216</td>
-          <td>2</td>
+          <td>2022-03-08</td>
+          <td>Frontiers in Oncology</td>
+          <td>10</td>
+          <td>31</td>
+        </tr>
+    
+        <tr id="Cytokine release syndrome (CRS) is a lethal adverse event in chimeric antigen receptor (CAR) T‐cell therapy, hindering this promising therapy for cancers, such as B‐cell acute lymphoblastic leukemia (B‐ALL). Clinical management of CRS requires a better understanding of its underlying mechanisms. In this study, a computational model of CRS during CAR T‐cell therapy is built to depict how the cellular interactions among CAR T‐cells, B‐ALL cells, and bystander monocytes, as well as the accompanying molecular interactions among various inflammatory cytokines, influence the severity of CRS. The model successfully defines the factors related to severe CRS and studies the effects of immunomodulatory therapy on CRS. The use of the model is also demonstrated as a precision medicine tool to optimize the treatment scheme, including personalized choice of CAR T‐cell products and control of switchable CAR T‐cell activity, for a more efficient and safer immunotherapy. This new computational oncology model can serve as a precision medicine tool to guide the clinical management of CRS during CAR T cell therapy.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/87d52b5853e9f8c39186cb00095a3e8113def110" target='_blank'>A Computational Model of Cytokine Release Syndrome during CAR T‐Cell Therapy</a></td>
+          <td>
+            Zhuoyu Zhang, Lunan Liu, Chao Ma, Weiqiang Chen
+          </td>
+          <td>2022-08-04</td>
+          <td>Advanced Therapeutics</td>
+          <td>8</td>
+          <td>22</td>
         </tr>
     
         <tr id="None">
@@ -78,18 +91,6 @@ hide:
           <td>54</td>
         </tr>
     
-        <tr id="Ankylosing spondylitis (AS) is an immune-mediated inflammatory disorder that primarily affects the axial skeleton, especially the sacroiliac joints and spine. This results in chronic back pain and, in extreme cases, ankylosis of the spine. Despite its debilitating effects, the pathogenesis of AS remains to be further elucidated. This study used single cell CITE-seq technology to analyze peripheral blood mononuclear cells (PBMCs) in AS and in healthy controls. We identified a number of molecular features associated with AS. CD52 was found to be overexpressed in both RNA and surface protein expression across several cell types in patients with AS. CD16+ monocytes overexpressed TNFSF10 and IL-18Rα in AS, while CD8+ TEM cells and natural killer cells overexpressed genes linked with cytotoxicity, including GZMH, GZMB, and NKG7. Tregs underexpressed CD39 in AS, suggesting reduced functionality. We identified an overrepresented NK cell subset in AS that overexpressed CD16, CD161, and CD38, as well as cytotoxic genes and pathways. Finally, we developed machine learning models derived from CITE-seq data for the classification of AS and achieved an Area Under the Receiver Operating Characteristic (AUROC) curve of > 0.95. In summary, CITE-seq identification of AS-associated genes and surface proteins in specific cell subsets informs our understanding of pathogenesis and potential new therapeutic targets, while providing new approaches for diagnosis via machine learning.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/0df7233a9fd7894e3c6a13ed8c284c660104293a" target='_blank'>Single Cell Transcriptome and Surface Epitope Analysis of Ankylosing Spondylitis Facilitates Disease Classification by Machine Learning</a></td>
-          <td>
-            S. Alber, Sugandh Kumar, Jared Liu, Zhi-ming Huang, D. Páez, Julie J. Hong, H. Chang, T. Bhutani, L. Gensler, W. Liao
-          </td>
-          <td>2022-05-13</td>
-          <td>Frontiers in Immunology</td>
-          <td>19</td>
-          <td>50</td>
-        </tr>
-    
         <tr id="Trained Immunity is the nonspecific (pathogen agnostic) memory of innate immune cells, characterized by altered responses upon secondary stimulation. This review provides a RoadMap for the discovery and development of therapeutics targeting Trained Immunity, aimed at researchers with strong scientific backgrounds but limited drug development experience. The article outlines five drug development domains – epigenetic, metabolic, differentiation, inflammatory, and memory changes – that guide the identification of molecular targets, model selection, and biomarker development for the discovery and development of Trained Immunity-based therapeutics. It emphasizes the application of preclinical models and artificial intelligence in target discovery and compound screening. Additionally, the review addresses challenges in translating preclinical Trained Immunity findings to clinical trials and highlights relevant disease indications and ongoing clinical trials. This review integrates scientific findings with development strategy and thereby aims to bridge the gap between discovery and clinical application, advancing the field of Trained Immunity-based therapeutics.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
           <td><a href="https://www.semanticscholar.org/paper/1e32e161fe88188b7ab3aacb49680bec8bd2cf08" target='_blank'>Trained Immunity: RoadMap for drug discovery and development</a></td>
@@ -102,40 +103,52 @@ hide:
           <td>7</td>
         </tr>
     
-        <tr id="COPYRIGHT © 2023 Sun, Zhang, Li, Xie, Luo, Wang, Chen, Wang, Jiang and Yang. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms. TYPE Opinion PUBLISHED 31 January 2023 DOI 10.3389/fimmu.2023.1075419">
+        <tr id="None">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/55297e1d6a1eb3e5ad28e222e6484ea9889ddb40" target='_blank'>Integration: Gospel for immune bioinformatician on epitope-based therapy</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/a922ce01d2fadcad1bf7cd4bbf91cb8effadd3d4" target='_blank'>Recent advancement in targeted therapy and role of emerging technologies to treat cancer</a></td>
           <td>
-            Baozeng Sun, Junqi Zhang, Zhikui Li, Mingyang Xie, Cheng Luo, Yongkai Wang, Longyu Chen, Yue-yun Wang, Dongbo Jiang, Kun Yang
+            Shrikant Barot, Henis J. Patel, Anjali Yadav, Igor Ban
           </td>
-          <td>2023-01-31</td>
-          <td>Frontiers in Immunology</td>
-          <td>4</td>
-          <td>15</td>
+          <td>2023-10-07</td>
+          <td>Medical Oncology</td>
+          <td>11</td>
+          <td>5</td>
         </tr>
     
-        <tr id="Mucosal-associated invariant T (MAIT) cells are a group of unconventional T cells that mainly recognize bacterial vitamin B metabolites presented on MHC-related protein 1 (MR1). MAIT cells have been shown to play an important role in controlling bacterial infection and in responding to viral infections. Furthermore, MAIT cells have been implicated in different chronic inflammatory diseases such as inflammatory bowel disease and multiple sclerosis. Despite their involvement in different physiological and pathological processes, a deeper understanding of MAIT cells is still lacking. Arguably, this can be attributed to the difficulty of quantifying and measuring MAIT cells in different biological samples which is commonly done using flow cytometry-based methods and single-cell-based RNA sequencing techniques. These methods mostly require fresh samples which are difficult to obtain, especially from tissues, have low to medium throughput, and are costly and labor-intensive. To address these limitations, we developed sequence-to-MAIT (Seq2MAIT) which is a transformer-based deep neural network capable of identifying MAIT cells in bulk TCR-sequencing datasets, enabling the quantification of MAIT cells from any biological materials where human DNA is available. Benchmarking Seq2MAIT across different test datasets showed an average area-under-the-receiver-operator-curve (AU[ROC]) >0.80. In conclusion, Seq2MAIT is a novel, economical, and scalable method for identifying and quantifying MAIT cells in virtually any biological sample.">
+        <tr id="None">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/7407ca7605f24e11c1fc4335ba413bb4681f30b9" target='_blank'>Seq2MAIT: A Novel Deep Learning Framework for Identifying Mucosal Associated Invariant T (MAIT) Cells</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/5cce0b2358ed6e71bac072e956c92ad326f870d9" target='_blank'>AI-Guided CAR Designs and AKT3 Degradation Synergize to Enhance Bispecific and Trispecific CAR-T Cell Persistence and Overcome Antigen Escape</a></td>
           <td>
-            H. ElAbd, Rachel Byron, Steven Woodhouse, Brittney Robinett, Joe Sulc, A. Franke, Mitchell Pesesky, Wenyu Zhou, Haiyin Chen-Harris, Bryan Howie, Ruth Taniguchi, Harlan S. Robins
+            Mohammad Sufyan Ansari, Varnit Chauhan, Aashi Singh, A. Akhtar, Nisha Chaudhary, Reegina Tyagi, Divya, Kashif Husain, Sheetal Sharma, Ruquaiya Alam, Md Shakir, Mehak Pracha, Samreen Anjum, Mohd Nadeem, Md Imam Faizan, Iqbal Azmi, Aditya Ramdas Iyer, Pragya Gupta, Mehwish Nafiz, Shayan Ali, Insha Mohi Uddin, Momina Javid, Hamenth Kumar P, Amit Kumar Srivastava, U. Mabalirajan, Vikram Mathews, Sivaprakash Ramalingam, Gaurav Kharya, Tanveer Ahmad
           </td>
-          <td>2024-03-14</td>
+          <td>2025-06-16</td>
           <td>bioRxiv</td>
-          <td>1</td>
-          <td>12</td>
+          <td>0</td>
+          <td>29</td>
         </tr>
     
-        <tr id="Because of their diverse clinical manifestations and intricate pathophysiology, autoimmune diseases which are defined by the immune system wrongly attacking healthy tissues present serious difficulties. Artificial intelligence (AI) has shown revolutionary promise in this field, especially in improving diagnostic precision, facilitating tailored treatment plans, and offering real-time illness tracking. This paper highlights AI's role in assessing various datasets pertaining to immune function and pathology while critically examining the present applications of AI in the therapy of autoimmune diseases. In order to find new biomarkers and enable early and accurate detection of various disorders, advanced AI approaches such as machine learning and deep learning have proven essential. AI-powered predictive models have demonstrated promise in predicting periods of remission and disease flares, allowing for prompt and focused treatment modifications. Furthermore, by accelerating the identification of promising therapeutic candidates and lowering related costs, AI is transforming drug discovery and repurposing. However, issues including data heterogeneity, algorithmic transparency, and patient confidence in AI-driven suggestions limit AI's full potential in the treatment of autoimmune diseases. This paper highlights the need for ethical frameworks and interdisciplinary collaboration by examining these limits and suggesting solutions. This paper shows AI's potential to transform the diagnosis, treatment, and management of autoimmune disorders by combining recent developments and future applications. This will pave the way for a future where healthcare solutions are proactive, accurate, and individualized.">
+        <tr id="The pathogenesis of COVID-19 is complicated by immune dysfunction. The impact of immune-based therapy in COVID-19 patients has been well documented, with some notable studies on the use of anti-cytokine medicines. However, the complexity of disease phenotypes, patient heterogeneity and the varying quality of evidence from immunotherapy studies provide problems in clinical decision-making. This review seeks to aid therapeutic decision-making by giving an overview of the immunological responses against COVID-19 disease that may contribute to the severity of the disease. We have extensively discussed theranostic methods for COVID-19 detection. With advancements in technology, bioinformatics has taken studies to a higher level. The paper also discusses the application of bioinformatics and machine learning tools for the diagnosis, vaccine design and drug repurposing against SARS-CoV-2.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/f07f41b711d86b6529aa515d8cfa8d3baf41b6ee" target='_blank'>AI in autoimmune diseases: Transforming diagnosis and treatment</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/acd4caabbb311a44234678a44df1c14dec251114" target='_blank'>Probing the Immune System Dynamics of the COVID-19 Disease for Vaccine Designing and Drug Repurposing Using Bioinformatics Tools</a></td>
           <td>
-            D. Mane, Abhijeet Nagnath Deshmukh, Rohit Hanumant Ambare, Akash Ankush Solankar, Chaitanya Sanjaykumar Madane
+            Deepshikha Yadav, S. Agarwal, Pranav Pancham, Divya Jindal, V. Agarwal, Premshankar Kumar Dubey, S. Jha, Shalini Mani, Rachana, A. Dey, N. Jha, K. Kesari, Manisha Singh
           </td>
-          <td>2025-01-15</td>
-          <td>Journal of Pharmaceutical and Biological Sciences</td>
-          <td>2</td>
-          <td>1</td>
+          <td>2022-04-28</td>
+          <td>Immuno</td>
+          <td>5</td>
+          <td>53</td>
+        </tr>
+    
+        <tr id="Rheumatoid Arthritis (RA) is an inflammatory autoimmune disease that affects 23 million people worldwide. It is a clinically heterogeneous disorder characterized by the attack of inflammatory chemicals on the synovial tissue that lines joints. It is advantageous to develop effective, targeted treatments and identify specific diagnostic biomarkers for RA before extensive joint degradation, bone erosion, and cartilage destruction. Current modes of RA treatments have alleviated and notably halted the progression of RA. Despite this, not many patients reach low disease activity status after treatment, and a significant number of patients fail to respond to medication due to drug non-specificity. While the reasons for these rates remain unknown, the cellular and molecular signatures present in the synovial tissue for RA patients likely play a role in the varied treatment response. Thus, a drug that particularly targets specific genes and networks may have a significant effect in halting the progression of RA. This study evaluates and proposes potential drug targets through in silico mathematical modeling of various pathways of interest in RA. To understand how drugs interact with genes, we built a mathematical model with 30 two-gene and three-gene network interactions and analyzed the effect of 92 different perturbations to rate constants. We determined that inhibition of the LCK-CD4, VAV1-CD4, and MLT-ROR pathways could potentially serve as drug targets. We also found that increased activity of the DEC2-IL1β and the NF-kB-interleukin pathway and the decreased activity of the TNF-α-REV-ERB pathway could serve as diagnostic biomarkers.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/5ed8bc30a87977c47c1d9eee552d50185c806f93" target='_blank'>A Computational Modeling Framework to Analyze Synovial-Tissue Based Drug Targets and Diagnostic Biomarkers in Rheumatoid Arthritis</a></td>
+          <td>
+            P. Latawa, B. Chrisman
+          </td>
+          <td>2021-11-10</td>
+          <td>bioRxiv</td>
+          <td>0</td>
+          <td>16</td>
         </tr>
     
   </tbody>
