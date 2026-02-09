@@ -11,7 +11,7 @@ hide:
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2026-02-02 09:38:08 UTC</i>
+  <i class="footer">This page was last updated on 2026-02-09 09:54:49 UTC</i>
   </p>
   
   <div class="note info" onclick="startIntro()">
@@ -42,16 +42,40 @@ hide:
   </thead>
   <tbody>
     
-        <tr id="Bispecific T-cell engaging therapies harness the immune system to elicit an effective anticancer response. Modulating the immune activation avoiding potential adverse effects such as cytokine release syndrome (CRS) is a critical aspect to realizing the full potential of this therapy. The use of suitable exogenous intervention strategies to mitigate the CRS risk without compromising the antitumoral capability of bispecific antibody treatment is crucial. To this end, computational approaches can be instrumental to systematically exploring the effects of combining bispecific antibodies with CRS intervention strategies. Here, we employ a logical model to describe the action of bispecific antibodies and the complex interplay of various immune system components and use it to perform simulation experiments to improve the understanding of the factors affecting CRS. We performed a sensitivity analysis to identify the comedications that could ameliorate CRS without impairing tumor clearance. Our results agree with publicly available experimental data suggesting anti-TNF and anti-IL6 as possible co-treatments. Furthermore, we suggest anti-IFNγ as a suitable candidate for clinical studies.">
+        <tr id="None">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/73b15e89fe9ee38f8cee9b8688b18c9a82745947" target='_blank'>Computational Analysis of Cytokine Release Following Bispecific T-Cell Engager Therapy: Applications of a Logic-Based Model</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/16a53e4f5ccd4166c9cfd1b548ed301889dc9292" target='_blank'>Seeking the ultimate challenge</a></td>
           <td>
-            G. Selvaggio, S. Parolo, Pranami Bora, L. Leonardelli, J. Harrold, Khamir Mehta, D. Rock, L. Marchetti
+            P. Brodin
           </td>
-          <td>2022-03-08</td>
-          <td>Frontiers in Oncology</td>
-          <td>10</td>
-          <td>32</td>
+          <td>2019-05-24</td>
+          <td>Nature Medicine</td>
+          <td>0</td>
+          <td>55</td>
+        </tr>
+    
+        <tr id="Trained Immunity is the nonspecific (pathogen agnostic) memory of innate immune cells, characterized by altered responses upon secondary stimulation. This review provides a RoadMap for the discovery and development of therapeutics targeting Trained Immunity, aimed at researchers with strong scientific backgrounds but limited drug development experience. The article outlines five drug development domains – epigenetic, metabolic, differentiation, inflammatory, and memory changes – that guide the identification of molecular targets, model selection, and biomarker development for the discovery and development of Trained Immunity-based therapeutics. It emphasizes the application of preclinical models and artificial intelligence in target discovery and compound screening. Additionally, the review addresses challenges in translating preclinical Trained Immunity findings to clinical trials and highlights relevant disease indications and ongoing clinical trials. This review integrates scientific findings with development strategy and thereby aims to bridge the gap between discovery and clinical application, advancing the field of Trained Immunity-based therapeutics.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/1e32e161fe88188b7ab3aacb49680bec8bd2cf08" target='_blank'>Trained Immunity: RoadMap for drug discovery and development</a></td>
+          <td>
+            Jelmer H. van Puffelen, Callum Campbell, Irene Gander-Meisterernst, Johanna Holldack, Pauline T Lukey
+          </td>
+          <td>2025-12-23</td>
+          <td>eLife</td>
+          <td>0</td>
+          <td>8</td>
+        </tr>
+    
+        <tr id="The pathogenesis of COVID-19 is complicated by immune dysfunction. The impact of immune-based therapy in COVID-19 patients has been well documented, with some notable studies on the use of anti-cytokine medicines. However, the complexity of disease phenotypes, patient heterogeneity and the varying quality of evidence from immunotherapy studies provide problems in clinical decision-making. This review seeks to aid therapeutic decision-making by giving an overview of the immunological responses against COVID-19 disease that may contribute to the severity of the disease. We have extensively discussed theranostic methods for COVID-19 detection. With advancements in technology, bioinformatics has taken studies to a higher level. The paper also discusses the application of bioinformatics and machine learning tools for the diagnosis, vaccine design and drug repurposing against SARS-CoV-2.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/acd4caabbb311a44234678a44df1c14dec251114" target='_blank'>Probing the Immune System Dynamics of the COVID-19 Disease for Vaccine Designing and Drug Repurposing Using Bioinformatics Tools</a></td>
+          <td>
+            Deepshikha Yadav, S. Agarwal, Pranav Pancham, Divya Jindal, V. Agarwal, Premshankar Kumar Dubey, S. Jha, Shalini Mani, Rachana, A. Dey, N. Jha, K. Kesari, Manisha Singh
+          </td>
+          <td>2022-04-28</td>
+          <td>Immuno</td>
+          <td>5</td>
+          <td>54</td>
         </tr>
     
         <tr id="The innate immune response is vital for the success of prophylactic vaccines and immunotherapies. Control of signaling in innate immune pathways can improve prophylactic vaccines by inhibiting unfavorable systemic inflammation and immunotherapies by enhancing immune stimulation. In this work, we developed a machine learning-enabled active learning pipeline to guide in vitro experimental screening and discovery of small molecule immunomodulators that improve immune responses by altering the signaling activity of innate immune responses stimulated by traditional pattern recognition receptor agonists. Molecules were tested by in vitro high throughput screening (HTS) where we measured modulation of the nuclear factor κ-light-chain-enhancer of activated B-cells (NF-κB) and the interferon regulatory factors (IRF) pathways. These data were used to train data-driven predictive models linking molecular structure to modulation of the NF-κB and IRF responses using deep representational learning, Gaussian process regression, and Bayesian optimization. By interleaving successive rounds of model training and in vitro HTS, we performed an active learning-guided traversal of a 139,998 molecule library. After sampling only ∼2% of the library, we discovered viable molecules with unprecedented immunomodulatory capacity, including those capable of suppressing NF-κB activity by up to 15-fold, elevating NF-κB activity by up to 5-fold, and elevating IRF activity by up to 6-fold. We extracted chemical design rules identifying particular chemical fragments as principal drivers of specific immunomodulation behaviors. We validated the immunomodulatory effect of a subset of our top candidates by measuring cytokine release profiles. Of these, one molecule induced a 3-fold enhancement in IFN-β production when delivered with a cyclic di-nucleotide stimulator of interferon genes (STING) agonist. In sum, our machine learning-enabled screening approach presents an efficient immunomodulator discovery pipeline that has furnished a library of novel small molecules with a strong capacity to enhance or suppress innate immune signaling pathways to shape and improve prophylactic vaccination and immunotherapies.">
@@ -66,88 +90,52 @@ hide:
           <td>31</td>
         </tr>
     
-        <tr id="Rheumatoid Arthritis (RA) is an inflammatory autoimmune disease that affects 23 million people worldwide. It is a clinically heterogeneous disorder characterized by the attack of inflammatory chemicals on the synovial tissue that lines joints. It is advantageous to develop effective, targeted treatments and identify specific diagnostic biomarkers for RA before extensive joint degradation, bone erosion, and cartilage destruction. Current modes of RA treatments have alleviated and notably halted the progression of RA. Despite this, not many patients reach low disease activity status after treatment, and a significant number of patients fail to respond to medication due to drug non-specificity. While the reasons for these rates remain unknown, the cellular and molecular signatures present in the synovial tissue for RA patients likely play a role in the varied treatment response. Thus, a drug that particularly targets specific genes and networks may have a significant effect in halting the progression of RA. This study evaluates and proposes potential drug targets through in silico mathematical modeling of various pathways of interest in RA. To understand how drugs interact with genes, we built a mathematical model with 30 two-gene and three-gene network interactions and analyzed the effect of 92 different perturbations to rate constants. We determined that inhibition of the LCK-CD4, VAV1-CD4, and MLT-ROR pathways could potentially serve as drug targets. We also found that increased activity of the DEC2-IL1β and the NF-kB-interleukin pathway and the decreased activity of the TNF-α-REV-ERB pathway could serve as diagnostic biomarkers.">
+        <tr id="None">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/5ed8bc30a87977c47c1d9eee552d50185c806f93" target='_blank'>A Computational Modeling Framework to Analyze Synovial-Tissue Based Drug Targets and Diagnostic Biomarkers in Rheumatoid Arthritis</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/bfb300eaef4f93e109a72eac66a78161de807d50" target='_blank'>Can autoimmune diseases be cured? Scientists see hope at last</a></td>
           <td>
-            P. Latawa, B. Chrisman
+            Cassandra Willyard
           </td>
-          <td>2021-11-10</td>
-          <td>bioRxiv</td>
-          <td>0</td>
-          <td>16</td>
+          <td>2024-01-01</td>
+          <td>Nature</td>
+          <td>9</td>
+          <td>20</td>
         </tr>
     
-        <tr id="With the advent of effective immunotherapies to battle cancers and diseases, an obstacle in recovery has become the potential side effects, specifically cytokine release syndrome (CRS). As there is little quantitative understanding of risks for developing CRS and the degree of its severity, this work explored a model-based approach to produce a library of in silico patients through sensitivity analysis of cytokine interaction parameters and a Monte Carlo sampling. The objective of producing the in silico patients was to correlate a known grading system of cytokine release syndrome severity and thus design a new formula for grading CRS. Using our CRS grading system as the foundation, this work produced not only a formula which related the in silico patient data to the different grades, but we effectively demonstrated a selective approach to reduce the grade of CRS with sequential cytokine inhibition targets. We achieved the reduction of grades by applying the insight from the sensitivity analysis, beginning with the most sensitive targets. Cytokines IL-1, IL-8, TNF-α, INF-γ, IL-6, IL-2, IL-4, IL-10, and IL-12 were in turn the best targets for inhibition to alleviate CRS. Using this approach, patient cytokine time profiles in real-time can be related to the CRS grading system and if the grade is severe enough, action can be taken earlier during the treatment to prevent potentially life-threatening symptoms. What’s more, the identified inhibition sequence of the 9 cytokines provides guidance for clinical intervention of CRS.">
+        <tr id="During the COVID‐19 pandemic, methylcobalamin (MCB), an active form of Vitamin B12 (VB12), showed therapeutic potential in mitigating the cytokine storm associated with SARS‐CoV‐2 infection. While MCB's significant anti‐inflammatory properties are confirmed, it is also observed that its treatment may impair macrophage‐mediated innate immune responses. Comprehensive RNA‐seq, ATAC‐seq, and CUT&Tag analyses revealed that MCB reduces inflammation and weakens innate immunity by limiting chromatin accessibility at NF‐κB and EGR1 binding sites, leading to decreased IFNB1 production and enhanced viral immune evasion. To address this challenge, a deep learning model, VDLIN (Vitamin B12‐derived Deep Learning for Innate Immunity), is developed to identify compounds capable of both suppressing inflammation and boosting innate immunity. As anticipated, VDLIN identified a novel compound, “Co7,” which retains MCB's strong anti‐inflammatory effects while also enhancing immune activation via the TLR4 signaling pathway. Co7 thus emerges as a promising therapeutic candidate, offering advantages over MCB by balancing anti‐inflammatory and immune‐stimulatory functions. Taken together, this study sheds light on the intricate interplay between chromatin dynamics and immune regulation, presenting new opportunities for therapeutic interventions in inflammatory diseases and SARS‐CoV‐2 infection.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/cdbed3634ba13aed3fc2c3d954812638cfe069fa" target='_blank'>A Model-Based Investigation of Cytokine Dynamics in Immunotherapies</a></td>
-          <td>
-            B. Hopkins, Yiming Pan, M. Tucker, Z. Huang
-          </td>
-          <td>2018-12-30</td>
-          <td>Processes</td>
-          <td>5</td>
-          <td>18</td>
-        </tr>
-    
-        <tr id="During the COVID-19 pandemic, methylcobalamin (MCB), an active form of Vitamin B12 (VB12), showed therapeutic potential in mitigating the cytokine storm associated with SARS-CoV-2 infection. While MCB's significant anti-inflammatory properties are confirmed, it is also observed that its treatment may impair macrophage-mediated innate immune responses. Comprehensive RNA-seq, ATAC-seq, and CUT&Tag analyses revealed that MCB reduces inflammation and weakens innate immunity by limiting chromatin accessibility at NF-κB and EGR1 binding sites, leading to decreased IFNB1 production and enhanced viral immune evasion. To address this challenge, a deep learning model, VDLIN (Vitamin B12-derived Deep Learning for Innate Immunity), is developed to identify compounds capable of both suppressing inflammation and boosting innate immunity. As anticipated, VDLIN identified a novel compound, "Co7," which retains MCB's strong anti-inflammatory effects while also enhancing immune activation via the TLR4 signaling pathway. Co7 thus emerges as a promising therapeutic candidate, offering advantages over MCB by balancing anti-inflammatory and immune-stimulatory functions. Taken together, this study sheds light on the intricate interplay between chromatin dynamics and immune regulation, presenting new opportunities for therapeutic interventions in inflammatory diseases and SARS-CoV-2 infection.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/54c2da8de104ff7e1d3c8e32703e5f9348febbe0" target='_blank'>VDLIN: A Deep Learning-Based Platform for Methylcobalamin-Inspired Immunomodulatory Compound Screening.</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/54c2da8de104ff7e1d3c8e32703e5f9348febbe0" target='_blank'>VDLIN: A Deep Learning‐Based Platform for Methylcobalamin‐Inspired Immunomodulatory Compound Screening</a></td>
           <td>
             Xuefei Guo, Yang Zhao, Xianle Rong, Chenxi Niu, Shiyu Hu, Qiang Liu, Fuping You
           </td>
           <td>2025-10-27</td>
-          <td>Advanced science</td>
+          <td>Advanced Science</td>
           <td>0</td>
           <td>5</td>
         </tr>
     
-        <tr id="Baricitinib is an oral Janus kinase (JAK)1/JAK2 inhibitor approved for the treatment of rheumatoid arthritis (RA) that was independently predicted, using artificial intelligence (AI) algorithms, to be useful for COVID‐19 infection via proposed anti‐cytokine effects and as an inhibitor of host cell viral propagation. We evaluated the in vitro pharmacology of baricitinib across relevant leukocyte subpopulations coupled to its in vivo pharmacokinetics and showed it inhibited signaling of cytokines implicated in COVID‐19 infection. We validated the AI‐predicted biochemical inhibitory effects of baricitinib on human numb‐associated kinase (hNAK) members measuring nanomolar affinities for AAK1, BIKE, and GAK. Inhibition of NAKs led to reduced viral infectivity with baricitinib using human primary liver spheroids. These effects occurred at exposure levels seen clinically. In a case series of patients with bilateral COVID‐19 pneumonia, baricitinib treatment was associated with clinical and radiologic recovery, a rapid decline in SARS‐CoV‐2 viral load, inflammatory markers, and IL‐6 levels. Collectively, these data support further evaluation of the anti‐cytokine and anti‐viral activity of baricitinib and support its assessment in randomized trials in hospitalized COVID‐19 patients.">
+        <tr id="The germinal center response or reaction (GCR) is a hallmark event of adaptive humoral immunity. Unfolding in the B cell follicles of the secondary lymphoid organs, a GC culminates in the production of high-affinity antibody-secreting plasma cells along with memory B cells. By interacting with follicular dendritic cells (FDC) and T follicular helper (Tfh) cells, GC B cells exhibit complex spatiotemporal dynamics. Driving the B cell dynamics are the intracellular signal transduction and gene regulatory network that responds to cell surface signaling molecules, cytokines, and chemokines. As our knowledge of the GC continues to expand in depth and in scope, mathematical modeling has become an important tool to help disentangle the intricacy of the GCR and inform novel mechanistic and clinical insights. While the GC has been modeled at different granularities, a multiscale spatial simulation framework – integrating molecular, cellular, and tissue-level responses – is still rare. Here, we report our recent progress toward this end with a hybrid stochastic GC framework developed on the Cellular Potts Model-based CompuCell3D platform. Tellurium is used to simulate the B cell intracellular molecular network comprising NF-κB, FOXO1, MYC, AP4, CXCR4, and BLIMP1 that responds to B cell receptor (BCR) and CD40-mediated signaling. The molecular outputs of the network drive the spatiotemporal behaviors of B cells, including cyclic migration between the dark zone (DZ) and light zone (LZ) via chemotaxis; clonal proliferative bursts, somatic hypermutation, and DNA damage-induced apoptosis in the DZ; and positive selection, apoptosis via a death timer, and emergence of plasma cells in the LZ. Our simulations are able to recapitulate key molecular, cellular, and morphological GC events, including B cell population growth, affinity maturation, and clonal dominance. This novel modeling framework provides an open-source, customizable, and multiscale virtual GC simulation platform that enables qualitative and quantitative in silico investigations of a range of mechanistic and applied research questions on the adaptive humoral immune response in the future.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/a94ac4264c40d5ec6d031d92065f86b85c33aad3" target='_blank'>Mechanism of baricitinib supports artificial intelligence‐predicted testing in COVID‐19 patients</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/58adf6fd74277d15e51d7edabf9ddc1d145ba2db" target='_blank'>A multiscale spatial modeling framework for the germinal center response</a></td>
           <td>
-            J. Stebbing, V. Krishnan, S. de Bono, S. Ottaviani, G. Casalini, Peter J. Richardson, V. Monteil, V. M. Lauschke, A. Mirazimi, Sonia Youhanna, Yee-Joo Tan, F. Baldanti, A. Sarasini, J. R. Terres, B. Nickoloff, R. Higgs, G. Rocha, Nicole L. Byers, D. Schlichting, A. Nirula, A. Cardoso, M. Corbellino
+            Derek P. Mu, Christopher D. Scharer, Norbert E. Kaminski, Qiang Zhang
           </td>
-          <td>2020-04-15</td>
-          <td>EMBO Molecular Medicine</td>
-          <td>248</td>
-          <td>96</td>
-        </tr>
-    
-        <tr id="Rheumatoid arthritis (RA) is a systemic autoimmune disease characterized by swelling in at least one joint. Owing to an overactive immune response, extra-articular manifestations are observed in certain cases, with interstitial lung disease (ILD) being the most common. Rheumatoid arthritis-associated interstitial lung disease (RA-ILD) is characterized by chronic inflammation of the interstitial space, which causes fibrosis and the scarring of lung tissue. Controlling inflammation and pulmonary fibrosis in RA-ILD is important because they are associated with high morbidity and mortality. Pirfenidone and nintedanib are specific drugs against idiopathic pulmonary fibrosis and showed efficacy against RA-ILD in several clinical trials. Immunosuppressants and disease-modifying antirheumatic drugs (DMARDs) with anti-fibrotic effects have also been used to treat RA-ILD. Immunosuppressants moderate the overexpression of cytokines and immune cells to reduce pulmonary damage and slow the progression of fibrosis. DMARDs with mild anti-fibrotic effects target specific fibrotic pathways to regulate fibrogenic cellular activity, extracellular matrix homeostasis, and oxidative stress levels. Therefore, specific medications are required to effectively treat RA-ILD. In this review, the commonly used RA-ILD treatments are discussed based on their molecular mechanisms and clinical trial results. In addition, a computational approach is proposed to develop specific drugs for RA-ILD.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/ce16fd14448f759a092623ed1a07f75e03c3b143" target='_blank'>Potential Rheumatoid Arthritis-Associated Interstitial Lung Disease Treatment and Computational Approach for Future Drug Development</a></td>
-          <td>
-            Eunji Jeong, Hyunseok Hong, Yeon-Ah Lee, Kyoung-Soo Kim
-          </td>
-          <td>2024-02-26</td>
-          <td>International Journal of Molecular Sciences</td>
-          <td>6</td>
-          <td>3</td>
-        </tr>
-    
-        <tr id="Background: Lupus is a heterogeneous, systemic disease that affects millions of patients globally with a high unmet medical need. We present results from our powerful and efficient computational drug discovery platform that identifies hits with first-in-class mechanisms of action that can advance rapidly and successfully through preclinical validation studies. The twoXAR discovery platform uses an artificial-intelligence framework to integrate diverse patient-derived biomedical data sets to build holistic and unbiased models of human disease biology. The utilization of diverse, proprietary algorithms and deep learning principles provides a highly sensitive platform to elucidate complex disease-specific associations between biology and biomedical data that are integrated with a library of existing drug molecules. This enables the identification of novel, high-value drug discovery hits with known pharmacological properties. The twoXAR platform also preserves interpretable data-driven links to disease biology to facilitate efficient validation and optimization studies. Objectives: Apply twoXAR’s computational drug discovery platform for the discovery of first-in-class lupus therapy hits and perform preclinical characterization of selected hits to identify drug discovery lead molecules. Methods: Using clinical SLE patient data, we employed the twoXAR platform to build an in-silico SLE disease model. Nine molecules with novel mechanisms of action (not previously tested as candidate clinical therapies for lupus) were identified as drug discovery hits and then characterized in preclinical efficacy studies using the MRL mouse model of lupus. Results: In preclinical validation studies with the MRL mouse model, 2 compounds were differentiated by significant efficacy and excellent tolerability. TXR-711 and TXR-712 increased renal function, decreased renal inflammation and decreased inflammation compared to vehicle-treated control mice. In particular, TXR-711 and TXR-712 significantly decreased serum blood urea nitrogen (BUN) levels, decreased proteinuria levels, and significantly improved kidney histology readouts such as glomerulonephritis and tubule basophilia. Additionally, TXR-711 and TXR-712 treatment resulted in significantly decreased inguinal lymph node weight. Conclusion: TXR-711 and TXR-712 were identified as SLE drug discovery leads with novel MOAs for further preclinical development. Ongoing studies with TXR-711 and TXR-712 includes pharmacokinetic, pharmacodynamic, and additional MRL mouse efficacy characterization. Disclosure of Interests: Isaac Hakim Employee of: twoXAR, Inc, Sana Mujahid Employee of: twoXAR, Inc., Aaron C. Daugherty Employee of: twoXAR, Inc., Timothy S. Heuer Employee of: twoXAR, Inc">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/b5f2d42b0d468776019487ae1f8cbb77d0a694c1" target='_blank'>AB0377 COMPUTATIONAL DISCOVERY AND PRECLINICAL VALIDATION OF THERAPEUTIC LEADS WITH NOVEL MOAS FOR SYSTEMIC LUPUS ERYTHEMATOSUS (SLE)</a></td>
-          <td>
-            Isaac Hakim, S. Mujahid, Aaron C. Daugherty, T. Heuer
-          </td>
-          <td>2020-06-01</td>
-          <td>Annals of the Rheumatic Diseases</td>
+          <td>2024-05-30</td>
+          <td>Frontiers in Immunology</td>
           <td>0</td>
-          <td>14</td>
+          <td>32</td>
         </tr>
     
-        <tr id="Background Lupus is a heterogeneous, systemic disease that affects millions of patients globally with a high unmet medical need. We present results from our powerful and efficient computational drug discovery platform that identifies hits with first-in-class mechanisms of action that can advance rapidly and successfully through preclinical validation studies. The twoXAR discovery platform uses an artificial-intelligence framework to integrate diverse patient-derived biomedical data sets to build holistic and unbiased models of human disease biology. The utilization of diverse, proprietary algorithms and deep learning principles provides a highly sensitive platform to elucidate complex disease-specific associations between biology and biomedical data that are integrated with a library of existing drug molecules. This enables the identification of novel, high-value drug discovery hits with known pharmacological properties. The twoXAR platform also preserves interpretable data-driven links to disease biology to facilitate efficient validation and optimization studies. Methods Using clinical SLE patient data, we employed the twoXAR platform to build an in-silico SLE disease model. Nine molecules with novel mechanisms of action (not previously tested as candidate clinical therapies for lupus) were identified as drug discovery hits and then characterized in preclinical efficacy studies using the MRL mouse model of lupus. Results In preclinical validation studies with the MRL mouse model, 2 compounds were differentiated by significant efficacy and excellent tolerability. TXR-711 and TXR-712 increased renal function, decreased renal inflammation and decreased inflammation compared to vehicle-treated control mice. In particular, TXR-711 and TXR-712 significantly decreased serum blood urea nitrogen (BUN) levels, decreased proteinuria levels, and significantly improved kidney histology readouts such as glomerulonephritis and tubule basophilia. Additionally, TXR-711 and TXR-712 treatment resulted in significantly decreased inguinal lymph node weight. Conclusions TXR-711 and TXR-712 were identified as SLE drug discovery leads with novel MOAs for further preclinical development. Ongoing studies with TXR-711 and TXR-712 includes pharmacokinetic, pharmacodynamic, and additional MRL mouse efficacy characterization.">
+        <tr id="In the last ten years, many advances have been made in the treatment and diagnosis of immune-mediated diseases [...].">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/253174b0fedf652a359d8c18e394a2ee08cdc07c" target='_blank'>P133 Computational discovery and preclinical validation of therapeutic leads with novel MOAs for systemic lupus erythematosus (SLE)</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/6b54a56078412c3f8ce10026ceaef38f6f42908b" target='_blank'>Personalized Medicine and Machine Learning: A Roadmap for the Future</a></td>
           <td>
-            Isaac Hakim, S. Mujahid, Aaron C. Daugherty, T. Heuer
+            M. Sebastiani, C. Vacchi, A. Manfredi, G. Cassone
           </td>
-          <td>2020-03-01</td>
-          <td>Lupus Science & Medicine</td>
-          <td>0</td>
-          <td>14</td>
+          <td>2022-07-01</td>
+          <td>Journal of Clinical Medicine</td>
+          <td>24</td>
+          <td>46</td>
         </tr>
     
   </tbody>
