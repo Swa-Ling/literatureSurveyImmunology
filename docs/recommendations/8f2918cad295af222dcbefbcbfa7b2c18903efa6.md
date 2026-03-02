@@ -11,7 +11,7 @@ hide:
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2026-02-23 09:44:45 UTC</i>
+  <i class="footer">This page was last updated on 2026-03-02 09:39:42 UTC</i>
   </p>
   
   <div class="note info" onclick="startIntro()">
@@ -42,101 +42,88 @@ hide:
   </thead>
   <tbody>
     
-        <tr id="
- Bispecific T cell engaging antibodies (TEAs) with one arm targeting a cancer antigen and another arm binding to CD3 have demonstrated impressive efficacy in multiple clinical studies. However, establishing a safety/efficacy balance remains challenging. For instance, some TEAs have severe safety issues. Additionally, not all patients or all cancer cells of one patient respond equally to TEAs. Here, we developed a next-generation bispecific TEA with better safety/efficacy balance and expanded mechanisms of action. Using the computer aided antibody design strategy, we replaced heavy chain complementarity-determining regions (HCDRs) in one Rituximab arm with HCDRs from a CD3 antibody and generated a novel CD20/CD3 bispecific antibody. After series of computer aided sequence optimization, the lead molecule, GB261, showed great safety/efficacy balance both in vitro and in animal studies. GB261 exhibited high affinity to CD20 and ultra-low affinity to CD3. It showed comparable T cell activation and reduced cytokine secretion compared to a benchmark antibody (BM). GB261-induced ADCC and CDC only killed CD20+ cells but not CD3+ cells. It exhibited better RRCL cell killing than the BM in a PBMC engrafted, therapeutic treatment mouse model and good safety in cynomolgus monkeys. Thus, GB261 is a promising novel TEA against CD20+ cancers.">
+        <tr id="None">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/6a4287b3c6b52151d5e4f46d99cc677e2a442685" target='_blank'>A computationally designed Rituximab/CD3 T cell engager targeting CD20+ cancers with multiple mechanisms of action</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/eaea935d61b8dccd40f11a6428003230326b9145" target='_blank'>Call for abstracts</a></td>
           <td>
-            Cai Wenyan, Jianbo Dong, Sachith Gallolu Kankanamalage, Allison Titong, Shi Jiadong, Zhejun Jia, Bo Wang, Cai Huang, Jing Zhang, Lin Jun, Z KanSteven, Zhou Joe, Yue Liu
+            J. Salerno
           </td>
-          <td>2021-03-17</td>
+          <td>2001-01-01</td>
+          <td>Medicine, Health Care and Philosophy</td>
+          <td>0</td>
+          <td>28</td>
+        </tr>
+    
+        <tr id="In the November 2017 issue, the story “Predictable Response: Finding optimal drugs and doses using artificial intelligence” (Nat. Med. 23, 1244–1247, 2017) misspelled Josep Bassaganya-Riera's last name in the second mention of his work. His last name is spelled “Bassaganya-Riera” and not “Bassanganya-Riera”.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/f933e0ded84817f9a8edb0ca49611bdb74f3c0b2" target='_blank'>Correction</a></td>
+          <td>
+            
+          </td>
+          <td>1866-06-01</td>
+          <td>Buffalo Medical and Surgical Journal</td>
+          <td>0</td>
+          <td>0</td>
+        </tr>
+    
+        <tr id="None">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/b8e78eaf26de83041f9a08d7dcc349ca7398606e" target='_blank'>Roundtable Presentations Abstracts RT1–RT27</a></td>
+          <td>
+            PhD George Demiris, PhD Debra Parker-Oliver, Curtis Lowery, Dnp Apn Sarah Rhoads, Julie Hall-Barrow EdD, Bsn RN Shannon Lewis, Adn RN Terri Imus, BA Rachel Ott
+          </td>
+          <td>2007-04-01</td>
+          <td>Telemedicine and e-Health</td>
+          <td>0</td>
+          <td>1</td>
+        </tr>
+    
+        <tr id="None">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/938569e858e497506e23112837e8d9a86165a043" target='_blank'>Modpack By Shurabb [1.6.0.0]</a></td>
+          <td>
+            Guiné
+          </td>
+          <td>2019-12-17</td>
           <td></td>
           <td>0</td>
-          <td>12</td>
-        </tr>
-    
-        <tr id="Bispecific T-cell engaging therapies harness the immune system to elicit an effective anticancer response. Modulating the immune activation avoiding potential adverse effects such as cytokine release syndrome (CRS) is a critical aspect to realizing the full potential of this therapy. The use of suitable exogenous intervention strategies to mitigate the CRS risk without compromising the antitumoral capability of bispecific antibody treatment is crucial. To this end, computational approaches can be instrumental to systematically exploring the effects of combining bispecific antibodies with CRS intervention strategies. Here, we employ a logical model to describe the action of bispecific antibodies and the complex interplay of various immune system components and use it to perform simulation experiments to improve the understanding of the factors affecting CRS. We performed a sensitivity analysis to identify the comedications that could ameliorate CRS without impairing tumor clearance. Our results agree with publicly available experimental data suggesting anti-TNF and anti-IL6 as possible co-treatments. Furthermore, we suggest anti-IFNγ as a suitable candidate for clinical studies.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/73b15e89fe9ee38f8cee9b8688b18c9a82745947" target='_blank'>Computational Analysis of Cytokine Release Following Bispecific T-Cell Engager Therapy: Applications of a Logic-Based Model</a></td>
-          <td>
-            G. Selvaggio, S. Parolo, Pranami Bora, L. Leonardelli, J. Harrold, Khamir Mehta, D. Rock, L. Marchetti
-          </td>
-          <td>2022-03-08</td>
-          <td>Frontiers in Oncology</td>
-          <td>11</td>
-          <td>32</td>
-        </tr>
-    
-        <tr id="Cytokine release syndrome (CRS) is a lethal adverse event in chimeric antigen receptor (CAR) T‐cell therapy, hindering this promising therapy for cancers, such as B‐cell acute lymphoblastic leukemia (B‐ALL). Clinical management of CRS requires a better understanding of its underlying mechanisms. In this study, a computational model of CRS during CAR T‐cell therapy is built to depict how the cellular interactions among CAR T‐cells, B‐ALL cells, and bystander monocytes, as well as the accompanying molecular interactions among various inflammatory cytokines, influence the severity of CRS. The model successfully defines the factors related to severe CRS and studies the effects of immunomodulatory therapy on CRS. The use of the model is also demonstrated as a precision medicine tool to optimize the treatment scheme, including personalized choice of CAR T‐cell products and control of switchable CAR T‐cell activity, for a more efficient and safer immunotherapy. This new computational oncology model can serve as a precision medicine tool to guide the clinical management of CRS during CAR T cell therapy.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/87d52b5853e9f8c39186cb00095a3e8113def110" target='_blank'>A Computational Model of Cytokine Release Syndrome during CAR T‐Cell Therapy</a></td>
-          <td>
-            Zhuoyu Zhang, Lunan Liu, Chao Ma, Weiqiang Chen
-          </td>
-          <td>2022-08-04</td>
-          <td>Advanced Therapeutics</td>
-          <td>8</td>
-          <td>22</td>
-        </tr>
-    
-        <tr id="None">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/a922ce01d2fadcad1bf7cd4bbf91cb8effadd3d4" target='_blank'>Recent advancement in targeted therapy and role of emerging technologies to treat cancer</a></td>
-          <td>
-            Shrikant Barot, Henis J. Patel, Anjali Yadav, Igor Ban
-          </td>
-          <td>2023-10-07</td>
-          <td>Medical Oncology</td>
-          <td>11</td>
-          <td>5</td>
-        </tr>
-    
-        <tr id="None">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/5cce0b2358ed6e71bac072e956c92ad326f870d9" target='_blank'>AI-Guided CAR Designs and AKT3 Degradation Synergize to Enhance Bispecific and Trispecific CAR-T Cell Persistence and Overcome Antigen Escape</a></td>
-          <td>
-            Mohammad Sufyan Ansari, Varnit Chauhan, Aashi Singh, A. Akhtar, Nisha Chaudhary, Reegina Tyagi, Divya, Kashif Husain, Sheetal Sharma, Ruquaiya Alam, Md Shakir, Mehak Pracha, Samreen Anjum, Mohd Nadeem, Md Imam Faizan, Iqbal Azmi, Aditya Ramdas Iyer, Pragya Gupta, Mehwish Nafiz, Shayan Ali, Insha Mohi Uddin, Momina Javid, Hamenth Kumar P, Amit Kumar Srivastava, U. Mabalirajan, Vikram Mathews, Sivaprakash Ramalingam, Gaurav Kharya, Tanveer Ahmad
-          </td>
-          <td>2025-06-16</td>
-          <td>bioRxiv</td>
-          <td>0</td>
-          <td>29</td>
-        </tr>
-    
-        <tr id="The pathogenesis of COVID-19 is complicated by immune dysfunction. The impact of immune-based therapy in COVID-19 patients has been well documented, with some notable studies on the use of anti-cytokine medicines. However, the complexity of disease phenotypes, patient heterogeneity and the varying quality of evidence from immunotherapy studies provide problems in clinical decision-making. This review seeks to aid therapeutic decision-making by giving an overview of the immunological responses against COVID-19 disease that may contribute to the severity of the disease. We have extensively discussed theranostic methods for COVID-19 detection. With advancements in technology, bioinformatics has taken studies to a higher level. The paper also discusses the application of bioinformatics and machine learning tools for the diagnosis, vaccine design and drug repurposing against SARS-CoV-2.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/acd4caabbb311a44234678a44df1c14dec251114" target='_blank'>Probing the Immune System Dynamics of the COVID-19 Disease for Vaccine Designing and Drug Repurposing Using Bioinformatics Tools</a></td>
-          <td>
-            Deepshikha Yadav, S. Agarwal, Pranav Pancham, Divya Jindal, V. Agarwal, P. K. Dubey, S. Jha, Shalini Mani, Rachana, A. Dey, N. Jha, K. Kesari, Manisha Singh
-          </td>
-          <td>2022-04-28</td>
-          <td>Immuno</td>
-          <td>5</td>
-          <td>55</td>
-        </tr>
-    
-        <tr id="The ability to characterize immune cells and explore the molecular interactions that govern their functions has never been greater, fueled in recent years by the revolutionary advance of single‐cell analysis platforms. However, precisely how immune cells respond to different stimuli and where differentiation processes and effector functions operate remain incompletely understood. Inferring cellular fate within single‐cell transcriptomic analyses is now omnipresent, despite the assumptions typically required in such analyses. Recently developed experimental models support dynamic analyses of the immune response, providing insights into the temporal changes that occur within cells and the tissues in which such transitions occur. Here we will review these approaches and discuss how these can be combined with single‐cell technologies to develop a deeper understanding of the immune responses that should support the development of better therapeutic options for patients.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/df359d3a21a0e0d9ae308793407ba6d01736c657" target='_blank'>Decoding changes in tumor‐infiltrating leukocytes through dynamic experimental models and single‐cell technologies</a></td>
-          <td>
-            Colin Y. C. Lee, M. Clatworthy, David R Withers
-          </td>
-          <td>2024-06-10</td>
-          <td>Immunology and Cell Biology</td>
           <td>1</td>
-          <td>60</td>
         </tr>
     
-        <tr id="With the advent of effective immunotherapies to battle cancers and diseases, an obstacle in recovery has become the potential side effects, specifically cytokine release syndrome (CRS). As there is little quantitative understanding of risks for developing CRS and the degree of its severity, this work explored a model-based approach to produce a library of in silico patients through sensitivity analysis of cytokine interaction parameters and a Monte Carlo sampling. The objective of producing the in silico patients was to correlate a known grading system of cytokine release syndrome severity and thus design a new formula for grading CRS. Using our CRS grading system as the foundation, this work produced not only a formula which related the in silico patient data to the different grades, but we effectively demonstrated a selective approach to reduce the grade of CRS with sequential cytokine inhibition targets. We achieved the reduction of grades by applying the insight from the sensitivity analysis, beginning with the most sensitive targets. Cytokines IL-1, IL-8, TNF-α, INF-γ, IL-6, IL-2, IL-4, IL-10, and IL-12 were in turn the best targets for inhibition to alleviate CRS. Using this approach, patient cytokine time profiles in real-time can be related to the CRS grading system and if the grade is severe enough, action can be taken earlier during the treatment to prevent potentially life-threatening symptoms. What’s more, the identified inhibition sequence of the 9 cytokines provides guidance for clinical intervention of CRS.">
+        <tr id="This is a letter to the editor so there is no astract.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/cdbed3634ba13aed3fc2c3d954812638cfe069fa" target='_blank'>A Model-Based Investigation of Cytokine Dynamics in Immunotherapies</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/ac1d414944cb1f7884fa603b82b7c150b569f1e9" target='_blank'>Computational Nanomedicine: Helping Us Get Through COVID-19</a></td>
           <td>
-            B. Hopkins, Yiming Pan, M. Tucker, Z. Huang
+            Thomas Webster
           </td>
-          <td>2018-12-30</td>
-          <td>Processes</td>
-          <td>5</td>
-          <td>18</td>
+          <td>2022-12-31</td>
+          <td>Journal of Integrated OMICS</td>
+          <td>1</td>
+          <td>3</td>
+        </tr>
+    
+        <tr id="None">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/609038425de9c90368176578c5160c23e9b572d5" target='_blank'>ASCPT News</a></td>
+          <td>
+            PharmD Elisa Calvier
+          </td>
+          <td>2016-05-01</td>
+          <td>Clinical Pharmacology & Therapeutics</td>
+          <td>0</td>
+          <td>0</td>
+        </tr>
+    
+        <tr id="Proteomics is making important contributions to drug discovery, from target deconvolution to mechanism of action (MoA) elucidation and the identification of biomarkers of drug response. Here we introduce decryptE, a proteome-wide approach that measures the full dose–response characteristics of drug-induced protein expression changes that informs cellular drug MoA. Assaying 144 clinical drugs and research compounds against 8,000 proteins resulted in more than 1 million dose–response curves that can be interactively explored online in ProteomicsDB and a custom-built Shiny App. Analysis of the collective data provided molecular explanations for known phenotypic drug effects and uncovered new aspects of the MoA of human medicines. We found that histone deacetylase inhibitors potently and strongly down-regulated the T cell receptor complex resulting in impaired human T cell activation in vitro and ex vivo. This offers a rational explanation for the efficacy of histone deacetylase inhibitors in certain lymphomas and autoimmune diseases and explains their poor performance in treating solid tumors. Proteome-wide measurements of dose–response curves for 144 drugs reveal drug mechanisms of action.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/d21e901a4d5a0d647a4eb7d47e4e2cd33454e216" target='_blank'>Decrypting the molecular basis of cellular drug phenotypes by dose-resolved expression proteomics</a></td>
+          <td>
+            S. Eckert, Nicole Berner, Karl Kramer, Annika Schneider, Julian Müller, Severin Lechner, Sarah Brajkovic, A. Sakhteman, Christian Grätz, Jonas Fackler, Michael Dudek, M. Pfaffl, Percy A. Knolle, Stephanie Wilhelm, Bernhard Kuster
+          </td>
+          <td>2024-05-07</td>
+          <td>Nature Biotechnology</td>
+          <td>23</td>
+          <td>56</td>
         </tr>
     
   </tbody>
