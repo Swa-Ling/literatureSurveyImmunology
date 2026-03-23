@@ -11,7 +11,7 @@ hide:
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2026-03-16 09:56:30 UTC</i>
+  <i class="footer">This page was last updated on 2026-03-23 09:55:40 UTC</i>
   </p>
   
   <div class="note info" onclick="startIntro()">
@@ -42,100 +42,124 @@ hide:
   </thead>
   <tbody>
     
-        <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
+        <tr id="This chapter covers rheumatic diseases in the pregnant patient. It gives background, clinical features, and management in the pregnant patient for rheumatoid arthritis, Sjögren’s syndrome, psoriatic arthritis, systemic lupus erythematosus, antiphospholipid syndrome, and ankylosing spondylitis among others. It also covers systemic sclerosis, osteoporosis, and other musculoskeletal problems. Medications and the use of biologics in pregnancy are also discussed, with reference to breastfeeding.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/a0abc4624a71be77e91b585d472d33e393a65ce0" target='_blank'>Rheumatology</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/c7de186387071b91a2378d92e44c90600967f132" target='_blank'>Rheumatology</a></td>
           <td>
-            K. Davies
+            Charlotte J Frise, Sally Collins
           </td>
-          <td>2020-02-02</td>
-          <td>Core Conditions for Medical and Surgical Finals</td>
+          <td>2020-04-01</td>
+          <td>Obstetric Medicine</td>
           <td>187</td>
-          <td>9</td>
+          <td>1</td>
+        </tr>
+    
+        <tr id="This chapter covers rheumatic diseases in the pregnant patient. It gives background, clinical features, and management in the pregnant patient for rheumatoid arthritis, Sjögren’s syndrome, psoriatic arthritis, systemic lupus erythematosus, antiphospholipid syndrome, and ankylosing spondylitis among others. It also covers systemic sclerosis, osteoporosis, and other musculoskeletal problems. Medications and the use of biologics in pregnancy are also discussed, with reference to breastfeeding.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/c7de186387071b91a2378d92e44c90600967f132" target='_blank'>Rheumatology</a></td>
+          <td>
+            Charlotte J Frise, Sally Collins
+          </td>
+          <td>2020-04-01</td>
+          <td>Obstetric Medicine</td>
+          <td>187</td>
+          <td>1</td>
+        </tr>
+    
+        <tr id="This chapter covers rheumatic diseases in the pregnant patient. It gives background, clinical features, and management in the pregnant patient for rheumatoid arthritis, Sjögren’s syndrome, psoriatic arthritis, systemic lupus erythematosus, antiphospholipid syndrome, and ankylosing spondylitis among others. It also covers systemic sclerosis, osteoporosis, and other musculoskeletal problems. Medications and the use of biologics in pregnancy are also discussed, with reference to breastfeeding.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/c7de186387071b91a2378d92e44c90600967f132" target='_blank'>Rheumatology</a></td>
+          <td>
+            Charlotte J Frise, Sally Collins
+          </td>
+          <td>2020-04-01</td>
+          <td>Obstetric Medicine</td>
+          <td>187</td>
+          <td>1</td>
+        </tr>
+    
+        <tr id="This chapter covers rheumatic diseases in the pregnant patient. It gives background, clinical features, and management in the pregnant patient for rheumatoid arthritis, Sjögren’s syndrome, psoriatic arthritis, systemic lupus erythematosus, antiphospholipid syndrome, and ankylosing spondylitis among others. It also covers systemic sclerosis, osteoporosis, and other musculoskeletal problems. Medications and the use of biologics in pregnancy are also discussed, with reference to breastfeeding.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/c7de186387071b91a2378d92e44c90600967f132" target='_blank'>Rheumatology</a></td>
+          <td>
+            Charlotte J Frise, Sally Collins
+          </td>
+          <td>2020-04-01</td>
+          <td>Obstetric Medicine</td>
+          <td>187</td>
+          <td>1</td>
+        </tr>
+    
+        <tr id="This chapter covers rheumatic diseases in the pregnant patient. It gives background, clinical features, and management in the pregnant patient for rheumatoid arthritis, Sjögren’s syndrome, psoriatic arthritis, systemic lupus erythematosus, antiphospholipid syndrome, and ankylosing spondylitis among others. It also covers systemic sclerosis, osteoporosis, and other musculoskeletal problems. Medications and the use of biologics in pregnancy are also discussed, with reference to breastfeeding.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/c7de186387071b91a2378d92e44c90600967f132" target='_blank'>Rheumatology</a></td>
+          <td>
+            Charlotte J Frise, Sally Collins
+          </td>
+          <td>2020-04-01</td>
+          <td>Obstetric Medicine</td>
+          <td>187</td>
+          <td>1</td>
+        </tr>
+    
+        <tr id="This chapter covers rheumatic diseases in the pregnant patient. It gives background, clinical features, and management in the pregnant patient for rheumatoid arthritis, Sjögren’s syndrome, psoriatic arthritis, systemic lupus erythematosus, antiphospholipid syndrome, and ankylosing spondylitis among others. It also covers systemic sclerosis, osteoporosis, and other musculoskeletal problems. Medications and the use of biologics in pregnancy are also discussed, with reference to breastfeeding.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/c7de186387071b91a2378d92e44c90600967f132" target='_blank'>Rheumatology</a></td>
+          <td>
+            Charlotte J Frise, Sally Collins
+          </td>
+          <td>2020-04-01</td>
+          <td>Obstetric Medicine</td>
+          <td>187</td>
+          <td>1</td>
+        </tr>
+    
+        <tr id="This chapter covers rheumatic diseases in the pregnant patient. It gives background, clinical features, and management in the pregnant patient for rheumatoid arthritis, Sjögren’s syndrome, psoriatic arthritis, systemic lupus erythematosus, antiphospholipid syndrome, and ankylosing spondylitis among others. It also covers systemic sclerosis, osteoporosis, and other musculoskeletal problems. Medications and the use of biologics in pregnancy are also discussed, with reference to breastfeeding.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/c7de186387071b91a2378d92e44c90600967f132" target='_blank'>Rheumatology</a></td>
+          <td>
+            Charlotte J Frise, Sally Collins
+          </td>
+          <td>2020-04-01</td>
+          <td>Obstetric Medicine</td>
+          <td>187</td>
+          <td>1</td>
+        </tr>
+    
+        <tr id="This chapter covers rheumatic diseases in the pregnant patient. It gives background, clinical features, and management in the pregnant patient for rheumatoid arthritis, Sjögren’s syndrome, psoriatic arthritis, systemic lupus erythematosus, antiphospholipid syndrome, and ankylosing spondylitis among others. It also covers systemic sclerosis, osteoporosis, and other musculoskeletal problems. Medications and the use of biologics in pregnancy are also discussed, with reference to breastfeeding.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/c7de186387071b91a2378d92e44c90600967f132" target='_blank'>Rheumatology</a></td>
+          <td>
+            Charlotte J Frise, Sally Collins
+          </td>
+          <td>2020-04-01</td>
+          <td>Obstetric Medicine</td>
+          <td>187</td>
+          <td>1</td>
         </tr>
     
         <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/a0abc4624a71be77e91b585d472d33e393a65ce0" target='_blank'>Rheumatology</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/a02f425ed8075ebf65b2429f7a6a024cd9ec2ffa" target='_blank'>Rheumatology</a></td>
           <td>
-            K. Davies
+            R. Kaushal, Rikin A. Trivedi, Sanjay Sharma
           </td>
-          <td>2020-02-02</td>
-          <td>Core Conditions for Medical and Surgical Finals</td>
-          <td>187</td>
-          <td>9</td>
+          <td>2001-04-01</td>
+          <td>Archives of Disease in Childhood</td>
+          <td>275</td>
+          <td>5</td>
         </tr>
     
-        <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
+        <tr id="None">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/a0abc4624a71be77e91b585d472d33e393a65ce0" target='_blank'>Rheumatology</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/16a53e4f5ccd4166c9cfd1b548ed301889dc9292" target='_blank'>Seeking the ultimate challenge</a></td>
           <td>
-            K. Davies
+            P. Brodin
           </td>
-          <td>2020-02-02</td>
-          <td>Core Conditions for Medical and Surgical Finals</td>
-          <td>187</td>
-          <td>9</td>
-        </tr>
-    
-        <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/a0abc4624a71be77e91b585d472d33e393a65ce0" target='_blank'>Rheumatology</a></td>
-          <td>
-            K. Davies
-          </td>
-          <td>2020-02-02</td>
-          <td>Core Conditions for Medical and Surgical Finals</td>
-          <td>187</td>
-          <td>9</td>
-        </tr>
-    
-        <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/a0abc4624a71be77e91b585d472d33e393a65ce0" target='_blank'>Rheumatology</a></td>
-          <td>
-            K. Davies
-          </td>
-          <td>2020-02-02</td>
-          <td>Core Conditions for Medical and Surgical Finals</td>
-          <td>187</td>
-          <td>9</td>
-        </tr>
-    
-        <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/a0abc4624a71be77e91b585d472d33e393a65ce0" target='_blank'>Rheumatology</a></td>
-          <td>
-            K. Davies
-          </td>
-          <td>2020-02-02</td>
-          <td>Core Conditions for Medical and Surgical Finals</td>
-          <td>187</td>
-          <td>9</td>
-        </tr>
-    
-        <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/a0abc4624a71be77e91b585d472d33e393a65ce0" target='_blank'>Rheumatology</a></td>
-          <td>
-            K. Davies
-          </td>
-          <td>2020-02-02</td>
-          <td>Core Conditions for Medical and Surgical Finals</td>
-          <td>187</td>
-          <td>9</td>
-        </tr>
-    
-        <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/a0abc4624a71be77e91b585d472d33e393a65ce0" target='_blank'>Rheumatology</a></td>
-          <td>
-            K. Davies
-          </td>
-          <td>2020-02-02</td>
-          <td>Core Conditions for Medical and Surgical Finals</td>
-          <td>187</td>
-          <td>9</td>
+          <td>2019-05-24</td>
+          <td>Nature Medicine</td>
+          <td>0</td>
+          <td>54</td>
         </tr>
     
   </tbody>
