@@ -11,7 +11,7 @@ hide:
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2026-03-23 09:55:40 UTC</i>
+  <i class="footer">This page was last updated on 2026-03-30 10:08:55 UTC</i>
   </p>
   
   <div class="note info" onclick="startIntro()">
@@ -50,8 +50,8 @@ hide:
           </td>
           <td>2020-04-01</td>
           <td>Obstetric Medicine</td>
-          <td>187</td>
-          <td>1</td>
+          <td>186</td>
+          <td>2</td>
         </tr>
     
         <tr id="This chapter covers rheumatic diseases in the pregnant patient. It gives background, clinical features, and management in the pregnant patient for rheumatoid arthritis, Sjögren’s syndrome, psoriatic arthritis, systemic lupus erythematosus, antiphospholipid syndrome, and ankylosing spondylitis among others. It also covers systemic sclerosis, osteoporosis, and other musculoskeletal problems. Medications and the use of biologics in pregnancy are also discussed, with reference to breastfeeding.">
@@ -62,8 +62,8 @@ hide:
           </td>
           <td>2020-04-01</td>
           <td>Obstetric Medicine</td>
-          <td>187</td>
-          <td>1</td>
+          <td>186</td>
+          <td>2</td>
         </tr>
     
         <tr id="This chapter covers rheumatic diseases in the pregnant patient. It gives background, clinical features, and management in the pregnant patient for rheumatoid arthritis, Sjögren’s syndrome, psoriatic arthritis, systemic lupus erythematosus, antiphospholipid syndrome, and ankylosing spondylitis among others. It also covers systemic sclerosis, osteoporosis, and other musculoskeletal problems. Medications and the use of biologics in pregnancy are also discussed, with reference to breastfeeding.">
@@ -74,8 +74,8 @@ hide:
           </td>
           <td>2020-04-01</td>
           <td>Obstetric Medicine</td>
-          <td>187</td>
-          <td>1</td>
+          <td>186</td>
+          <td>2</td>
         </tr>
     
         <tr id="This chapter covers rheumatic diseases in the pregnant patient. It gives background, clinical features, and management in the pregnant patient for rheumatoid arthritis, Sjögren’s syndrome, psoriatic arthritis, systemic lupus erythematosus, antiphospholipid syndrome, and ankylosing spondylitis among others. It also covers systemic sclerosis, osteoporosis, and other musculoskeletal problems. Medications and the use of biologics in pregnancy are also discussed, with reference to breastfeeding.">
@@ -86,56 +86,8 @@ hide:
           </td>
           <td>2020-04-01</td>
           <td>Obstetric Medicine</td>
-          <td>187</td>
-          <td>1</td>
-        </tr>
-    
-        <tr id="This chapter covers rheumatic diseases in the pregnant patient. It gives background, clinical features, and management in the pregnant patient for rheumatoid arthritis, Sjögren’s syndrome, psoriatic arthritis, systemic lupus erythematosus, antiphospholipid syndrome, and ankylosing spondylitis among others. It also covers systemic sclerosis, osteoporosis, and other musculoskeletal problems. Medications and the use of biologics in pregnancy are also discussed, with reference to breastfeeding.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/c7de186387071b91a2378d92e44c90600967f132" target='_blank'>Rheumatology</a></td>
-          <td>
-            Charlotte J Frise, Sally Collins
-          </td>
-          <td>2020-04-01</td>
-          <td>Obstetric Medicine</td>
-          <td>187</td>
-          <td>1</td>
-        </tr>
-    
-        <tr id="This chapter covers rheumatic diseases in the pregnant patient. It gives background, clinical features, and management in the pregnant patient for rheumatoid arthritis, Sjögren’s syndrome, psoriatic arthritis, systemic lupus erythematosus, antiphospholipid syndrome, and ankylosing spondylitis among others. It also covers systemic sclerosis, osteoporosis, and other musculoskeletal problems. Medications and the use of biologics in pregnancy are also discussed, with reference to breastfeeding.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/c7de186387071b91a2378d92e44c90600967f132" target='_blank'>Rheumatology</a></td>
-          <td>
-            Charlotte J Frise, Sally Collins
-          </td>
-          <td>2020-04-01</td>
-          <td>Obstetric Medicine</td>
-          <td>187</td>
-          <td>1</td>
-        </tr>
-    
-        <tr id="This chapter covers rheumatic diseases in the pregnant patient. It gives background, clinical features, and management in the pregnant patient for rheumatoid arthritis, Sjögren’s syndrome, psoriatic arthritis, systemic lupus erythematosus, antiphospholipid syndrome, and ankylosing spondylitis among others. It also covers systemic sclerosis, osteoporosis, and other musculoskeletal problems. Medications and the use of biologics in pregnancy are also discussed, with reference to breastfeeding.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/c7de186387071b91a2378d92e44c90600967f132" target='_blank'>Rheumatology</a></td>
-          <td>
-            Charlotte J Frise, Sally Collins
-          </td>
-          <td>2020-04-01</td>
-          <td>Obstetric Medicine</td>
-          <td>187</td>
-          <td>1</td>
-        </tr>
-    
-        <tr id="This chapter covers rheumatic diseases in the pregnant patient. It gives background, clinical features, and management in the pregnant patient for rheumatoid arthritis, Sjögren’s syndrome, psoriatic arthritis, systemic lupus erythematosus, antiphospholipid syndrome, and ankylosing spondylitis among others. It also covers systemic sclerosis, osteoporosis, and other musculoskeletal problems. Medications and the use of biologics in pregnancy are also discussed, with reference to breastfeeding.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/c7de186387071b91a2378d92e44c90600967f132" target='_blank'>Rheumatology</a></td>
-          <td>
-            Charlotte J Frise, Sally Collins
-          </td>
-          <td>2020-04-01</td>
-          <td>Obstetric Medicine</td>
-          <td>187</td>
-          <td>1</td>
+          <td>186</td>
+          <td>2</td>
         </tr>
     
         <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
@@ -146,20 +98,68 @@ hide:
           </td>
           <td>2001-04-01</td>
           <td>Archives of Disease in Childhood</td>
-          <td>275</td>
-          <td>5</td>
+          <td>274</td>
+          <td>6</td>
         </tr>
     
-        <tr id="None">
+        <tr id="This chapter covers rheumatic diseases in the pregnant patient. It gives background, clinical features, and management in the pregnant patient for rheumatoid arthritis, Sjögren’s syndrome, psoriatic arthritis, systemic lupus erythematosus, antiphospholipid syndrome, and ankylosing spondylitis among others. It also covers systemic sclerosis, osteoporosis, and other musculoskeletal problems. Medications and the use of biologics in pregnancy are also discussed, with reference to breastfeeding.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/16a53e4f5ccd4166c9cfd1b548ed301889dc9292" target='_blank'>Seeking the ultimate challenge</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/c7de186387071b91a2378d92e44c90600967f132" target='_blank'>Rheumatology</a></td>
           <td>
-            P. Brodin
+            Charlotte J Frise, Sally Collins
           </td>
-          <td>2019-05-24</td>
-          <td>Nature Medicine</td>
-          <td>0</td>
-          <td>54</td>
+          <td>2020-04-01</td>
+          <td>Obstetric Medicine</td>
+          <td>186</td>
+          <td>2</td>
+        </tr>
+    
+        <tr id="This chapter covers rheumatic diseases in the pregnant patient. It gives background, clinical features, and management in the pregnant patient for rheumatoid arthritis, Sjögren’s syndrome, psoriatic arthritis, systemic lupus erythematosus, antiphospholipid syndrome, and ankylosing spondylitis among others. It also covers systemic sclerosis, osteoporosis, and other musculoskeletal problems. Medications and the use of biologics in pregnancy are also discussed, with reference to breastfeeding.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/c7de186387071b91a2378d92e44c90600967f132" target='_blank'>Rheumatology</a></td>
+          <td>
+            Charlotte J Frise, Sally Collins
+          </td>
+          <td>2020-04-01</td>
+          <td>Obstetric Medicine</td>
+          <td>186</td>
+          <td>2</td>
+        </tr>
+    
+        <tr id="This chapter covers rheumatic diseases in the pregnant patient. It gives background, clinical features, and management in the pregnant patient for rheumatoid arthritis, Sjögren’s syndrome, psoriatic arthritis, systemic lupus erythematosus, antiphospholipid syndrome, and ankylosing spondylitis among others. It also covers systemic sclerosis, osteoporosis, and other musculoskeletal problems. Medications and the use of biologics in pregnancy are also discussed, with reference to breastfeeding.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/c7de186387071b91a2378d92e44c90600967f132" target='_blank'>Rheumatology</a></td>
+          <td>
+            Charlotte J Frise, Sally Collins
+          </td>
+          <td>2020-04-01</td>
+          <td>Obstetric Medicine</td>
+          <td>186</td>
+          <td>2</td>
+        </tr>
+    
+        <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/a02f425ed8075ebf65b2429f7a6a024cd9ec2ffa" target='_blank'>Rheumatology</a></td>
+          <td>
+            R. Kaushal, Rikin A. Trivedi, Sanjay Sharma
+          </td>
+          <td>2001-04-01</td>
+          <td>Archives of Disease in Childhood</td>
+          <td>274</td>
+          <td>6</td>
+        </tr>
+    
+        <tr id="This chapter covers rheumatic diseases in the pregnant patient. It gives background, clinical features, and management in the pregnant patient for rheumatoid arthritis, Sjögren’s syndrome, psoriatic arthritis, systemic lupus erythematosus, antiphospholipid syndrome, and ankylosing spondylitis among others. It also covers systemic sclerosis, osteoporosis, and other musculoskeletal problems. Medications and the use of biologics in pregnancy are also discussed, with reference to breastfeeding.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/c7de186387071b91a2378d92e44c90600967f132" target='_blank'>Rheumatology</a></td>
+          <td>
+            Charlotte J Frise, Sally Collins
+          </td>
+          <td>2020-04-01</td>
+          <td>Obstetric Medicine</td>
+          <td>186</td>
+          <td>2</td>
         </tr>
     
   </tbody>
