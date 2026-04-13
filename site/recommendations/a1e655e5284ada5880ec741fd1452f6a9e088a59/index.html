@@ -445,7 +445,7 @@
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2026-04-06 10:01:39 UTC</i>
+  <i class="footer">This page was last updated on 2026-04-13 10:26:54 UTC</i>
   </p>
 
   <div class="note info" onclick="startIntro()">
@@ -476,89 +476,112 @@
   </thead>
   <tbody>
 
-        <tr id="BACKGROUND
-A multitude of high-quality imaging modalities exist that provide structural data at unprecedented levels of detail. Tissue ultrastructure greatly influences the rate of transport of proteins and other molecules that contribute to neurodegeneration. However, our ability to model flow and diffusion processes in the brain lags behind the quality of the neuroimaging data. Here, a new framework will be presented for converting neuroimaging data into computational fluid dynamics (CFD) models in a scalable manner suitable for high performance computing. TEM data from the Allen Institute will illustrate its capabilities.
-
-
-METHODS
-Segmented TEM images were downloaded from the MicronsExplorer public storage cache. Segmented image stack volumes (4 × 4 × 4 µm) were converted into surface meshes using the Lewiner Marching Cubes algorithm. Convection and diffusion along the surface of individual cells was modeled. After each timestep mass was allowed to exchange between neighboring cells, implemented on a high performance computing cluster using the MPI protocol on 40 or more computing cores. Multiple volumes were analyzed simultaneously, with updates of the flux between cells in different volumes occurring at each time step. These steps were performed with new custom CFD code written in C and Julia.
-
-
-RESULTS
-Segmented z-stacks of TEM data from the MICrONS Explorer website were downloaded in 4 × 4 × 4 µm blocks, which typically contain ≈500 distinct cells (Fig. 1A&B). The meshing algorithm leads to perfect matching between adjacent cells (Fig. 1C). The convection-diffusion equations are solved, modeling flow/diffusion of solutes between cells (Fig. 1D&E). Equations are solved for all ≈500 distinct cells in parallel, with concentrations at matching faces re-balanced at each time step (Fig. 2A&B). A manager-worker MPI model allows for solution on an arbitrary number of cores (Fig. 2C). The interfaces between cell surfaces across volumes are also perfectly matched, allowing for adjustment of the flux of mass between volumes at each timestep (Fig. 2D).
-
-
-CONCLUSIONS
-A new modeling framework is described for solution of transport equations on high performance computing clusters for any imaging modality that produces segmented z-stacked images.">
+        <tr id="Extracellular vesicles (EVs) are membrane-bound vesicles that mediate intercellular communication and have gained significant interest as potential biomarker sources and therapeutic agents. This review summarizes the most recent advances in EV analysis, including an overview of EV biology, current approaches for EV isolation and enrichment, and emerging technologies for EV detection, with a particular focus on single-EV analysis. We also examine the integration of artificial intelligence into EV research. This review provides a broad perspective into the landscape of EV analysis and highlights potential future directions in this rapidly evolving field to improve the analytical rigor and translational potential of EV-based diagnostics and therapeutics.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/442e21cebdf5c35d5db269b1a675a5bbe438eb87" target='_blank'>Basic Science and Pathogenesis.</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/47d0f18513567ea64ea44f4fbceb5d9866b98f25" target='_blank'>Extracellular Vesicle Analysis: Recent Technological Advances and Emerging Opportunities.</a></td>
           <td>
-            D. Elbert
+            Yunjie Wen, Jingzhu Shi, Yuxin Deng, Quinn Shepard, Xinyuan Gao, Yong Zeng
           </td>
-          <td>2024-12-01</td>
-          <td>Alzheimer's & dementia : the journal of the Alzheimer's Association</td>
+          <td>2026-02-17</td>
+          <td>Annual review of analytical chemistry</td>
           <td>0</td>
-          <td>2</td>
+          <td>8</td>
         </tr>
 
-        <tr id="In the last few decades, adverse reactions to pharmaceuticals have been evaluated using 2D in vitro models and animal models. However, with increasing computational power, and as the key drivers of cellular behavior have been identified, in silico models have emerged. These models are time-efficient and cost-effective, but the prediction of adverse reactions to unknown drugs using these models requires relevant experimental input. Accordingly, the physiome concept has emerged to bridge experimental datasets with in silico models. The brain physiome describes the systemic interactions of its components, which are organized into a multilevel hierarchy. Because of the limitations in obtaining experimental data corresponding to each physiome component from 2D in vitro models and animal models, 3D in vitro brain models, including brain organoids and brain-on-a-chip, have been developed. In this review, we present the concept of the brain physiome and its hierarchical organization, including cell- and tissue-level organizations. We also summarize recently developed 3D in vitro brain models and link them with the elements of the brain physiome as a guideline for dataset collection. The connection between in vitro 3D brain models and in silico modeling will lead to the establishment of cost-effective and time-efficient in silico models for the prediction of the safety of unknown drugs.">
+        <tr id="Extracellular vesicles (EVs) are essential for host–pathogen interactions, mediating processes such as immune modulation and pathogen survival. Pathogen‐derived EVs hold significant diagnostic potential because of their unique cargo, offering a wealth of potential biomarkers. In this review, we first discuss the roles of EVs derived from various pathogens in host–pathogen interactions and summarize the latest advancements in pathogen detection based on EVs. Then, we highlight innovative strategies, including novel aggregate materials and machine learning approaches, for enhancing EV detection and analysis. Finally, we discuss challenges in the field and future directions for advancing EV‐based diagnostics, aiming to translate these insights into clinical applications.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/43dab38005ef73c1cc87c73bd86c686361b06f4a" target='_blank'>Brain physiome: A concept bridging in vitro 3D brain models and in silico models for predicting drug toxicity in the brain</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/3c698d8011c83641d9ae6bee8a11774f25a76217" target='_blank'>Integrating Aggregate Materials and Machine Learning Algorithms: Advancing Detection of Pathogen‐Derived Extracellular Vesicles</a></td>
           <td>
-            Yoojin Seo, Seokyoung Bang, Jeongtae Son, Dongsup Kim, Yong Jeong, Pilnam Kim, Ji-Hao Yang, J. Eom, Nakwon Choi, H. Kim
+            Lihan Lai, Yun Su, Cong Hu, Zehong Peng, W. Xue, Liang Dong, Tony Y. Hu
           </td>
-          <td>2021-11-01</td>
+          <td>2025-03-27</td>
+          <td>Aggregate</td>
+          <td>2</td>
+          <td>10</td>
+        </tr>
+
+        <tr id="Graphical abstract">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/c88cd36f22e17dbb5db45dc35a55979c21dbafd6" target='_blank'>EV-origin: Enumerating the tissue-cellular origin of circulating extracellular vesicles using exLR profile</a></td>
+          <td>
+            Yuchen Li, Xigan He, Qin Li, Hongyan Lai, He-Yun Zhang, Z. Hu, Yan Li, Shenglin Huang
+          </td>
+          <td>2020-10-14</td>
+          <td>Computational and Structural Biotechnology Journal</td>
+          <td>158</td>
+          <td>59</td>
+        </tr>
+
+        <tr id="Abstract Extracellular vesicle (EV) research increasingly demands for quantitative characterisation at the single vesicle level to address heterogeneity and complexity of EV subpopulations. Emerging, commercialised technologies for single EV analysis based on, for example, imaging flow cytometry or imaging after capture on chips generally require dedicated instrumentation and proprietary software not readily accessible to every lab. This limits their implementation for routine EV characterisation in the rapidly growing EV field. We and others have shown that single vesicles can be detected as light diffraction limited fluorescent spots using standard confocal and widefield fluorescence microscopes. Advancing this simple strategy into a process for routine EV quantitation, we developed ‘EVAnalyzer’, an ImageJ/Fiji (Fiji is just ImageJ) plugin for automated, quantitative single vesicle analysis from imaging data. Using EVAnalyzer, we established a robust protocol for capture, (immuno‐)labelling and fluorescent imaging of EVs. To exemplify the application scope, the process was optimised and systematically tested for (i) quantification of EV subpopulations, (ii) validation of EV labelling reagents, (iii) in situ determination of antibody specificity, sensitivity and species cross‐reactivity for EV markers and (iv) optimisation of genetic EV engineering. Additionally, we show that the process can be applied to synthetic nanoparticles, allowing to determine siRNA encapsulation efficiencies of lipid‐based nanoparticles (LNPs) and protein loading of SiO2 nanoparticles. EVAnalyzer further provides a pipeline for automated quantification of cell uptake at the single cell–single vesicle level, thereby enabling high content EV cell uptake assays and plate‐based screens. Notably, the entire procedure from sample preparation to the final data output is entirely based on standard reagents, materials, laboratory equipment and open access software. In summary, we show that EVAnalyzer enables rigorous characterisation of EVs with generally accessible tools. Since we further provide the plugin as open‐source code, we expect EVAnalyzer to not only be a resource of immediate impact, but an open innovation platform for the EV and nanoparticle research communities.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/ee63636048b60cb2e0dc234df0303822d4fb1f68" target='_blank'>EVAnalyzer: High content imaging for rigorous characterisation of single extracellular vesicles using standard laboratory equipment and a new open‐source ImageJ/Fiji plugin</a></td>
+          <td>
+            Melanie Schürz, Joachim Danmayr, Maria Jaritsch, E. Klinglmayr, Heloisa Melo Benirschke, C. Matea, Patrick Zimmerebner, Jakob Rauter, Martin Wolf, F. G. Gomes, Zdenek Kratochvil, Z. Heger, Andrew. D. Miller, T. Heuser, Vesna Stanojlovic, Jana Kiefer, Tanja Plank, Litty Johnson, M. Himly, C. Blöchl, C. Huber, Martin Hintersteiner, Nicole C Meisner-Kober
+          </td>
+          <td>2022-11-27</td>
+          <td>Journal of Extracellular Vesicles</td>
+          <td>27</td>
+          <td>47</td>
+        </tr>
+
+        <tr id="Extracellular vesicles (EVs) are membrane‐bound vesicles secreted by various cell types into the extracellular space and play a role in intercellular communication. Their molecular cargo varies depending on the cell of origin and its functional state. As a result, EVs serve as representatives of their parent cells and reservoirs of disease biomarkers. Their presence in diverse bodily fluids has fueled interest in their potential for biomarker discovery and signaling research. Advances in mass spectrometry, high‐throughput sequencing, and bioinformatics have expanded the molecular characterization of EVs, while emerging tools, including artificial intelligence (AI), image‐based systems biology, and curated EV repositories, are driving exploration of disease‐associated molecular signatures. Omics technologies generate extensive, multidimensional datasets that can be analyzed using bioinformatics techniques in conjunction with traditional statistical methods. Systems‐based approaches, such as network analysis, computer modeling, and AI, are particularly effective for interpreting these complex datasets. However, their application in EV studies requires a solid understanding of EV‐specific biological principles and analytical tools to ensure accuracy. By leveraging these analytical strategies, systems biology aims to unravel the intricate organization of biological processes, providing insights into how EVs interact within cells and organisms, and how they can be utilized to advance disease diagnostics, monitor disease progression, and develop novel therapeutic strategies. This review aims to elucidate the state‐of‐the‐art in EV research, integrating multiomics, modeling, and disease‐specific insights. EV‐specific data repositories and the future of EVs in systems biology will also be highlighted.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/dc96ef561fe7d904ee6d3befbb22b9ce749c37fd" target='_blank'>Advancing Extracellular Vesicle Research: A Review of Systems Biology and Multiomics Perspectives</a></td>
+          <td>
+            Gloria Kemunto, Samaneh Ghadami, Kristen Dellinger
+          </td>
+          <td>2025-11-10</td>
+          <td>Proteomics</td>
+          <td>5</td>
+          <td>7</td>
+        </tr>
+
+        <tr id="Recent progress in artificial intelligence (AI) has given rise to AI virtual cells (AIVCs), which are digital twins of predictable or dynamic biological cells. This model can simulate, predict and replicate the behavior of real cells in digital software. Extracellular vesicles (EVs) are nanoscale phospholipid bilayer structures released by cells and are important for intercellular communication. To fully leverage digital models in EVs research, we propose the interdisciplinary concept of AI virtual EVs (AIVEVs). This review systematically outlines the construction of AIVEVs through both knowledge-driven (white-box) and data-driven (black-box) modeling paradigms, integrating multi-omics data to simulate EVs biogenesis, cargo sorting, and intercellular communication. Moreover, we highlight how AIVCs drive models to predict the composition of AIVEVs, analyze cell communication behavior, construct diagnostic atlases of pathological virtual cells, and enhance the ability to trace vesicle origins. Furthermore, we also present a closed-loop workflow from in silico prediction to experimental validation and project the developmental trajectory of AIVEVs toward clinical translation. We firmly believe that AIVEVs can accelerate the development of EVs-based disease diagnosis and treatment, thereby opening a new era of intercellular communication research.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/59fa1adb92bdaad6f8d88c39006559e434a9f78f" target='_blank'>Artificial intelligence virtual extracellular vesicles (AIVEVs)</a></td>
+          <td>
+            Hang Liu, Shiyu Li, Jian Wang, Jiacan Su
+          </td>
+          <td>2026-02-09</td>
           <td>Bioactive Materials</td>
-          <td>19</td>
-          <td>36</td>
-        </tr>
-
-        <tr id="Human-induced pluripotent stem cells (iPSCs) offer transformative potential for biomedical research, with iPSC-derived organoids providing more physiologically relevant models than traditional 2D cell cultures. Among these, brain organoids are particularly valuable for drug screening, disease modeling, and investigations into molecular pathways. Accurate representation of brain morphology is critical, as more complex organoid structures better mimic the human brain. Deep learning (DL) and machine learning (ML) approaches have become integral to analyzing organoid morphology, yet tools for comprehensive, time-resolved assessments are scarce. Here, we introduce BrAIn, a DL-based application for analyzing the developmental progression of brain organoids. BrAIn tracks their evolution from embryoid bodies and quantifies parameters including area, Feret diameter, perimeter, roundness, and circularity. It also classifies budding and abnormal morphologies of 3D organoids and detects monolayer neural rosette structures, key features of neuronal differentiation. Designed with accessibility in mind, BrAIn provides a no-code interface, enabling researchers of all technical backgrounds to conduct advanced morphological analyses with ease. Our study demonstrates the application of BrAIn to evaluate the effects of different growth conditions - static, orbital shaker, and microfluidic chip-based - on brain organoid development. Orbital shaker cultures resulted in the largest organoids, while chip-based systems achieved more homogeneous growth. Both conditions produced organoids with greater morphological complexity compared to static culture. BrAIn emerges as a robust, user-friendly tool to quantify brain organoid development and explore how versatile growth conditions influence their morphology and maturation.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/ebfad07badd30acd1bf35a3247a693da270a0fcf" target='_blank'>BrAIn: A comprehensive artificial intelligence-based morphology analysis system for brain organoids and neuroscience</a></td>
-          <td>
-            Burak Kahveci, Elifsu Polatlı, Ali Eren Evranos, Hüseyin Güner, Yalın Baştanlar, G. Karakülah, Sinan Güven
-          </td>
-          <td>2025-02-24</td>
-          <td>bioRxiv</td>
-          <td>2</td>
-          <td>19</td>
-        </tr>
-
-        <tr id="BackgroundTo date, some of the most useful and physiologically relevant neuronal cell culture systems, such as high density co-cultures of astrocytes and primary hippocampal neurons, or differentiated stem cell-derived cultures, are characterized by high cell density and partially overlapping cellular structures. Efficient analytical strategies are required to enable rapid, reliable, quantitative analysis of neuronal morphology in these valuable model systems.ResultsHere we present the development and validation of a novel bioinformatics pipeline called NeuriteQuant. This tool enables fully automated morphological analysis of large-scale image data from neuronal cultures or brain sections that display a high degree of complexity and overlap of neuronal outgrowths. It also provides an efficient web-based tool to review and evaluate the analysis process. In addition to its built-in functionality, NeuriteQuant can be readily extended based on the rich toolset offered by ImageJ and its associated community of developers. As proof of concept we performed automated screens for modulators of neuronal development in cultures of primary neurons and neuronally differentiated P19 stem cells, which demonstrated specific dose-dependent effects on neuronal morphology.ConclusionsNeuriteQuant is a freely available open-source tool for the automated analysis and effective review of large-scale high-content screens. It is especially well suited to quantify the effect of experimental manipulations on physiologically relevant neuronal cultures or brain sections that display a high degree of complexity and overlap among neurites or other cellular structures.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/f8175e3e6f8af394ff4cae8b69e10be379490f0f" target='_blank'>NeuriteQuant: An open source toolkit for high content screens of neuronal Morphogenesis</a></td>
-          <td>
-            L. Dehmelt, G. Poplawski, E. Hwang, S. Halpain
-          </td>
-          <td>2011-10-11</td>
-          <td>BMC Neuroscience</td>
-          <td>54</td>
-          <td>40</td>
+          <td>1</td>
+          <td>14</td>
         </tr>
 
         <tr id="None">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/ba7b2b28b398e319b22471e7f232eeee4a674ebb" target='_blank'>High Content Imaging, Analysis and Data Management</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/898779e91e7d7e3d2eec1b48b49668626825e8de" target='_blank'>Identification of astrocyte secreted proteins with a combination of shotgun proteomics and bioinformatics.</a></td>
           <td>
-            W. Reintsch, Andrea Krahn Roldan, Thomas M. Durcan
+            J. Dowell, Jeffrey A. Johnson, Lingjun Li
           </td>
-          <td>2020-04-07</td>
-          <td></td>
-          <td>1</td>
-          <td>26</td>
+          <td>2009-06-17</td>
+          <td>Journal of proteome research</td>
+          <td>99</td>
+          <td>56</td>
         </tr>
 
-        <tr id="Cerebral organoids provide unparalleled access to human brain development in vitro. However, variability induced by current culture methodologies precludes using organoids as robust disease models. To address this, we developed an automated Organoid Culture and Assay (ORCA) system to support longitudinal unbiased phenotyping of organoids at scale across multiple patient lines. We then characterized organoid variability using novel machine learning methods and found that the contribution of donor, clone, and batch is significant and remarkably consistent over gene expression, morphology, and cell-type composition. Next, we performed multi-factorial protocol optimization, producing a directed forebrain protocol compatible with 96-well culture that exhibits low variability while preserving tissue complexity. Finally, we used ORCA to study tuberous sclerosis, a disease with known genetics but poorly representative animal models. For the first time, we report highly reproducible early morphological and molecular signatures of disease in heterozygous TSC+/− forebrain organoids, demonstrating the benefit of a scaled organoid system for phenotype discovery in human disease models.">
+        <tr id="None">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/a8c256e5b8e0496fee6625f1d1f1d1add99b5ca1" target='_blank'>Optimization and scaling of patient-derived brain organoids uncovers deep phenotypes of disease</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/2dbe137d600788d9cf616b6312add987351f83ed" target='_blank'>EVpedia: A community web resource for prokaryotic and eukaryotic extracellular vesicles research.</a></td>
           <td>
-            K. Shah, Rishi Bedi, A. Rogozhnikov, P. Ramkumar, Zhixiang Tong, B. Rash, Morgan M. Stanton, Jordan Sorokin, C. Apaydin, A. Batarse, Julia Bergamaschi, R. Blattner, Spencer Brown, Anthony Bosshardt, C. Castrillo, Brenda Dang, Shiron Drusinsky, Luigi Enriquez, David S. Grayson, J. Hilliard, Pei-Ken Hsu, Chili Johnson, Ryan D. Jones, Andrew Lash, Chia-Yao Lee, Kelly Li, Austin McKay, Elliot Mount, Justin Nicola, I. Oumzil, Ju-Hee Paek, D. Pascoe, A. Piepho, Sean Poust, Daphne Quang, Matthew D. Schultz, Jessica Sims, P. Taylor, Geffen Treiman, Oliver Wueseke, Noah P. Young, Alex A. Pollen, Doug Flanzer, Daniel Chao, G. Skibinski, Saul Kato, G. S. Escola
+            Dae-Kyum Kim, Jaewook Lee, Richard J. Simpson, J. Lötvall, Y. Gho
           </td>
-          <td>2020-08-27</td>
-          <td>bioRxiv</td>
-          <td>9</td>
-          <td>41</td>
+          <td>2015-04-01</td>
+          <td>Seminars in cell & developmental biology</td>
+          <td>117</td>
+          <td>95</td>
+        </tr>
+
+        <tr id="Morphology of extracellular vesicles (EVs) from cerebrospinal fluid is an important property that could uncover brain-related conditions. However, native morphology could get distorted during imaging, such as with atomic force microscopy (AFM) in air, which enables relatively simple visualisation and automated morphology assessment. Therefore, we compared 24 different preparation methods for the same sample of EVs according to the resulting size, height, aspect ratio and shape distributions obtained from the AFM images. We defined 5 different shape categories (round, flat, concave, single-lobed, and multilobed) and neglected other features that did not fit in either category and were considered artefacts. Artefacts affected the morphometric data (size, height, aspect ratio ranges and distributions), so their neglection was necessary for accurate morphometry. As this required a cumbersome and time-consuming manual search through all AFM images, we developed a computer program that facilitates the individual observation of each particle, enables manual shape identification and exports the resulting size and shape distribution from each AFM image. Since manual EV categorisation in the program still required significant time and proved to be quite subjective, we also employed machine learning for vesicle and shape recognition. A convolution neural network model was trained on a dataset of particles, for which 4 independent researchers provided consistent shape categorisations (F1 score of 85 ± 5%) and was successfully used to compare the 24 methods of preparation. Our analysis indicated that fixation had a very important role in both capturing and protection of EVs on a mica-based substrate, while critical point drying performed much better in retaining their morphology than hexamethyldisilazane. All tested functionalisations enabled good capture and visualisation of EVs, but (3-aminopropyl)triethoxysilane could cause flattening of EVs and NiCl2 was more prone to formation of round artefacts during direct air-drying. Generally, ethanol gradient dehydration followed by critical point drying best preserved the EV morphology, while chemical dehydration with dimethoxypropane resulted in well-balanced shape distributions with lower aspect ratios. The highest aspect ratios were obtained by ethanol dehydration and critical point drying on NiCl2-coated mica, for which all morphometric data agreed very well with the near-native EV morphology observed in liquid AFM images on the same type of substrate. These findings represent a promising first step towards utilising AFM images of EVs for diagnostic purposes.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/48f9f8dfc0562c3dc2dea729bdadffce7d1d82d7" target='_blank'>Automated morphological classification and quantification of cerebrospinal fluid extracellular vesicles via AFM and machine learning</a></td>
+          <td>
+            M. Kurtjak, V. Tomas, Leon Ivović, David Fabijan, Marko Perčić, Hrvoje Križan, Marin Tota, Lara Saftić Martinović, Janja Tarčuković, Ivan Štajduhar, Mladenka Malenica
+          </td>
+          <td>2025-10-21</td>
+          <td>Nanoscale Advances</td>
+          <td>0</td>
+          <td>11</td>
         </tr>
 
   </tbody>
