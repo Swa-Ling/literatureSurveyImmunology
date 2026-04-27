@@ -11,7 +11,7 @@ hide:
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2026-04-20 10:27:44 UTC</i>
+  <i class="footer">This page was last updated on 2026-04-27 10:54:41 UTC</i>
   </p>
   
   <div class="note info" onclick="startIntro()">
@@ -87,7 +87,7 @@ hide:
           </td>
           <td>2001-04-01</td>
           <td>Archives of Disease in Childhood</td>
-          <td>267</td>
+          <td>265</td>
           <td>6</td>
         </tr>
     
@@ -135,7 +135,7 @@ hide:
           </td>
           <td>2001-04-01</td>
           <td>Archives of Disease in Childhood</td>
-          <td>267</td>
+          <td>265</td>
           <td>6</td>
         </tr>
     
