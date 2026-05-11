@@ -11,7 +11,7 @@ hide:
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2026-05-04 10:57:48 UTC</i>
+  <i class="footer">This page was last updated on 2026-05-11 11:58:35 UTC</i>
   </p>
   
   <div class="note info" onclick="startIntro()">
@@ -42,124 +42,112 @@ hide:
   </thead>
   <tbody>
     
-        <tr id="Bispecific T-cell engaging therapies harness the immune system to elicit an effective anticancer response. Modulating the immune activation avoiding potential adverse effects such as cytokine release syndrome (CRS) is a critical aspect to realizing the full potential of this therapy. The use of suitable exogenous intervention strategies to mitigate the CRS risk without compromising the antitumoral capability of bispecific antibody treatment is crucial. To this end, computational approaches can be instrumental to systematically exploring the effects of combining bispecific antibodies with CRS intervention strategies. Here, we employ a logical model to describe the action of bispecific antibodies and the complex interplay of various immune system components and use it to perform simulation experiments to improve the understanding of the factors affecting CRS. We performed a sensitivity analysis to identify the comedications that could ameliorate CRS without impairing tumor clearance. Our results agree with publicly available experimental data suggesting anti-TNF and anti-IL6 as possible co-treatments. Furthermore, we suggest anti-IFNγ as a suitable candidate for clinical studies.">
+        <tr id="None">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/73b15e89fe9ee38f8cee9b8688b18c9a82745947" target='_blank'>Computational Analysis of Cytokine Release Following Bispecific T-Cell Engager Therapy: Applications of a Logic-Based Model</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/81ba8885aef3bbab57fcc451c9c402fe5f277ef9" target='_blank'>1999 Respiratory Care Open Forum</a></td>
           <td>
-            G. Selvaggio, S. Parolo, Pranami Bora, L. Leonardelli, J. Harrold, Khamir Mehta, D. Rock, L. Marchetti
+            
           </td>
-          <td>2022-03-08</td>
-          <td>Frontiers in Oncology</td>
-          <td>11</td>
-          <td>32</td>
+          <td>1998-12-01</td>
+          <td>Respiratory Care</td>
+          <td>2</td>
+          <td>0</td>
         </tr>
     
-        <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
+        <tr id="This conference brings together leaders in the ﬁeld to share the latest advancements in liquid biopsies encompassing the spectrum from discovery to clinical application. Engage in sessions covering the biology of circulating tumor cells, plasma biomarkers, new technologies, early detection, MRD monitoring, tumor evolution, immunotherapy integration, and computational science. Don’t miss this unparalleled opportunity to advance cancer research and clinical practice">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/a0abc4624a71be77e91b585d472d33e393a65ce0" target='_blank'>Rheumatology</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/dfa68a712de0cbc1dc313a1bcb18fbc4630b8d05" target='_blank'>Call for Abstracts</a></td>
           <td>
-            K. Davies
+            Moon S. Chen, Melissa B. Davis, Carmen E. Guerra, Adana A. M. Llanos, Ruben A. Mesa, Jasmine Plummer, Susan M Shinagawa, C. Alix‐Panabières, Jr Luis A. Diaz, Maximilian Diehn, Y. D. Lo, K. Pantel, AACRliqbio24, AACR.org, LiqBio24, J. Mendell, A. Khvorova, V. Kim, Philip Jones, Angela N. Koehler, Chudi O. Ndubaku, Ton N. M. Schumacher, Arlene H. Sharpe, J. Stark, C. Mullighan, E. Raetz, W. Stock
           </td>
-          <td>2020-02-02</td>
-          <td>Core Conditions for Medical and Surgical Finals</td>
-          <td>182</td>
-          <td>10</td>
+          <td>1990-07-08</td>
+          <td>Pediatric Research</td>
+          <td>0</td>
+          <td>109</td>
         </tr>
     
-        <tr id="This chapter is comprised of 20 clinically based and also knowledge based questions and answers. The corresponding answers to the questions can be found at the end of the chapter, each of which has a short explanation and at least one reference.">
+        <tr id="None">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/a02f425ed8075ebf65b2429f7a6a024cd9ec2ffa" target='_blank'>Rheumatology</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/f577542775a4dca25b15704b140f49ca6d106c7f" target='_blank'>Call for Abstracts: Respiratory Care • Open Forum 2000</a></td>
           <td>
-            R. Kaushal, Rikin A. Trivedi, Sanjay Sharma
+            
           </td>
-          <td>2001-04-01</td>
+          <td>1999-12-01</td>
+          <td>Respiratory Care</td>
+          <td>0</td>
+          <td>0</td>
+        </tr>
+    
+        <tr id="None">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/f577542775a4dca25b15704b140f49ca6d106c7f" target='_blank'>Call for Abstracts: Respiratory Care • Open Forum 2000</a></td>
+          <td>
+            
+          </td>
+          <td>1999-12-01</td>
+          <td>Respiratory Care</td>
+          <td>0</td>
+          <td>0</td>
+        </tr>
+    
+        <tr id="None">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/7c413123e257bf73c1532e4d14ffb843bff5744f" target='_blank'>Call for Abstracts: National Conference on Financing the Care of Diabetes Mellitus in the 1990s</a></td>
+          <td>
+            Dvm Kristy Murray, MD Fastmh Scientific Program Chair David Hamer
+          </td>
+          <td>1989-08-01</td>
+          <td>The Diabetes Educator</td>
+          <td>0</td>
+          <td>0</td>
+        </tr>
+    
+        <tr id="None">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/7c413123e257bf73c1532e4d14ffb843bff5744f" target='_blank'>Call for Abstracts: National Conference on Financing the Care of Diabetes Mellitus in the 1990s</a></td>
+          <td>
+            Dvm Kristy Murray, MD Fastmh Scientific Program Chair David Hamer
+          </td>
+          <td>1989-08-01</td>
+          <td>The Diabetes Educator</td>
+          <td>0</td>
+          <td>0</td>
+        </tr>
+    
+        <tr id="None">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/408714d75253f0003549fa2fc808eaaee596b317" target='_blank'>Call for Abstracts</a></td>
+          <td>
+            Castrense Savojardo, Nicolò Bruciaferri, G. Tartari, P. Martelli, R. Casadio
+          </td>
+          <td>2001-01-01</td>
+          <td>Ethik in der Medizin</td>
+          <td>112</td>
+          <td>65</td>
+        </tr>
+    
+        <tr id="Division of Bioinformatics and Biostatistics, National Center for Toxicological Research, US Food and Drug Administration, Jefferson, AR, United States, Office of Translational Sciences, Center for Drug Evaluation and Research, US Food and Drug Administration, Silver Spring, MD, United States, ApconiX, BioHub, Alderley Park, United Kingdom, Department of Biosciences, University of Birmingham, Birmingham, United Kingdom, The Center for Bioinformatics and Computational Biology, The Institute of Biomedical Sciences and School of Life Sciences, Shanghai, China, School of Statistics, Key Laboratory of Advanced Theory and Application in Statistics and Data Science-MOE, East China Normal University, Shanghai, China">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/95816ee183f45454057e9228d07386b4164a2af0" target='_blank'>Editorial: Emerging Technologies Powering Rare and Neglected Disease Diagnosis and Theraphy Development</a></td>
+          <td>
+            Zhichao Liu, Qais Hatim, S. Thakkar, Ruth Roberts, Tieliu Shi
+          </td>
+          <td>2022-04-05</td>
+          <td>Frontiers in Pharmacology</td>
+          <td>3</td>
+          <td>43</td>
+        </tr>
+    
+        <tr id="None">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/ba7b7a38cc5b24f63b5d71714bfb46813e06a56f" target='_blank'>Rapid responses</a></td>
+          <td>
+            Ruth Macklin
+          </td>
+          <td>2001-05-01</td>
           <td>Archives of Disease in Childhood</td>
-          <td>265</td>
-          <td>6</td>
-        </tr>
-    
-        <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/a0abc4624a71be77e91b585d472d33e393a65ce0" target='_blank'>Rheumatology</a></td>
-          <td>
-            K. Davies
-          </td>
-          <td>2020-02-02</td>
-          <td>Core Conditions for Medical and Surgical Finals</td>
-          <td>182</td>
-          <td>10</td>
-        </tr>
-    
-        <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/a0abc4624a71be77e91b585d472d33e393a65ce0" target='_blank'>Rheumatology</a></td>
-          <td>
-            K. Davies
-          </td>
-          <td>2020-02-02</td>
-          <td>Core Conditions for Medical and Surgical Finals</td>
-          <td>182</td>
-          <td>10</td>
-        </tr>
-    
-        <tr id="This chapter is comprised of 20 clinically based and also knowledge based questions and answers. The corresponding answers to the questions can be found at the end of the chapter, each of which has a short explanation and at least one reference.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/a02f425ed8075ebf65b2429f7a6a024cd9ec2ffa" target='_blank'>Rheumatology</a></td>
-          <td>
-            R. Kaushal, Rikin A. Trivedi, Sanjay Sharma
-          </td>
-          <td>2001-04-01</td>
-          <td>Archives of Disease in Childhood</td>
-          <td>265</td>
-          <td>6</td>
-        </tr>
-    
-        <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/a0abc4624a71be77e91b585d472d33e393a65ce0" target='_blank'>Rheumatology</a></td>
-          <td>
-            K. Davies
-          </td>
-          <td>2020-02-02</td>
-          <td>Core Conditions for Medical and Surgical Finals</td>
-          <td>182</td>
-          <td>10</td>
-        </tr>
-    
-        <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/a0abc4624a71be77e91b585d472d33e393a65ce0" target='_blank'>Rheumatology</a></td>
-          <td>
-            K. Davies
-          </td>
-          <td>2020-02-02</td>
-          <td>Core Conditions for Medical and Surgical Finals</td>
-          <td>182</td>
-          <td>10</td>
-        </tr>
-    
-        <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/a0abc4624a71be77e91b585d472d33e393a65ce0" target='_blank'>Rheumatology</a></td>
-          <td>
-            K. Davies
-          </td>
-          <td>2020-02-02</td>
-          <td>Core Conditions for Medical and Surgical Finals</td>
-          <td>182</td>
-          <td>10</td>
-        </tr>
-    
-        <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/a0abc4624a71be77e91b585d472d33e393a65ce0" target='_blank'>Rheumatology</a></td>
-          <td>
-            K. Davies
-          </td>
-          <td>2020-02-02</td>
-          <td>Core Conditions for Medical and Surgical Finals</td>
-          <td>182</td>
-          <td>10</td>
+          <td>0</td>
+          <td>8</td>
         </tr>
     
   </tbody>
