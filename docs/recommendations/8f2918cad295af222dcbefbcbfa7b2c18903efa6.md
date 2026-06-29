@@ -11,7 +11,7 @@ hide:
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2026-06-22 14:28:00 UTC</i>
+  <i class="footer">This page was last updated on 2026-06-29 12:58:52 UTC</i>
   </p>
   
   <div class="note info" onclick="startIntro()">
@@ -63,7 +63,7 @@ hide:
           </td>
           <td>2022-03-08</td>
           <td>Frontiers in Oncology</td>
-          <td>11</td>
+          <td>12</td>
           <td>32</td>
         </tr>
     
