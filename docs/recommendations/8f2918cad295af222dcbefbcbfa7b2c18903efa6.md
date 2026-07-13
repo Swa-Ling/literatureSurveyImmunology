@@ -11,7 +11,7 @@ hide:
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2026-07-06 12:38:05 UTC</i>
+  <i class="footer">This page was last updated on 2026-07-13 11:53:25 UTC</i>
   </p>
   
   <div class="note info" onclick="startIntro()">
@@ -59,7 +59,7 @@ hide:
           <td id="tag"><i class="material-icons">visibility_off</i></td>
           <td><a href="https://www.semanticscholar.org/paper/73b15e89fe9ee38f8cee9b8688b18c9a82745947" target='_blank'>Computational Analysis of Cytokine Release Following Bispecific T-Cell Engager Therapy: Applications of a Logic-Based Model</a></td>
           <td>
-            G. Selvaggio, S. Parolo, Pranami Bora, L. Leonardelli, J. Harrold, Khamir Mehta, D. Rock, L. Marchetti
+            G. Selvaggio, Silvia Parolo, Pranami Bora, L. Leonardelli, J. Harrold, Khamir Mehta, D. Rock, L. Marchetti
           </td>
           <td>2022-03-08</td>
           <td>Frontiers in Oncology</td>
@@ -111,7 +111,7 @@ hide:
           </td>
           <td>2026-04-17</td>
           <td>MedComm</td>
-          <td>0</td>
+          <td>1</td>
           <td>9</td>
         </tr>
     
@@ -147,7 +147,7 @@ hide:
           </td>
           <td>2019-06-03</td>
           <td>Expert Review of Clinical Immunology</td>
-          <td>27</td>
+          <td>28</td>
           <td>95</td>
         </tr>
     
