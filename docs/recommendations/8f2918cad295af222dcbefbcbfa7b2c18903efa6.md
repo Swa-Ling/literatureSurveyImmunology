@@ -11,7 +11,7 @@ hide:
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2026-08-17 09:32:07 UTC</i>
+  <i class="footer">This page was last updated on 2026-08-24 09:37:45 UTC</i>
   </p>
   
   <div class="note info" onclick="startIntro()">
@@ -67,88 +67,100 @@ hide:
           <td>32</td>
         </tr>
     
-        <tr id="Cytokine release syndrome (CRS) is a lethal adverse event in chimeric antigen receptor (CAR) T‐cell therapy, hindering this promising therapy for cancers, such as B‐cell acute lymphoblastic leukemia (B‐ALL). Clinical management of CRS requires a better understanding of its underlying mechanisms. In this study, a computational model of CRS during CAR T‐cell therapy is built to depict how the cellular interactions among CAR T‐cells, B‐ALL cells, and bystander monocytes, as well as the accompanying molecular interactions among various inflammatory cytokines, influence the severity of CRS. The model successfully defines the factors related to severe CRS and studies the effects of immunomodulatory therapy on CRS. The use of the model is also demonstrated as a precision medicine tool to optimize the treatment scheme, including personalized choice of CAR T‐cell products and control of switchable CAR T‐cell activity, for a more efficient and safer immunotherapy. This new computational oncology model can serve as a precision medicine tool to guide the clinical management of CRS during CAR T cell therapy.">
+        <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/87d52b5853e9f8c39186cb00095a3e8113def110" target='_blank'>A Computational Model of Cytokine Release Syndrome during CAR T-cell Therapy</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/cb9b913b8511dcb227bb0f1b1dcb47f0af4f07aa" target='_blank'>Rheumatology</a></td>
           <td>
-            Zhuoyu Zhang, Lunan Liu, Chao Ma, Weiqiang Chen
+            David R Blake
           </td>
-          <td>2022-08-04</td>
-          <td>Advanced therapeutics</td>
-          <td>12</td>
-          <td>22</td>
-        </tr>
-    
-        <tr id="Patient-specific tumor heterogeneity limits the efficacy of conventional T-cell immunotherapies. We report MATCH, a modular split-antibody T-cell engager platform, and COMPASS, a computational framework that predicts individualized multi-specific therapy compositions. COMPASS integrates T-cell counts, tumor burden, and antigen expression (CD19, CD20, CD38) to identify dose combinations that maximize tumor cell killing while preserving T-cell viability. COMPASS accurately predicted effective multi-specific formulations for chronic lymphocytic leukemia patient PBMC samples and successfully predicted compositions to treat a human lymphoma xenograft murine model that led to significantly improved survival. This lab-in-the-loop experimental-computational approach provides a generalizable blueprint for precision T-cell immunotherapy and offers a new paradigm in patient-specific cancer treatment.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/fbd68c242bfd488ffe12483a09bbd89fdb447323" target='_blank'>Computer-guided dosing of multi-specific T-cell engagers.</a></td>
-          <td>
-            Isaac Kendell, R. McShinsky, K. Modzelewska, Lauren C. Naatz, A. Stark, David Bearss, Jeffry Troll, D. Sborov, Shawn C. Owen, M. T. Gambles
-          </td>
-          <td>2026-07-13</td>
-          <td>Communications biology</td>
-          <td>0</td>
-          <td>31</td>
-        </tr>
-    
-        <tr id="None">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/16a53e4f5ccd4166c9cfd1b548ed301889dc9292" target='_blank'>Seeking the ultimate challenge</a></td>
-          <td>
-            P. Brodin
-          </td>
-          <td>2019-05-24</td>
-          <td>Nature Medicine</td>
-          <td>0</td>
-          <td>55</td>
-        </tr>
-    
-        <tr id="Medulloblastoma is the most prevalent malignant brain tumor in children, with current treatments such as surgery, chemotherapy, and radiation often leading to severe neurodevelopmental side effects. To explore safer therapeutic alternatives, this study investigates the feasibility of Bispecific T-cell Engager (BiTE) immunotherapy targeting the B7H3 (CD276) receptor in medulloblastoma. Using an integrated computational pipeline involving UniProt, AlphaFold, P2Rank, HDOCK, PLIP, PRODIGY, and GROMACS, protein structures were modeled, docked, and dynamically simulated to assess molecular interactions between the T-cell receptor (TCR/CD3) and B7H3. Among the tested single-chain variable fragments (scFvs), 9B6T and 9EHL exhibited the strongest binding affinities and interaction stability, with binding energies reaching up to $\mathbf{- 1 5. 0 ~ k c a l} / \mathbf{m o l}$. These results highlight the potential of BiTE constructs as targeted immunotherapies capable of selectively engaging T-cells to medulloblastoma cells while minimizing off-target toxicity. Finally, the AlphaFold-modeled BiTE molecule exhibited strong thermal and structural stability, making it a promising alternative to conventional antibodies. Future in vitro and in vivo validation is required to confirm the predicted efficacy and optimize BiTE stability for clinical translation.">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/f2dc52f294316efd9f0220736b343f59b10c2aab" target='_blank'>Computational modeling of Bispecific T-Cell Engager Targeting B7H3 (CD276) for Immunotherapy in Medulloblastoma</a></td>
-          <td>
-            Monica Gude, Gaurav Sharma
-          </td>
-          <td>2026-06-01</td>
-          <td>2026 IEEE International Conference on AI and Data Analytics (ICAD)</td>
-          <td>0</td>
-          <td>0</td>
-        </tr>
-    
-        <tr id="None">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/a922ce01d2fadcad1bf7cd4bbf91cb8effadd3d4" target='_blank'>Recent advancement in targeted therapy and role of emerging technologies to treat cancer</a></td>
-          <td>
-            Shrikant Barot, Henis J. Patel, Anjali Yadav, I. Ban
-          </td>
-          <td>2023-10-07</td>
-          <td>Medical Oncology</td>
-          <td>19</td>
-          <td>6</td>
-        </tr>
-    
-        <tr id="COPYRIGHT © 2023 Sun, Zhang, Li, Xie, Luo, Wang, Chen, Wang, Jiang and Yang. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms. TYPE Opinion PUBLISHED 31 January 2023 DOI 10.3389/fimmu.2023.1075419">
-          <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/55297e1d6a1eb3e5ad28e222e6484ea9889ddb40" target='_blank'>Integration: Gospel for immune bioinformatician on epitope-based therapy</a></td>
-          <td>
-            Baozeng Sun, Junqi Zhang, Zhikui Li, Mingyang Xie, Cheng Luo, Yongkai Wang, Longyu Chen, Yue-yun Wang, Dongbo Jiang, Kun Yang
-          </td>
-          <td>2023-01-31</td>
-          <td>Frontiers in Immunology</td>
+          <td>1995-01-01</td>
+          <td>Journal of the Royal College of Physicians of London</td>
+          <td>390</td>
           <td>4</td>
-          <td>15</td>
         </tr>
     
-        <tr id="As chimeric antigen receptor (CAR)‐T cell therapy has expanded rapidly to meet the growing global cancer burden; many challenges have emerged as a critical factor influencing its efficacy. However, due to the complicated mechanisms of CAR‐T cells, human interference alone was insufficient to optimize the outcomes. In parallel, artificial intelligence (AI) has begun to intersect with CAR‐T cells, offering novel computational interferences that can refine therapeutic mechanisms. The literature is still lacking a comprehensive investigation that merges CAR‐T cell mechanistic biology and limitations with the advancing abilities of AI to meet these barriers. This review provides an overview of the mechanistic foundations of CAR‐T cell. It also investigates the various challenges facing the current CAR‐T therapies including toxicity, resistance, and accessibility issues. On this basis, we examined the way AI‐based innovations are being utilized to optimize the CAR‐T engineering and clinical management. Finally, we examined clinical studies and case studies incorporating AI elements, emphasizing both therapeutic mechanisms and outcomes of the study. By integrating mechanistic biology with computational innovation, this review provides a unified unique perspective that can guide the development of safer and more effective CAR‐T therapies.">
+        <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
-          <td><a href="https://www.semanticscholar.org/paper/f976cdb89ca18addd535554cc213c4f14f1db62f" target='_blank'>CAR‐T Cells: Current Status, Challenges, and Future Prospects</a></td>
+          <td><a href="https://www.semanticscholar.org/paper/cb9b913b8511dcb227bb0f1b1dcb47f0af4f07aa" target='_blank'>Rheumatology</a></td>
           <td>
-            A. Adly, Guillaume Cartron, A. Adly, J. Egéa, P. Dutilleul, M. Adly, Martín Villalba
+            David R Blake
           </td>
-          <td>2026-04-17</td>
-          <td>MedComm</td>
-          <td>1</td>
-          <td>9</td>
+          <td>1995-01-01</td>
+          <td>Journal of the Royal College of Physicians of London</td>
+          <td>390</td>
+          <td>4</td>
+        </tr>
+    
+        <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/cb9b913b8511dcb227bb0f1b1dcb47f0af4f07aa" target='_blank'>Rheumatology</a></td>
+          <td>
+            David R Blake
+          </td>
+          <td>1995-01-01</td>
+          <td>Journal of the Royal College of Physicians of London</td>
+          <td>390</td>
+          <td>4</td>
+        </tr>
+    
+        <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/cb9b913b8511dcb227bb0f1b1dcb47f0af4f07aa" target='_blank'>Rheumatology</a></td>
+          <td>
+            David R Blake
+          </td>
+          <td>1995-01-01</td>
+          <td>Journal of the Royal College of Physicians of London</td>
+          <td>390</td>
+          <td>4</td>
+        </tr>
+    
+        <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/cb9b913b8511dcb227bb0f1b1dcb47f0af4f07aa" target='_blank'>Rheumatology</a></td>
+          <td>
+            David R Blake
+          </td>
+          <td>1995-01-01</td>
+          <td>Journal of the Royal College of Physicians of London</td>
+          <td>390</td>
+          <td>4</td>
+        </tr>
+    
+        <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/cb9b913b8511dcb227bb0f1b1dcb47f0af4f07aa" target='_blank'>Rheumatology</a></td>
+          <td>
+            David R Blake
+          </td>
+          <td>1995-01-01</td>
+          <td>Journal of the Royal College of Physicians of London</td>
+          <td>390</td>
+          <td>4</td>
+        </tr>
+    
+        <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/cb9b913b8511dcb227bb0f1b1dcb47f0af4f07aa" target='_blank'>Rheumatology</a></td>
+          <td>
+            David R Blake
+          </td>
+          <td>1995-01-01</td>
+          <td>Journal of the Royal College of Physicians of London</td>
+          <td>390</td>
+          <td>4</td>
+        </tr>
+    
+        <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
+          <td id="tag"><i class="material-icons">visibility_off</i></td>
+          <td><a href="https://www.semanticscholar.org/paper/cb9b913b8511dcb227bb0f1b1dcb47f0af4f07aa" target='_blank'>Rheumatology</a></td>
+          <td>
+            David R Blake
+          </td>
+          <td>1995-01-01</td>
+          <td>Journal of the Royal College of Physicians of London</td>
+          <td>390</td>
+          <td>4</td>
         </tr>
     
   </tbody>
