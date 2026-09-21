@@ -11,7 +11,7 @@ hide:
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2026-09-14 15:29:26 UTC</i>
+  <i class="footer">This page was last updated on 2026-09-21 15:30:54 UTC</i>
   </p>
   
   <div class="note info" onclick="startIntro()">
@@ -47,7 +47,7 @@ hide:
           <td id="tag"><i class="material-icons">visibility_off</i></td>
           <td><a href="https://www.semanticscholar.org/paper/6a4287b3c6b52151d5e4f46d99cc677e2a442685" target='_blank'>A computationally designed Rituximab/CD3 T cell engager targeting CD20+ cancers with multiple mechanisms of action</a></td>
           <td>
-            , Jianbo Dong, Sachith Gallolu Kankanamalage, Allison Titong, Jia-Dong Shi, Zhejun Jia, Bo Wang, Cai Huang, Jing Zhang, Jun Lin, Steven Z. Kan, Joe Q. Zhou, Yue Liu
+            Wenyan Cai, Jianbo Dong, Sachith Gallolu Kankanamalage, Allison Titong, Jia-Dong Shi, Zhejun Jia, Bo Wang, Cai Huang, Jing Zhang, Jun Lin, Steven Z. Kan, Joe Q. Zhou, Yue Liu
           </td>
           <td>2021-03-17</td>
           <td></td>
@@ -71,96 +71,96 @@ hide:
           <td id="tag"><i class="material-icons">visibility_off</i></td>
           <td><a href="https://www.semanticscholar.org/paper/cb9b913b8511dcb227bb0f1b1dcb47f0af4f07aa" target='_blank'>Rheumatology</a></td>
           <td>
-            , E. Freeman, Leslie Bagay, A. Doss, David P. Brown
+            Thomas R. Nucatola, E. Freeman, Leslie Bagay, A. Doss, David P. Brown
           </td>
           <td>1995-01-01</td>
           <td>Journal of the Royal College of Physicians of London</td>
-          <td>400</td>
-          <td>5</td>
+          <td>402</td>
+          <td>7</td>
         </tr>
     
         <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
           <td><a href="https://www.semanticscholar.org/paper/cb9b913b8511dcb227bb0f1b1dcb47f0af4f07aa" target='_blank'>Rheumatology</a></td>
           <td>
-            , E. Freeman, Leslie Bagay, A. Doss, David P. Brown
+            Thomas R. Nucatola, E. Freeman, Leslie Bagay, A. Doss, David P. Brown
           </td>
           <td>1995-01-01</td>
           <td>Journal of the Royal College of Physicians of London</td>
-          <td>400</td>
-          <td>5</td>
+          <td>402</td>
+          <td>7</td>
         </tr>
     
         <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
           <td><a href="https://www.semanticscholar.org/paper/cb9b913b8511dcb227bb0f1b1dcb47f0af4f07aa" target='_blank'>Rheumatology</a></td>
           <td>
-            , E. Freeman, Leslie Bagay, A. Doss, David P. Brown
+            Thomas R. Nucatola, E. Freeman, Leslie Bagay, A. Doss, David P. Brown
           </td>
           <td>1995-01-01</td>
           <td>Journal of the Royal College of Physicians of London</td>
-          <td>400</td>
-          <td>5</td>
+          <td>402</td>
+          <td>7</td>
         </tr>
     
         <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
           <td><a href="https://www.semanticscholar.org/paper/cb9b913b8511dcb227bb0f1b1dcb47f0af4f07aa" target='_blank'>Rheumatology</a></td>
           <td>
-            , E. Freeman, Leslie Bagay, A. Doss, David P. Brown
+            Thomas R. Nucatola, E. Freeman, Leslie Bagay, A. Doss, David P. Brown
           </td>
           <td>1995-01-01</td>
           <td>Journal of the Royal College of Physicians of London</td>
-          <td>400</td>
-          <td>5</td>
+          <td>402</td>
+          <td>7</td>
         </tr>
     
         <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
           <td><a href="https://www.semanticscholar.org/paper/cb9b913b8511dcb227bb0f1b1dcb47f0af4f07aa" target='_blank'>Rheumatology</a></td>
           <td>
-            , E. Freeman, Leslie Bagay, A. Doss, David P. Brown
+            Thomas R. Nucatola, E. Freeman, Leslie Bagay, A. Doss, David P. Brown
           </td>
           <td>1995-01-01</td>
           <td>Journal of the Royal College of Physicians of London</td>
-          <td>400</td>
-          <td>5</td>
+          <td>402</td>
+          <td>7</td>
         </tr>
     
         <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
           <td><a href="https://www.semanticscholar.org/paper/cb9b913b8511dcb227bb0f1b1dcb47f0af4f07aa" target='_blank'>Rheumatology</a></td>
           <td>
-            , E. Freeman, Leslie Bagay, A. Doss, David P. Brown
+            Thomas R. Nucatola, E. Freeman, Leslie Bagay, A. Doss, David P. Brown
           </td>
           <td>1995-01-01</td>
           <td>Journal of the Royal College of Physicians of London</td>
-          <td>400</td>
-          <td>5</td>
+          <td>402</td>
+          <td>7</td>
         </tr>
     
         <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
           <td><a href="https://www.semanticscholar.org/paper/cb9b913b8511dcb227bb0f1b1dcb47f0af4f07aa" target='_blank'>Rheumatology</a></td>
           <td>
-            , E. Freeman, Leslie Bagay, A. Doss, David P. Brown
+            Thomas R. Nucatola, E. Freeman, Leslie Bagay, A. Doss, David P. Brown
           </td>
           <td>1995-01-01</td>
           <td>Journal of the Royal College of Physicians of London</td>
-          <td>400</td>
-          <td>5</td>
+          <td>402</td>
+          <td>7</td>
         </tr>
     
         <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
           <td id="tag"><i class="material-icons">visibility_off</i></td>
           <td><a href="https://www.semanticscholar.org/paper/cb9b913b8511dcb227bb0f1b1dcb47f0af4f07aa" target='_blank'>Rheumatology</a></td>
           <td>
-            , E. Freeman, Leslie Bagay, A. Doss, David P. Brown
+            Thomas R. Nucatola, E. Freeman, Leslie Bagay, A. Doss, David P. Brown
           </td>
           <td>1995-01-01</td>
           <td>Journal of the Royal College of Physicians of London</td>
-          <td>400</td>
-          <td>5</td>
+          <td>402</td>
+          <td>7</td>
         </tr>
     
   </tbody>
