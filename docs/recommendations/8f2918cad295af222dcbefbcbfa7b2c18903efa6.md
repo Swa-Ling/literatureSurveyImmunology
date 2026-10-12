@@ -11,7 +11,7 @@ hide:
 
 <body>
   <p>
-  <i class="footer">This page was last updated on 2026-10-05 17:36:58 UTC</i>
+  <i class="footer">This page was last updated on 2026-10-12 18:23:49 UTC</i>
   </p>
   
   <div class="note info" onclick="startIntro()">
@@ -75,8 +75,8 @@ hide:
           </td>
           <td>2001-04-01</td>
           <td>Archives of Disease in Childhood</td>
-          <td>406</td>
-          <td>9</td>
+          <td>402</td>
+          <td>10</td>
         </tr>
     
         <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
@@ -87,8 +87,8 @@ hide:
           </td>
           <td>2001-04-01</td>
           <td>Archives of Disease in Childhood</td>
-          <td>406</td>
-          <td>9</td>
+          <td>402</td>
+          <td>10</td>
         </tr>
     
         <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
@@ -99,8 +99,8 @@ hide:
           </td>
           <td>2001-04-01</td>
           <td>Archives of Disease in Childhood</td>
-          <td>406</td>
-          <td>9</td>
+          <td>402</td>
+          <td>10</td>
         </tr>
     
         <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
@@ -111,8 +111,8 @@ hide:
           </td>
           <td>2001-04-01</td>
           <td>Archives of Disease in Childhood</td>
-          <td>406</td>
-          <td>9</td>
+          <td>402</td>
+          <td>10</td>
         </tr>
     
         <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
@@ -123,8 +123,8 @@ hide:
           </td>
           <td>2001-04-01</td>
           <td>Archives of Disease in Childhood</td>
-          <td>406</td>
-          <td>9</td>
+          <td>402</td>
+          <td>10</td>
         </tr>
     
         <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
@@ -135,8 +135,8 @@ hide:
           </td>
           <td>2001-04-01</td>
           <td>Archives of Disease in Childhood</td>
-          <td>406</td>
-          <td>9</td>
+          <td>402</td>
+          <td>10</td>
         </tr>
     
         <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
@@ -147,8 +147,8 @@ hide:
           </td>
           <td>2001-04-01</td>
           <td>Archives of Disease in Childhood</td>
-          <td>406</td>
-          <td>9</td>
+          <td>402</td>
+          <td>10</td>
         </tr>
     
         <tr id="Presentation to paediatric rheumatology and orthopaedic services often overlap since both services assess conditions that present with musculoskeletal pain. By far, the majority of these conditions are diagnosed by a good history and examination and most are benign. A knowledge of benign conditions is essential for effective reassurance and to help distinguish them from conditions that should not be missed or that lead to progressive damage and disability. Presentations to orthopaedics include variation in limb position and limb deformity, and those to rheumatology include persistent fever and rash, unexplained high inflammatory markers, such as erythrocyte sedimentation rate, and fatigue. There is also overlap with conditions presenting to neurology, including gait disturbance and weakness, as well as multisystem involvement as the very nature of some inflammatory conditions.">
@@ -159,8 +159,8 @@ hide:
           </td>
           <td>2001-04-01</td>
           <td>Archives of Disease in Childhood</td>
-          <td>406</td>
-          <td>9</td>
+          <td>402</td>
+          <td>10</td>
         </tr>
     
   </tbody>
